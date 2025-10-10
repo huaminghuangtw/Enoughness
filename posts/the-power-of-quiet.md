@@ -4,7 +4,7 @@ canonicalURL: https://adaptx.tw/2025/10/10/the-power-of-quiet
 issue: 1
 created: 2025-10-10T14:35:33
 modified: 2025-10-10T14:56:25
-draft: true
+draft: false
 featured: false
 tags:
   - /Enoughness/如何建立長期人際關係
