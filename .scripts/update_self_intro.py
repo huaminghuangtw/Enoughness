@@ -20,7 +20,7 @@ def update_post_file(post_file, self_intro):
     content = post_file.read_text(encoding="utf-8")
     new_content = re.sub(
         rf"{START_TAG}[\s\S]*?{END_TAG}",
-        f"{START_TAG}{self_intro}{END_TAG}",
+        f"{START_TAG}\n{self_intro}\n{END_TAG}",
         content,
     )
     post_file.write_text(new_content, encoding="utf-8")
