@@ -16,14 +16,14 @@ def extract_self_intro():
     return m.group(1).strip()
 
 
-def update_post_file(post_path, self_intro):
-    content = post_path.read_text(encoding="utf-8")
+def update_post_file(post_file, self_intro):
+    content = post_file.read_text(encoding="utf-8")
     new_content = re.sub(
         rf"{START_TAG}[\s\S]*?{END_TAG}",
-        f"{START_TAG}\n{self_intro}\n{END_TAG}",
+        f"{START_TAG}{self_intro}{END_TAG}",
         content,
     )
-    post_path.write_text(new_content, encoding="utf-8")
+    post_file.write_text(new_content, encoding="utf-8")
 
 def main():
     self_intro = extract_self_intro()
