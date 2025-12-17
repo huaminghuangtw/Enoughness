@@ -1,9 +1,9 @@
 import re
 from pathlib import Path
 
-TEMPLATE_PATH = Path("/Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain/Templates/T_Enoughness.md")
-
-POSTS_DIR = Path(__file__).parent.parent / "posts"
+BASE_DIR = Path("/Users/huaminghuang/Library/Mobile Documents/iCloud~md~obsidian/Documents/Second-Brain")
+TEMPLATE_PATH = BASE_DIR / "Templates/T_Enoughness.md"
+POSTS_DIR = BASE_DIR / "Enoughness/posts"
 
 START_TAG = "<!-- SELF-INTRO-START -->"
 END_TAG = "<!-- SELF-INTRO-END -->"
