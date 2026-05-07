@@ -1,11 +1,10 @@
 ---
 title: TED×Taipei 2025 年會、自愛 ≠ 自私、水煮蛋的啟示
 created: 2025-11-14
-modified: 2026-05-05
+modified: 2026-05-07
 canonicalPath: 2025/11/14/enoughness-5
 draft: false
 issue: 5
-slug: enoughness-5
 ---
 
 <!-- SELF-INTRO-START -->

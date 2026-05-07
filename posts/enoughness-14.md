@@ -1,10 +1,9 @@
 ---
 title: 現在是現在、木漏れ日、快樂是一種選擇
 created: 2026-01-16
-modified: 2026-05-02
+modified: 2026-05-07
 canonicalPath: 2026/1/16/enoughness-14
 issue: 14
-slug: enoughness-14
 ---
 
 <!-- SELF-INTRO-START -->

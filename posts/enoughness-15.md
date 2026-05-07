@@ -1,10 +1,9 @@
 ---
 title: 給身體的一封信、當自己的觀察員、知足是你的秘密武器
 created: 2026-01-23
-modified: 2026-05-05
+modified: 2026-05-07
 canonicalPath: 2026/1/23/enoughness-15
 issue: 15
-slug: enoughness-15
 ---
 
 <!-- SELF-INTRO-START -->

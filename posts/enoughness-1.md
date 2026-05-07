@@ -1,11 +1,10 @@
 ---
 title: Misogi 儀式、留白才能成就精彩
 created: 2025-10-17
-modified: 2026-05-05
+modified: 2026-05-07
 canonicalPath: 2025/10/17/enoughness-1
 draft: false
 issue: 1
-slug: enoughness-1
 ---
 
 <!-- SELF-INTRO-START -->

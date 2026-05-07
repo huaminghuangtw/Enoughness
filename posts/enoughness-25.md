@@ -1,10 +1,9 @@
 ---
 title: 買進然後忘記、40% 法則、一日之計在昨夜
 created: 2026-04-03
-modified: 2026-05-05
+modified: 2026-05-07
 canonicalPath: 2026/4/3/enoughness-25
 issue: 25
-slug: enoughness-25
 ---
 
 <!-- SELF-INTRO-START -->

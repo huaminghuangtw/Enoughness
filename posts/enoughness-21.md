@@ -1,10 +1,9 @@
 ---
 title: 吃個味道就好、微互動的力量、簡單生活
 created: 2026-03-06
-modified: 2026-04-29
+modified: 2026-05-07
 canonicalPath: 2026/3/6/enoughness-21
 issue: 21
-slug: enoughness-21
 ---
 
 <!-- SELF-INTRO-START -->

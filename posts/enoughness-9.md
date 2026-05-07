@@ -1,11 +1,10 @@
 ---
 title: 和過去的自己說再見、故宮南院馬拉松、讓慾望安靜
 created: 2025-12-12
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2025/12/12/enoughness-9
 draft: false
 issue: 9
-slug: enoughness-9
 ---
 
 <!-- SELF-INTRO-START -->

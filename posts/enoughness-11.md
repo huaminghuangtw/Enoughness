@@ -1,10 +1,9 @@
 ---
 title: 晚安，地球、不完美中的完美、讓生活繞著睡眠旋轉
 created: 2025-12-26
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2025/12/26/enoughness-11
 issue: 11
-slug: enoughness-11
 ---
 
 <!-- SELF-INTRO-START -->

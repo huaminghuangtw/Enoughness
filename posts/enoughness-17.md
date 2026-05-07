@@ -1,10 +1,9 @@
 ---
 title: 單字卡習慣養成法、專注力 > 時間、池塘裡溺水的孩子
 created: 2026-02-06
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2026/2/6/enoughness-17
 issue: 17
-slug: enoughness-17
 ---
 
 <!-- SELF-INTRO-START -->

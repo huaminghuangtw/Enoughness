@@ -1,11 +1,10 @@
 ---
 title: 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2025/11/28/enoughness-7
 draft: false
 issue: 7
-slug: enoughness-7
 ---
 
 <!-- SELF-INTRO-START -->

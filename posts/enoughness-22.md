@@ -1,10 +1,9 @@
 ---
 title: 空白的一秒鐘、免費健腦法、不要失去感覺的能力
 created: 2026-03-13
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2026/3/13/enoughness-22
 issue: 22
-slug: enoughness-22
 ---
 
 <!-- SELF-INTRO-START -->

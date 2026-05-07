@@ -1,10 +1,9 @@
 ---
 title: 許文龍幸福學、這個世界不是非黑即白、拋開對事物的評價
 created: 2026-02-20
-modified: 2026-04-30
+modified: 2026-05-07
 canonicalPath: 2026/2/20/enoughness-19
 issue: 19
-slug: enoughness-19
 ---
 
 <!-- SELF-INTRO-START -->
