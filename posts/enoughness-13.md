@@ -1,5 +1,5 @@
 ---
-title: Kevin Kelly、九十年學到的九件事、2025 年最棒的習慣
+title: ⚖️ Kevin Kelly、九十年學到的九件事、2025 年最棒的習慣
 created: 2026-01-09
 modified: 2026-05-07
 canonicalPath: 2026/1/9/enoughness-13

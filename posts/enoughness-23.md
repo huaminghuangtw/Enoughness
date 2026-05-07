@@ -1,5 +1,5 @@
 ---
-title: 大腦外包、虎度門、大格局大思維
+title: ⚖️ 大腦外包、虎度門、大格局大思維
 created: 2026-03-20
 modified: 2026-05-07
 canonicalPath: 2026/3/20/enoughness-23

@@ -1,5 +1,5 @@
 ---
-title: 人肉電池、手機成癮、沒有數位焦慮的世界
+title: ⚖️ 人肉電池、手機成癮、沒有數位焦慮的世界
 created: 2026-04-10
 modified: 2026-05-07
 canonicalPath: 2026/4/10/enoughness-26

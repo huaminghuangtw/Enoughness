@@ -1,5 +1,5 @@
 ---
-title: 晚安，地球、不完美中的完美、讓生活繞著睡眠旋轉
+title: ⚖️ 晚安，地球、不完美中的完美、讓生活繞著睡眠旋轉
 created: 2025-12-26
 modified: 2026-05-07
 canonicalPath: 2025/12/26/enoughness-11

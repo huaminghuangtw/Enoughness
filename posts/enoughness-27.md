@@ -1,5 +1,5 @@
 ---
-title: 當維尼，不要當兔子、預設模式網路、守護你的玫瑰
+title: ⚖️ 當維尼，不要當兔子、預設模式網路、守護你的玫瑰
 created: 2026-04-17
 modified: 2026-05-07
 canonicalPath: 2026/4/17/enoughness-27

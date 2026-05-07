@@ -1,5 +1,5 @@
 ---
-title: 世界上最有價值的房地產、人生五大後悔、最深的恐懼
+title: ⚖️ 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
 modified: 2026-05-07
 canonicalPath: 2025/10/31/enoughness-3

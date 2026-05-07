@@ -1,5 +1,5 @@
 ---
-title: 如何改變世界、失敗博物館、給自己的一份禮物
+title: ⚖️ 如何改變世界、失敗博物館、給自己的一份禮物
 created: 2025-11-07
 modified: 2026-05-07
 canonicalPath: 2025/11/7/enoughness-4

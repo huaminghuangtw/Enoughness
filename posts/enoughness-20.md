@@ -1,5 +1,5 @@
 ---
-title: 不因事小而不為、做你不敢做的事、休息時也要盡全力
+title: ⚖️ 不因事小而不為、做你不敢做的事、休息時也要盡全力
 created: 2026-02-27
 modified: 2026-05-07
 canonicalPath: 2026/2/27/enoughness-20
