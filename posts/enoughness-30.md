@@ -1,8 +1,8 @@
 ---
-title: ⚖️ __temp__2026-05-07-13-30-30
+title: ⚖️ __temp__2026-05-07-13-43-09
 created: 2026-05-08
 modified: 2026-05-07
-canonicalPath: 2026-05-07/enoughness-30
+canonicalPath: 2026/5/8/enoughness-30
 draft: true
 issue: 30
 ---
@@ -21,7 +21,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 3
 
-— [樺明](https://huam.ing/2026-05-07/enoughness-30)
+— [樺明](https://huam.ing/2026/5/8/enoughness-30)
 
 ---
 
