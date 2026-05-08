@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 大腦饕客、投資報酬率驚人的微運動、瑞典人的幸福密碼
 created: 2025-10-24
-modified: 2026-05-07
+modified: 2026-05-08
 canonicalPath: 2025/10/24/enoughness-2
 draft: false
 issue: 2
@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 這些內容相當於 [卡片盒筆記法（The Zettelkasten Method）](https://www.books.com.tw/products/0010922143) 中的「文獻筆記」（Literature Notes）— 用來提煉與內化知識精華。
 
-歡迎 [訂閱 RSS](https://huam.ing/rss/brainfoodie.xml)，一起養成終身學習的習慣！
+歡迎 [訂閱 RSS](https://huam.ing/brainfoodie.xml)，一起養成終身學習的習慣！
 
 # 2
 
