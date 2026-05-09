@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 沒事多睡覺、森林攝影師、在樹下待一下
 created: 2026-02-13
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 18
-quote: "\"Nature never deceives us; it is we who deceive ourselves.\" — Jean-Jacques Rousseau"
+quote: “Nature never deceives us; it is we who deceive ourselves.” — Jean-Jacques Rousseau
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

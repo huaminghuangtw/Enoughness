@@ -4,6 +4,7 @@ created: 2025-11-07
 modified: 2026-05-10
 issue: 4
 quote: “Being realistic is the most common path to mediocrity.” — Will Smith
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

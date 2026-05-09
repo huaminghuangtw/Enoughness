@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 晚安，地球、不完美中的完美、讓生活繞著睡眠旋轉
 created: 2025-12-26
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 11
-quote: "\"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba"
+quote: “The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

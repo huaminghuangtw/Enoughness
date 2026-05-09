@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 7
 quote: “To be great is to be misunderstood.” — Ralph Waldo Emerson
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

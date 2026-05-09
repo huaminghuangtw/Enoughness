@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘密武器
 created: 2026-01-23
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 15
 quote: “The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

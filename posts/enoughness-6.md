@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 我的「運動點心」系統、預設說「不」、回家讓花開
 created: 2025-11-21
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 6
 quote: “Take care of the minutes; the hours will take care of themselves.” — Philip Dormer Stanhope
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

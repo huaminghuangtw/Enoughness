@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 大腦外包、虎度門、大格局大思維
 created: 2026-03-20
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 23
 quote: “Some men see things as they are and ask why. Others dream things that never were and ask why not.” — George Bernard Shaw
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

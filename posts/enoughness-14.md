@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 現在是現在、木漏れ日、快樂是一種選擇
 created: 2026-01-16
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 14
 quote: “People sometimes fail to live because they are always preparing to live.” — Alan Watts
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

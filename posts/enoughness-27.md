@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 當維尼，不要當兔子、預設模式網路、守護你的玫瑰
 created: 2026-04-17
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 27
 quote: “One sees clearly only with the heart. Anything essential is invisible to the eyes.” — Antoine de Saint-Exupéry, The Little Prince
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

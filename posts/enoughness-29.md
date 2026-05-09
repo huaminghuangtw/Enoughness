@@ -1,9 +1,10 @@
 ---
 title: ⚖️ 小便斗裡的蒼蠅、大腦如何解碼視覺資訊、設計 Salience
 created: 2026-05-01
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 29
 quote: “Nobody counts the number of ads you run; they just remember the impression you make.” — Bill Bernbach
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->

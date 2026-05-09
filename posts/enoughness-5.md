@@ -1,9 +1,10 @@
 ---
 title: ⚖️ TED×Taipei 2025 年會、自愛 ≠ 自私、水煮蛋的啟示
 created: 2025-11-14
-modified: 2026-05-07
+modified: 2026-05-10
 issue: 5
 quote: “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal
+tags: []
 ---
 
 <!-- SELF-INTRO-START -->
