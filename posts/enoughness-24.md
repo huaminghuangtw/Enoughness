@@ -2,7 +2,6 @@
 title: ⚖️ 奇異果的皮可以吃、不要擔心，要關心、先當學生，再當運動員
 created: 2026-03-27
 modified: 2026-05-07
-canonicalPath: 2026/3/27/enoughness-24
 issue: 24
 quote: “Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein
 ---

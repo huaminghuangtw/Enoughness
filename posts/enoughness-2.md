@@ -2,8 +2,6 @@
 title: ⚖️ 大腦饕客、投資報酬率驚人的微運動、瑞典人的幸福密碼
 created: 2025-10-24
 modified: 2026-05-08
-canonicalPath: 2025/10/24/enoughness-2
-draft: false
 issue: 2
 quote: “Soon is not as good as now.” — Seth Godin
 ---

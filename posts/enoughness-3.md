@@ -2,8 +2,6 @@
 title: ⚖️ 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
 modified: 2026-05-10
-canonicalPath: 2025/10/31/enoughness-3
-draft: false
 issue: 3
 quote: “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
 ---

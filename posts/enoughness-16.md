@@ -2,7 +2,6 @@
 title: ⚖️ 錢買不到的東西、每個人都活在自己的時區、分心筆記本
 created: 2026-01-30
 modified: 2026-05-07
-canonicalPath: 2026/1/30/enoughness-16
 issue: 16
 quote: “Focus is about saying no.” — Steve Jobs
 ---

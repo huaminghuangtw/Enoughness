@@ -2,8 +2,6 @@
 title: ⚖️ Misogi 儀式、留白才能成就精彩
 created: 2025-10-17
 modified: 2026-05-07
-canonicalPath: 2025/10/17/enoughness-1
-draft: false
 issue: 1
 quote: “Be who you were created to be, and you will set the world on fire.” — St. Catherine of Siena
 ---

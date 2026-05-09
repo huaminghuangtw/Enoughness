@@ -2,7 +2,6 @@
 title: ⚖️ 單字卡習慣養成法、專注力 > 時間、池塘裡溺水的孩子
 created: 2026-02-06
 modified: 2026-05-07
-canonicalPath: 2026/2/6/enoughness-17
 issue: 17
 quote: “I want to live my life in such a way that when I get out of bed in the morning, the devil says, ‘aw shit, he’s up!’” — Steve Maraboli, Unapologetically You: Reflections on Life and the Human Experience
 ---

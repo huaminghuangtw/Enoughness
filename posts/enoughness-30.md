@@ -2,7 +2,6 @@
 title: ⚖️ __temp__2026-05-07-13-43-09
 created: 2026-05-08
 modified: 2026-05-07
-canonicalPath: 2026/5/8/enoughness-30
 draft: true
 issue: 30
 ---
