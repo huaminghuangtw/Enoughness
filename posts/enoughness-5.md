@@ -23,13 +23,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 於是，在 11/1 這天，我抱著開放、好奇的心態，走進松山文創園區四號倉庫，向大師們學習：如何用 18 分鐘，把一個故事說好。
 
-👉 完整心得：《[什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個答案](https://huam.ing/2025/11/12/ted-taipei-2025/)》
+👉 完整心得：《[什麼是更好的活著？我在 TED×Taipei 2025 年會得到的五個答案](https://huam.ing/ted-taipei-2025/)》
 
 # 2
 
 ![](https://images.unsplash.com/photo-1444312645910-ffa973656eba?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
-[健康](https://huam.ing/2025/12/26/enoughness-11/#3) 是人生的「1」，名利與成就是後面的「0」。少了這個「1」，再多的「0」也是空數字。
+[健康](enoughness-11.md#3) 是人生的「1」，名利與成就是後面的「0」。少了這個「1」，再多的「0」也是空數字。
 
 健康的人有一千個願望，不健康的人只有一個願望。
 
@@ -135,9 +135,9 @@ P.S. [沖冷水、泡冰浴的後座力更是強大！](https://www.instagram.co
 
 ## 創作
 
-無論是寫作、畫畫還是攝影，起初難免有些生硬；隨著 [獨處時間](https://huam.ing/2025/10/14/who-do-we-spend-time-with-across-our-lifetime/) 與經驗累積，個人風格逐漸成形，更容易進入「[心流](https://www.google.com/search?q=心流)（Flow State）」狀態，讓創作成為一種「自我表達」，對於「我是誰」的宣示。
+無論是寫作、畫畫還是攝影，起初難免有些生硬；隨著 [獨處時間](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime/) 與經驗累積，個人風格逐漸成形，更容易進入「[心流](https://www.google.com/search?q=心流)（Flow State）」狀態，讓創作成為一種「自我表達」，對於「我是誰」的宣示。
 
-— [樺明](https://huam.ing/2025/11/14/enoughness-5)
+— 樺明
 
 ---
 

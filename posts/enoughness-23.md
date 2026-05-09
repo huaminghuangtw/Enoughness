@@ -126,7 +126,7 @@ Think big. Dream big.
 
 ![](_attachments/fbb14ccb28991a710e29af7c1e78c4c1.jpg)
 
-— [樺明](https://huam.ing/2026/3/20/enoughness-23)
+— 樺明
 
 ---
 

@@ -48,7 +48,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 擔心，是最無用的事情處理方式。
 
-**[不要「擔心」，要「關心」。](https://huam.ing/2025/10/10/the-power-of-quiet)**
+**[不要「擔心」，要「關心」。](https://huam.ing/the-power-of-quiet)**
 
 ![](_attachments/4724290f121e5745e7429f9aae5dc0fe.png)
 
@@ -98,7 +98,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 如果你不喜歡教科書裡那些生硬的知識，也沒關係，我能理解。但請至少答應我，**用生命守護那顆童年旺盛的好奇心，這是身為一名 [學生運動員的責任](https://www.facebook.com/jeff.hsu.20070611/posts/pfbid02ULfT8javuTaBwYwUvxLG5Vt8BMwzoNkvFgdfHL38LF9z2PymC9efjktYAgsqSa2il)**。
 
-— [樺明](https://huam.ing/2026/3/27/enoughness-24)
+— 樺明
 
 ---
 

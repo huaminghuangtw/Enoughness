@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 如何改變世界、失敗博物館、給自己的一份禮物
 created: 2025-11-07
-modified: 2026-05-07
+modified: 2026-05-10
 canonicalPath: 2025/11/7/enoughness-4
 draft: false
 issue: 4
@@ -37,7 +37,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 2
 
-[上一期](https://huam.ing/2025/10/31/enoughness-3/#2) 提到，人在臨終前，通常都是後悔那些沒做的事或沒說的話。
+[上一期](enoughness-3.md#2) 提到，人在臨終前，通常都是後悔那些沒做的事或沒說的話。
 
 而我們之所以不敢行動，往往出自於對「失敗」的恐懼。
 
@@ -84,7 +84,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 這是隨時都能送給自己的小禮物！
 
-— [樺明](https://huam.ing/2025/11/7/enoughness-4)
+— 樺明
 
 ---
 

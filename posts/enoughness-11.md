@@ -30,7 +30,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 人世間的紛爭與煩惱，放在這樣的時間尺度下，顯得格外渺小。
 
-在人生這趟旅程中，我們不過是來旅行的；[沒有任何事物能永久停留](https://huam.ing/2025/12/11/goodbye-past-me)，一切終將煙消雲散，不會有任何聲響。
+在人生這趟旅程中，我們不過是來旅行的；[沒有任何事物能永久停留](https://huam.ing/goodbye-past-me)，一切終將煙消雲散，不會有任何聲響。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg "圖片來源：Wikipedia")
 
@@ -50,7 +50,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 **我終於能夠跟自己和解，找回那個「自律但不焦慮」的工作節奏。**
 
-👉 如果你也正處於高壓狀態，或被忙碌所困，推薦你閱讀這篇文章：_[Why I Watch the Earth Spin Every Night Before Bed](https://huam.ing/2025/12/24/why-i-watch-the-earth-spin-every-night-before-bed/)_
+👉 如果你也正處於高壓狀態，或被忙碌所困，推薦你閱讀這篇文章：_[Why I Watch the Earth Spin Every Night Before Bed](https://huam.ing/why-i-watch-the-earth-spin-every-night-before-bed/)_
 
 # 2
 
@@ -87,7 +87,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 在 [這支 YouTube 影片](https://youtu.be/Wk9p3dhMYdk) 中，他分享了十個改善睡眠的習慣：
 
 1. **重新定義自我身分認同**：把自己當作「職業睡眠運動員」（Professional Sleep Athlete）。睡眠不是休息，而是工作；睡眠是行事曆上最重要的行程。將睡眠視為影響生理與心理表現的第一優先；所有活動（工作、飲食、社交）都應該以「睡眠」為中心來規劃，而非犧牲睡眠來成就其他事情。
-2. **建立 30–60 分鐘的「睡前儀式」（Wind-Down）**：大腦需要緩衝才能從「工作模式」切換到「睡眠模式」，透過閱讀、[熱水澡](https://huam.ing/2026/3/13/enoughness-22/#3)、呼吸練習或聆聽古典音樂，引導大腦進入關機程序。
+2. **建立 30–60 分鐘的「睡前儀式」（Wind-Down）**：大腦需要緩衝才能從「工作模式」切換到「睡眠模式」，透過閱讀、[熱水澡](enoughness-22.md#3)、呼吸練習或聆聽古典音樂，引導大腦進入關機程序。
 3. **早晨曬太陽**：醒來後 15–30 分鐘內接觸自然光，是調校生理時鐘（晝夜節律）最有效的方式。這道晨光就像是在宣告「新的一天開始了！」，也有助於夜晚褪黑激素的正常分泌。
 4. **嚴格控管夜間光線**：睡前 1–2 小時調暗室內頭頂燈光，改用暖色（紅光尤佳）。安裝藍光過濾軟體（如 [f.lux](https://justgetflux.com/)），並降低螢幕時間。
 5. **調整臥室溫度**：涼爽的環境最適合深度睡眠。建議室溫保持在 15–19°C，並搭配透氣床單。
@@ -106,15 +106,15 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 9. **避免外界刺激物**：[咖啡因在體內的半衰期長達 6 小時](https://www.google.com/search?q=咖啡因+半衰期)，中午後攝取的咖啡因會殘留在體內，干擾深度睡眠。同樣地，酒精也會破壞睡眠結構，應盡全力避開。可選擇有助於放鬆舒壓的「草本茶」（Herbal Tea）。
 10. **數據追蹤**：利用日誌或穿戴裝置（如 [Oura Ring](https://ouraring.com/) 戒指或 [Whoop](https://whoop.com/) 手環）記錄自己的睡眠數據。根據數據反映出的結果，持續優化上述習慣，找出最適合自己的每日流程。
 
-	> 我自己則習慣在床邊放 [一張紙和一支筆](https://huam.ing/2025/10/24/enoughness-2/#3)，每天手寫記錄上、下床時間。雖然方法很老派，卻簡單實用，也讓我更有意識地關注自己的睡眠。
+	> 我自己則習慣在床邊放 [一張紙和一支筆](enoughness-2.md#3)，每天手寫記錄上、下床時間。雖然方法很老派，卻簡單實用，也讓我更有意識地關注自己的睡眠。
 
 ---
 
-睡眠，是 [長壽](https://huam.ing/2025/11/28/enoughness-7/#2) 與高效生活的基石。
+睡眠，是 [長壽](enoughness-7.md#2) 與高效生活的基石。
 
 如果只能做一件對健康最有益的事，那就是好好睡覺。
 
-自從我把睡覺視為「不可妥協」（Non-negotiable）的頭號任務，每天預留時間給神聖的 [睡前儀式](https://huam.ing/2026/4/3/enoughness-25/#3) 後，睡眠品質獲得明顯提升。
+自從我把睡覺視為「不可妥協」（Non-negotiable）的頭號任務，每天預留時間給神聖的 [睡前儀式](enoughness-25.md#3) 後，睡眠品質獲得明顯提升。
 
 **早睡早起，日出（前）而作，日落而息，成為我一天中最重要的事情。**
 
@@ -124,7 +124,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 >
 > Consistent, high quality sleep is your #1 life priority.
 
-— [樺明](https://huam.ing/2025/12/26/enoughness-11)
+— 樺明
 
 ---
 

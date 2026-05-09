@@ -30,7 +30,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 短睡＝短命。不要再用「習慣了」來合理化睡眠不足，因為大腦的損耗是長期累積且無法自我察覺的。
 
-如果想讓自己更快樂、更有生產力、過上更好的生活，最值得率先優化的，就是 [睡眠](https://huam.ing/2025/12/26/enoughness-11/#3)。
+如果想讓自己更快樂、更有生產力、過上更好的生活，最值得率先優化的，就是 [睡眠](enoughness-11.md#3)。
 
 # 2
 
@@ -44,15 +44,15 @@ Rob 的作品有細膩的 [光影變化](https://robvisserphotography.nl/raysofl
 
 # 3
 
-[森林浴（shinrin-yoku）](https://sketchplanations.com/forest-bathing) 來自日本，強調只要靜靜地待在森林裡，[什麼都不做](https://huam.ing/2026/4/17/enoughness-27/#2)，就能療癒身心。
+[森林浴（shinrin-yoku）](https://sketchplanations.com/forest-bathing) 來自日本，強調只要靜靜地待在森林裡，[什麼都不做](enoughness-27.md#2)，就能療癒身心。
 
 ![](https://images.unsplash.com/photo-1507041957456-9c397ce39c97?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
-[小熊維尼](https://huam.ing/2026/1/2/enoughness-12/#3) 最愛在百畝森林裡漫無目的的散步（[wander](https://www.google.com/search?q=wander)）。
+[小熊維尼](enoughness-12.md#3) 最愛在百畝森林裡漫無目的的散步（[wander](https://www.google.com/search?q=wander)）。
 
 維尼說，這時候最重要的，就是「留意」— 灑落的陽光、柔軟的苔蘚、空氣裡的香氣，還有那清爽怡人的秋日微風。
 
-他會 [把感官全部打開](https://huam.ing/2026/3/13/enoughness-22/#3)，用開放的心胸接收此時此地的一切：看見所能看見的，聽見所能聽見的，聞到所能聞到的。如果剛好有蜂蜜出現，他也會嚐嚐所能品嚐到的。
+他會 [把感官全部打開](enoughness-22.md#3)，用開放的心胸接收此時此地的一切：看見所能看見的，聽見所能聽見的，聞到所能聞到的。如果剛好有蜂蜜出現，他也會嚐嚐所能品嚐到的。
 
 偶爾腦袋瓜冒出「要不要去找蜂蜜？」或「要不要去找小豬玩？」的念頭，他會輕輕地讓這些想法飄走，繼續享受「什麼都不用想、什麼都不用做」的自在。
 
@@ -64,17 +64,17 @@ Rob 的作品有細膩的 [光影變化](https://robvisserphotography.nl/raysofl
 
 我們總是習慣當人生的導演，試圖控制、安排、掌控每一步，卻因此錯過當下的美好。
 
-或許，我們更適合當一名「[觀察員](https://huam.ing/2026/1/23/enoughness-15/#2)」。
+或許，我們更適合當一名「[觀察員](enoughness-15.md#2)」。
 
 ![](https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
-在這個身體過勞、[感官過載](https://huam.ing/2026/4/10/enoughness-26) 的時代，能夠和一棵樹安靜相處五分鐘的人，也許比一次處理十件事的人，更靠近真正的自由。
+在這個身體過勞、[感官過載](enoughness-26.md) 的時代，能夠和一棵樹安靜相處五分鐘的人，也許比一次處理十件事的人，更靠近真正的自由。
 
 森林浴是一種存在練習：不需要感受什麼，而是允許那些感受發生；不需要感覺什麼，而是讓感覺自己回來。
 
 下次當你覺得壓力大、思緒紛亂時，不妨走進大自然，什麼都不做，只是在樹下待一下。
 
-— [樺明](https://huam.ing/2026/2/13/enoughness-18)
+— 樺明
 
 ---
 

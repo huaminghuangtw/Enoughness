@@ -16,7 +16,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 1
 
-[第五期](https://huam.ing/2025/11/14/enoughness-5/#3) 提到「邊際效用遞減（Diminishing Marginal Utility）」的概念。
+[第五期](enoughness-5.md#3) 提到「邊際效用遞減（Diminishing Marginal Utility）」的概念。
 
 我在閱讀美國網路作家 [David Perell](https://www.google.com/search?q=David+Perell) 的文章 _[28 Pieces of Life Advice](https://perell.com/note/28-pieces-of-life-advice/)_ 時，剛好看到一段完美呼應這個想法的文字：
 
@@ -76,7 +76,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ![](_attachments/07ad48cc80c6d1ce1c712dffa343101a.png "圖片來源：Nike")
 
-— [樺明](https://huam.ing/2026/3/6/enoughness-21)
+— 樺明
 
 ---
 

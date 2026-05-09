@@ -21,7 +21,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 3
 
-— [樺明](https://huam.ing/2026/5/8/enoughness-30)
+— 樺明
 
 ---
 

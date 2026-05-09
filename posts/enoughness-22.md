@@ -92,7 +92,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ![](_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png)
 
-— [樺明](https://huam.ing/2026/3/13/enoughness-22)
+— 樺明
 
 ---
 

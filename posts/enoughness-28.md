@@ -58,13 +58,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ---
 
-所以說，畫布上 [留白](https://huam.ing/2025/10/17/enoughness-1/#3) 的地方，才是意境所在。
+所以說，畫布上 [留白](enoughness-1.md#3) 的地方，才是意境所在。
 
 留白，象徵著「空無一物」，卻也因此為「僅有之物」創造出更多被理解的可能。
 
 留白，不是一個需要被填補的空洞，而是一種讓主體更突出、意義更鮮明的存在。
 
-生活也是如此，不論是吃飯時只吃到 [八分飽](https://huam.ing/2025/11/28/enoughness-7/#2)、對話中 [少說一點話](https://huam.ing/2025/10/10/the-power-of-quiet)，或是每天留一段時間 [跟自己相處](https://huam.ing/2026/1/2/enoughness-12/#5-%E4%BA%AB%E5%8F%97-hygge-%E7%9A%84%E6%99%82%E9%96%93)……
+生活也是如此，不論是吃飯時只吃到 [八分飽](enoughness-7.md#2)、對話中 [少說一點話](https://huam.ing/the-power-of-quiet)，或是每天留一段時間 [跟自己相處](enoughness-12.md#5-%E4%BA%AB%E5%8F%97-hygge-%E7%9A%84%E6%99%82%E9%96%93)……
 
 適度的留白都是最高宗旨。
 
@@ -106,15 +106,15 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 前幾天去醫院探病。在地下停車場取車時，剛好路過「[安息室](https://www.google.com/search?q=安息室)」。家人突然轉頭問我：「你會害怕（死亡）嗎？」
 
-我停頓了一下，然後說：「**[比起死亡，我更害怕虛度光陰，害怕自己沒有用盡全力過好每一天。](https://huam.ing/2025/10/14/who-do-we-spend-time-with-across-our-lifetime)**」
+我停頓了一下，然後說：「**[比起死亡，我更害怕虛度光陰，害怕自己沒有用盡全力過好每一天。](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime)**」
 
 ---
 
 電影《[鐵達尼號](https://www.imdb.com/title/tt0120338)》（Titanic）中，李奧納多（[Leonardo DiCaprio](https://www.google.com/search?q=Leonardo+DiCaprio)）在晚宴舉杯時那句「[Make each day count](https://youtu.be/JYdCltjvrxg)」，經常在我的腦海中徘徊。
 
-自從聽了 2005 年賈伯斯（Steve Job）在史丹佛大學畢業典禮上的 [演講](https://youtu.be/UF8uR6Z6KLc?t=544) 後，我一直在思考：「什麼才是我最想過上的 [好生活](https://huam.ing/2026/3/6/enoughness-21/#3)？」
+自從聽了 2005 年賈伯斯（Steve Job）在史丹佛大學畢業典禮上的 [演講](https://youtu.be/UF8uR6Z6KLc?t=544) 後，我一直在思考：「什麼才是我最想過上的 [好生活](enoughness-21.md#3)？」
 
-也許，生命本身就是一個提問，而我們 [如何活著](https://huam.ing/2025/11/12/ted-taipei-2025)，就是對它的回答。
+也許，生命本身就是一個提問，而我們 [如何活著](https://huam.ing/ted-taipei-2025)，就是對它的回答。
 
 每天醒來，都是一次歸零、一次新開始，更是另一個全力以赴的機會。
 
@@ -122,7 +122,7 @@ Make each day count.
 
 ![](_attachments/e34c0476e188b229eca492393de614fa.png)
 
-— [樺明](https://huam.ing/2026/4/24/enoughness-28)
+— 樺明
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
-modified: 2026-05-07
+modified: 2026-05-10
 canonicalPath: 2025/10/31/enoughness-3
 draft: false
 issue: 3
@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 我最喜歡的作家之一、曾在 [2012 年來台灣進行 TED 演講](https://youtu.be/6aTaoGWjMvI) 的 [Derek Sivers](https://www.google.com/search?q=Derek+Sivers)，在文章 _[Here’s How To Live: Create.](https://sive.rs/htl23)_ 中寫道：
 
-> [世界上最有價值的房地產是墓園。](https://huam.ing/2025/10/15/30-things-i-wish-i-knew-in-20s/)
+> [世界上最有價值的房地產是墓園。](https://huam.ing/30-things-i-wish-i-knew-in-20s/)
 
 為什麼呢？因為那裡埋藏著所有未曾實現的希望與夢想 — 還沒寫完的書、從未發表的歌曲、無人知曉的發明。
 
@@ -176,7 +176,7 @@ _**如果現在就要走了，我會不會後悔沒有做那個選擇？**_
 
 其實，我最怕的不是失敗，而是做自己的成功。
 
-— [樺明](https://huam.ing/2025/10/31/enoughness-3)
+— 樺明
 
 ---
 

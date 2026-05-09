@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 我報名了 [2025 故宮南院馬拉松](https://lohasnet.tw/SouthNPM2025/)！
 
-日期是 12/7，這將會是 [我的第二場全馬](https://huam.ing/2025/12/12/enoughness-9/#2)（上一次是 [2024/6/1 的斯德哥爾摩 🇸🇪 馬拉松](https://www.strava.com/activities/11550346512)）。
+日期是 12/7，這將會是 [我的第二場全馬](enoughness-9.md#2)（上一次是 [2024/6/1 的斯德哥爾摩 🇸🇪 馬拉松](https://www.strava.com/activities/11550346512)）。
 
 這個想法來自日本的 [Misogi](https://www.google.com/search?q=Japanese+Misogi)（禊 ㄒㄧˋ）概念：每年選定一天，挑戰一件難到懷疑人生的事。完成後，過程中所創造的回憶，將在接下來的 364 天帶來正面的漣漪效應。
 
@@ -37,7 +37,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 也許，你需要給大腦一個「喘息」空間。
 
-很多時候，不是因為不夠累，而是大腦沒有足夠時間，去消化一整天下來的 [資訊轟炸](https://huam.ing/2025/8/14/sherlock-holmes-brain-attic/)。
+很多時候，不是因為不夠累，而是大腦沒有足夠時間，去消化一整天下來的 [資訊轟炸](https://huam.ing/sherlock-holmes-brain-attic/)。
 
 我們習慣在醒著時，把每個空檔都塞滿各種訊息、郵件、音樂、新聞、社群媒體。
 
@@ -59,7 +59,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ![](_attachments/0a13d2bb6bf2a105c58798a341bb188a.png "攝於彰化員林「餘白和菓子茶舖」")
 
-— [樺明](https://huam.ing/2025/10/17/enoughness-1)
+— 樺明
 
 ---
 

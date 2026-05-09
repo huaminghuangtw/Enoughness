@@ -44,7 +44,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ## 2. 活出本心的時間
 
-放下「迎合正解」的壓力，[不再執著於做一個外人眼中的「體面人」](https://huam.ing/2025/8/30/you-and-your-timeline)。即使素顏出門、穿著舊衣，也能坦然自在、怡然自得。
+放下「迎合正解」的壓力，[不再執著於做一個外人眼中的「體面人」](https://huam.ing/you-and-your-timeline)。即使素顏出門、穿著舊衣，也能坦然自在、怡然自得。
 
 ## 3. 單一任務的時間
 
@@ -56,7 +56,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ## 5. 享受 Hygge 的時間
 
-丹麥語 [Hygge](https://www.google.com/search?q=Hygge)，代表的是一種輕鬆、舒適的個人狀態。人們會刻意放慢腳步、按下暫停鍵，安排留給自己的 [獨處](https://huam.ing/2025/10/14/who-do-we-spend-time-with-across-our-lifetime/#6-%E8%87%AA%E5%B7%B1) 時間（[Me Time](https://www.google.com/search?q=Me+Time)）。在這裡，慢不等於懶，而是為了更深度地體驗生活和思考人生。
+丹麥語 [Hygge](https://www.google.com/search?q=Hygge)，代表的是一種輕鬆、舒適的個人狀態。人們會刻意放慢腳步、按下暫停鍵，安排留給自己的 [獨處](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime/#6-%E8%87%AA%E5%B7%B1) 時間（[Me Time](https://www.google.com/search?q=Me+Time)）。在這裡，慢不等於懶，而是為了更深度地體驗生活和思考人生。
 
 ---
 
@@ -66,13 +66,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 他們深知長時間工作不等於高效率。不追求「做更多」，而是實踐「少，但是更好」的哲學。
 
-他們擁有 [篩選](https://huam.ing/2025/9/30/the-monkey-and-pedestal-mindset) 與 [說不](https://huam.ing/2025/11/21/enoughness-6/#3) 的勇氣，清楚分辨什麼對自己重要、什麼只是他人的期待，並義無反顧地投入在最重要的人事物上。
+他們擁有 [篩選](https://huam.ing/the-monkey-and-pedestal-mindset) 與 [說不](enoughness-6.md#3) 的勇氣，清楚分辨什麼對自己重要、什麼只是他人的期待，並義無反顧地投入在最重要的人事物上。
 
 他們實踐「減法生活」，主動刪減不必要的行程、社交與物質慾望。
 
 這種慢活，既是一種時間的深呼吸，也是一種生活的禪。
 
-北歐人的 [幸福密碼](https://huam.ing/2025/10/24/enoughness-2/#4)，不在於更快，而在於 [剛剛好](https://huam.ing/newsletter) ⚖️。
+北歐人的 [幸福密碼](enoughness-2.md#4)，不在於更快，而在於 [剛剛好](https://huam.ing/newsletter) ⚖️。
 
 ![](https://images.unsplash.com/photo-1597320775230-8b0d40daa792?q=80&w=1730&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
@@ -98,11 +98,11 @@ Milne 的文字，加上插畫家 [Ernest Howard Shepard](https://www.google.com
 
 身體圓滾滾、表情傻呼呼的維尼，最愛大口大口地吃蜂蜜，毫不偽裝，只想過自己想過的生活。每天早上醒來，腦中想的第一件事都是「[今天早餐要吃什麼好呢？](https://youtu.be/iDpP1RCnfd0)」
 
-在百畝森林裡，維尼不追求成功，不強調成長速度，更 [不比較](https://huam.ing/2025/8/30/you-and-your-timeline)「這個好，那個壞」— 總是抱持著如初生嬰兒般的赤子之心。
+在百畝森林裡，維尼不追求成功，不強調成長速度，更 [不比較](https://huam.ing/you-and-your-timeline)「這個好，那個壞」— 總是抱持著如初生嬰兒般的赤子之心。
 
 單純善良、天真憨厚的他有點笨拙，總敲著自己的小腦袋瓜，說著那句口頭禪：「Think, think, think…」即使想了老半天，他還是經常提出錯誤的解決辦法 😂
 
-維尼不太做長期規劃，也不計算利與弊。他的行動風格非常直接：肚子餓了，就想到蜂蜜，然後立刻行動去找蜂蜜；朋友不開心時，他不會馬上分析原因或給建議，而是默默地陪伴對方，[安靜地傾聽](https://huam.ing/2025/10/10/the-power-of-quiet/)。
+維尼不太做長期規劃，也不計算利與弊。他的行動風格非常直接：肚子餓了，就想到蜂蜜，然後立刻行動去找蜂蜜；朋友不開心時，他不會馬上分析原因或給建議，而是默默地陪伴對方，[安靜地傾聽](https://huam.ing/the-power-of-quiet/)。
 
 維尼不會 100% 解決問題，而是讓問題變得沒那麼可怕。他不追求最有效率、最完美的方法，而是問：事情有沒有變好一點？大家有沒有比較安心？現在能不能先過去？
 
@@ -122,7 +122,7 @@ Milne 的文字，加上插畫家 [Ernest Howard Shepard](https://www.google.com
 
 維尼不聰明伶俐，也不特別能幹，但他的動物朋友們依然需要他，因為他就是他。
 
-[他的存在本身，就是價值](https://huam.ing/2025/11/12/ted-taipei-2025)。
+[他的存在本身，就是價值](https://huam.ing/ted-taipei-2025)。
 
 ---
 
@@ -182,7 +182,7 @@ Milne 的文字，加上插畫家 [Ernest Howard Shepard](https://www.google.com
 
 ![](_attachments/ef7a487cf8082cf199f52fcade28e29c.png "「專注當下，並且善良。」—《小熊維尼的正念筆記》（圖片來源：尖端網路書店）")
 
-— [樺明](https://huam.ing/2026/1/2/enoughness-12)
+— 樺明
 
 ---
 

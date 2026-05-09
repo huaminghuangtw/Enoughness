@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 直到我發現，與其動用寶貴的意志力，不如讓科技為我服務。
 
-在 [這篇文章](https://huam.ing/2025/11/19/this-shortcut-got-me-to-exercise-every-single-day) 中，我分享如何利用 [ 蘋果捷徑（Apple Shortcuts）](https://shortcutomation.com)，打造每日運動提醒系統。
+在 [這篇文章](https://huam.ing/this-shortcut-got-me-to-exercise-every-single-day) 中，我分享如何利用 [ 蘋果捷徑（Apple Shortcuts）](https://shortcutomation.com)，打造每日運動提醒系統。
 
 這個方法只花一分鐘，不需要任何器材，就能讓你在不知不覺中養成運動習慣。
 
@@ -102,7 +102,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 看到機器人那麼努力的樣子，不知道為什麼有點心酸。
 
-機器人可以換電池重新啟動，[與家人相處的時光](https://huam.ing/2025/10/14/who-do-we-spend-time-with-across-our-lifetime/)，卻是一去不復返的單行道。
+機器人可以換電池重新啟動，[與家人相處的時光](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime/)，卻是一去不復返的單行道。
 
 **我們常常以為花錢給父母最好的物質享受、最先進的醫療照護，就是盡了孝心。**
 
@@ -122,7 +122,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 回家，你就會看見，你是春天，你是一切繁花盛開的原因。
 
-— [樺明](https://huam.ing/2025/11/21/enoughness-6)
+— 樺明
 
 ---
 

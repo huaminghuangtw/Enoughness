@@ -34,7 +34,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 除了硬派的科技觀察，KK 在 2023 年出版過一本小書《[Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living)》。
 
-這本書源自於他對孩子們的愛與傳承。KK 在 68 歲生日時，決定為子女們寫下 [68 條人生建議](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)，這些都是他 [希望自己年輕時就能懂的事](https://huam.ing/2025/10/15/30-things-i-wish-i-knew-in-20s)。從那時開始，「[寫下建議](https://kk.org/thetechnium/101-additional-advices/)」成了他每年生日的慣例。隨著歲月積累，他將多年來的紀錄去蕪存菁，最終集結成 450 條人生智慧收錄於書中。
+這本書源自於他對孩子們的愛與傳承。KK 在 68 歲生日時，決定為子女們寫下 [68 條人生建議](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)，這些都是他 [希望自己年輕時就能懂的事](https://huam.ing/30-things-i-wish-i-knew-in-20s)。從那時開始，「[寫下建議](https://kk.org/thetechnium/101-additional-advices/)」成了他每年生日的慣例。隨著歲月積累，他將多年來的紀錄去蕪存菁，最終集結成 450 條人生智慧收錄於書中。
 
 > Your goal in life is to be able to say on the day before you die that you have fully become yourself.
 
@@ -66,7 +66,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 每天「沖冰水/泡冰浴」，我在 2025 年養成最棒的習慣。
 
-專門研究 [老化](https://huam.ing/2025/12/26/enoughness-11/#3) 的哈佛醫學院終身教授 [David Sinclair](https://www.google.com/search?q=David+Sinclair) 博士，也是暢銷書《[可不可以不變老？](https://www.google.com/search?q=可不可以不變老)》（Lifespan）的作者，曾在 [一篇論文](https://doi.org/10.1089/met.2014.0027) 中提出「代謝寒冬」（Metabolic Winter）假說。
+專門研究 [老化](enoughness-11.md#3) 的哈佛醫學院終身教授 [David Sinclair](https://www.google.com/search?q=David+Sinclair) 博士，也是暢銷書《[可不可以不變老？](https://www.google.com/search?q=可不可以不變老)》（Lifespan）的作者，曾在 [一篇論文](https://doi.org/10.1089/met.2014.0027) 中提出「代謝寒冬」（Metabolic Winter）假說。
 
 他認為，現代人大多數時間處於恆溫且衣食無虞的的舒適圈中，導致體內具備修復、抵禦疾病的「長壽基因」，因長期缺乏刺激而進入休眠狀態，使身體漸漸失去應對環境變化的韌性。
 
@@ -76,7 +76,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 以泡冰水來說，每天只要花幾分鐘，就能獲得兩大好處：
 
-1. 它是天然的「快樂引擎」。泡冰水會刺激大腦分泌多巴胺，讓你感到更專注、更有動力。這種快樂不是像 [吃甜點](https://huam.ing/2026/3/6/enoughness-21/#1) 那樣曇花一現，而是能持續好幾個小時的穩定燃料，讓你在面對工作挑戰時更有衝勁。
+1. 它是天然的「快樂引擎」。泡冰水會刺激大腦分泌多巴胺，讓你感到更專注、更有動力。這種快樂不是像 [吃甜點](enoughness-21.md#1) 那樣曇花一現，而是能持續好幾個小時的穩定燃料，讓你在面對工作挑戰時更有衝勁。
 2. 它是焦慮的「重置按鈕」。當冰水接觸臉部時，身體會啟動一種叫「潛水反射」（[The Diving Reflex](https://en.wikipedia.org/wiki/Diving_reflex)）的機制。這就像幫過熱的電腦關機重啟，能放慢心跳，幫助我們迅速從高壓、煩躁的情緒中冷靜下來。
 
 這麼好康的事，不每天給它做好做滿，對得起自己嗎？
@@ -123,7 +123,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 Let’s get cold! 🥶
 
-— [樺明](https://huam.ing/2026/1/9/enoughness-13)
+— 樺明
 
 ---
 

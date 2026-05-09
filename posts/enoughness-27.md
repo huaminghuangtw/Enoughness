@@ -16,9 +16,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 1
 
-《[我可能錯了：森林智者的最後一堂人生課](https://huam.ing/2026/1/23/enoughness-15/#1)》第七課提到一個故事：
+《[我可能錯了：森林智者的最後一堂人生課](enoughness-15.md#1)》第七課提到一個故事：
 
-有一天，[小熊維尼](https://huam.ing/2026/1/2/enoughness-12/#3)（Pooh）和小豬（Piglet）並肩躺在草坪上，望著天空，想著今天要做什麼。
+有一天，[小熊維尼](enoughness-12.md#3)（Pooh）和小豬（Piglet）並肩躺在草坪上，望著天空，想著今天要做什麼。
 
 ![](_attachments/c9257a85882e36fd0382be51f7500a5f.png)
 
@@ -48,7 +48,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 兔子和維尼的思維差異在於：兔子理性、計畫性強，總是追求生產力、效率和做「正確」的事；維尼則隨性、直覺和當下導向，行動不為功利，一切順其自然，只用單純的好奇心去體驗生活，強調「存在」本身而非目的。
 
-以前，只要是 [跑步](https://www.strava.com/athletes/huaminghuang) 時間，我一定塞著耳機聽 Podcast，深怕 [大腦](https://huam.ing/2025/8/14/sherlock-holmes-brain-attic) 有一秒閒下來；現在，我刻意在跑步的時候不帶手機、不聽音樂，改把注意力放在身體肌肉的運作上。
+以前，只要是 [跑步](https://www.strava.com/athletes/huaminghuang) 時間，我一定塞著耳機聽 Podcast，深怕 [大腦](https://huam.ing/sherlock-holmes-brain-attic) 有一秒閒下來；現在，我刻意在跑步的時候不帶手機、不聽音樂，改把注意力放在身體肌肉的運作上。
 
 神奇的是，我開始聽見平常聽不見的聲音、想到平常想不到的想法（或糗事 😝），甚至是覺察到一些平常不會注意到的感受。
 
@@ -60,7 +60,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 2
 
-[第一期](https://huam.ing/2025/10/17/enoughness-1/#3) 提過在生活中「留白」的重要性。
+[第一期](enoughness-1.md#3) 提過在生活中「留白」的重要性。
 
 [研究](https://doi.org/10.4103/0973-1229.77424) 指出，歷史上許多偉人，像是愛因斯坦、莫札特和達文西，都非常重視這種「自由漂浮」的思考時間。
 
@@ -90,7 +90,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 >
 > 小王子問：「什麼是『馴養』？」狐狸說：「建立連結，讓彼此變得特別。」
 >
-> 狐狸告訴小王子，馴養需要耐心 — 每天靠近一點點，[不急著說話，只是靜靜地陪伴](https://huam.ing/2025/10/10/the-power-of-quiet)。
+> 狐狸告訴小王子，馴養需要耐心 — 每天靠近一點點，[不急著說話，只是靜靜地陪伴](https://huam.ing/the-power-of-quiet)。
 >
 > 狐狸接著說：「我本來不在意那片麥田，但因為你的頭髮是金色的，從此麥田的顏色讓我想起你，風吹過麥浪的聲音也變得特別動聽。」
 >
@@ -124,7 +124,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ![](_attachments/a2e2e7da5990b45413a601a495d9d004.png)
 
-— [樺明](https://huam.ing/2026/4/17/enoughness-27)
+— 樺明
 
 ---
 

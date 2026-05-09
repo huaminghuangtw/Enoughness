@@ -28,13 +28,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 這些「[人生難題](https://youtu.be/rVEMTxg_LrU)」無法外包給他人，也不是有錢就能買到。就算是 [Elon Musk](https://www.google.com/search?q=Elon+Musk)、[Jeff Bezos](https://www.google.com/search?q=Jeff+Bezos)、[黃仁勳](https://www.google.com/search?q=黃仁勳)，也只能靠自己日復一日、一點一滴地經營與累積。
 
-而金錢，反而要 [用最簡單、穩健的方式管理](https://huam.ing/2026/4/3/enoughness-25/#1)。
+而金錢，反而要 [用最簡單、穩健的方式管理](enoughness-25.md#1)。
 
 這讓我聯想到 [村上春樹](https://www.google.com/search?q=村上春樹) 的一句話：
 
 > Spend your money on the things money can buy. Spend your time on the things money can’t buy.
 >
-> 把錢花在錢能買到的事物上，把時間花在 [錢買不到的事物](https://huam.ing/2026/1/30/enoughness-16/#1) 上。
+> 把錢花在錢能買到的事物上，把時間花在 [錢買不到的事物](enoughness-16.md#1) 上。
 
 # 2
 
@@ -50,7 +50,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 >
 > 做你自己，因為其他角色都有人演了。
 
-[每個人都活在自己的時區。](https://huam.ing/2025/8/30/you-and-your-timeline/)
+[每個人都活在自己的時區。](https://huam.ing/you-and-your-timeline/)
 
 # 3
 
@@ -62,17 +62,17 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 如果我們總是把事情做到一半就放下，不僅容易遺忘細節，還會讓這些「未完成」成為心中的負擔，等到重新拾起時，得花更多精力進入狀態。
 
-這個時候，可以準備一本「[分心筆記本](https://huam.ing/2025/10/24/enoughness-2/#3)」：將正在進行中、尚未完成的任務寫下來。
+這個時候，可以準備一本「[分心筆記本](enoughness-2.md#3)」：將正在進行中、尚未完成的任務寫下來。
 
 另一種情況，是自己突然冒出靈感。
 
-其實，[大腦天生擅長分心](https://huam.ing/2026/4/17/enoughness-27/#2)。與其用意志力強迫自己不走神，不如善用這種「[漫遊](https://huam.ing/2026/2/13/enoughness-18/#3)」的特性，把想到的事通通捕捉起來。
+其實，[大腦天生擅長分心](enoughness-27.md#2)。與其用意志力強迫自己不走神，不如善用這種「[漫遊](https://huam.ing/enoughness-18/#3)」的特性，把想到的事通通捕捉起來。
 
-透過這個方法，能幫助自己回歸當下、將 [專注力](https://huam.ing/2026/2/6/enoughness-17/#2) 拉回手邊工作。
+透過這個方法，能幫助自己回歸當下、將 [專注力](enoughness-17.md#2) 拉回手邊工作。
 
 ![](_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png)
 
-— [樺明](https://huam.ing/2026/1/30/enoughness-16)
+— 樺明
 
 ---
 
