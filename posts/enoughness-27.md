@@ -4,6 +4,7 @@ created: 2026-04-17
 modified: 2026-05-07
 canonicalPath: 2026/4/17/enoughness-27
 issue: 27
+quote: “One sees clearly only with the heart. Anything essential is invisible to the eyes.” — Antoine de Saint-Exupéry, The Little Prince
 ---
 
 <!-- SELF-INTRO-START -->
@@ -125,13 +126,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/a2e2e7da5990b45413a601a495d9d004.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“One sees clearly only with the heart. Anything essential is invisible to the eyes.”
-<br>
-— Antoine de Saint-Exupéry, The Little Prince
-</sub>
-</p>

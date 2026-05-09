@@ -4,6 +4,7 @@ created: 2026-02-06
 modified: 2026-05-07
 canonicalPath: 2026/2/6/enoughness-17
 issue: 17
+quote: “I want to live my life in such a way that when I get out of bed in the morning, the devil says, ‘aw shit, he’s up!’” — Steve Maraboli, Unapologetically You: Reflections on Life and the Human Experience
 ---
 
 <!-- SELF-INTRO-START -->
@@ -70,13 +71,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 所以，無論距離遠近，我們都能選擇成為那個願意跳進池塘、伸出援手的人。否則，我們不就等於選擇直接走過池塘、見死不救的人嗎？
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“I want to live my life in such a way that when I get out of bed in the morning, the devil says, ‘aw shit, he’s up!’”
-<br>
-— Steve Maraboli, Unapologetically You: Reflections on Life and the Human Experience
-</sub>
-</p>

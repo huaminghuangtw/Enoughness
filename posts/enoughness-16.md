@@ -4,6 +4,7 @@ created: 2026-01-30
 modified: 2026-05-07
 canonicalPath: 2026/1/30/enoughness-16
 issue: 16
+quote: “Focus is about saying no.” — Steve Jobs
 ---
 
 <!-- SELF-INTRO-START -->
@@ -73,13 +74,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Focus is about saying no.”
-<br>
-— Steve Jobs
-</sub>
-</p>

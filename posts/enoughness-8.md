@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/12/5/enoughness-8
 draft: false
 issue: 8
+quote: “Make each day your masterpiece.” — John Wooden
 ---
 
 <!-- SELF-INTRO-START -->
@@ -152,13 +153,3 @@ P.S. 時間不多的話，可以啜飲一杯溫開水，並專注於手握水杯
 **大谷讓我學到，成為一流的選手之前，必須先從內而外成為一個完整的人。**
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Make each day your masterpiece.”
-<br>
-— John Wooden
-</sub>
-</p>

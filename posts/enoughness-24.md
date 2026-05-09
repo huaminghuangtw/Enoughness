@@ -4,6 +4,7 @@ created: 2026-03-27
 modified: 2026-05-07
 canonicalPath: 2026/3/27/enoughness-24
 issue: 24
+quote: “Education is not the learning of facts, but the training of the mind to think.” — Albert Einstein
 ---
 
 <!-- SELF-INTRO-START -->
@@ -99,13 +100,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 如果你不喜歡教科書裡那些生硬的知識，也沒關係，我能理解。但請至少答應我，**用生命守護那顆童年旺盛的好奇心，這是身為一名 [學生運動員的責任](https://www.facebook.com/jeff.hsu.20070611/posts/pfbid02ULfT8javuTaBwYwUvxLG5Vt8BMwzoNkvFgdfHL38LF9z2PymC9efjktYAgsqSa2il)**。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Education is not the learning of facts, but the training of the mind to think.”
-<br>
-— Albert Einstein
-</sub>
-</p>

@@ -4,6 +4,7 @@ created: 2026-01-23
 modified: 2026-05-07
 canonicalPath: 2026/1/23/enoughness-15
 issue: 15
+quote: “The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott
 ---
 
 <!-- SELF-INTRO-START -->
@@ -101,13 +102,3 @@ Enough is enough.
 ![](_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.”
-<br>
-— David Viscott
-</sub>
-</p>

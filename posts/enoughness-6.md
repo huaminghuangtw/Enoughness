@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/11/21/enoughness-6
 draft: false
 issue: 6
+quote: “Take care of the minutes; the hours will take care of themselves.” — Philip Dormer Stanhope
 ---
 
 <!-- SELF-INTRO-START -->
@@ -123,13 +124,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 回家，你就會看見，你是春天，你是一切繁花盛開的原因。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Take care of the minutes; the hours will take care of themselves.”
-<br>
-— Philip Dormer Stanhope
-</sub>
-</p>

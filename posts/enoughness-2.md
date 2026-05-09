@@ -5,6 +5,7 @@ modified: 2026-05-08
 canonicalPath: 2025/10/24/enoughness-2
 draft: false
 issue: 2
+quote: “Soon is not as good as now.” — Seth Godin
 ---
 
 <!-- SELF-INTRO-START -->
@@ -62,13 +63,3 @@ P.S. 這個方法是我在 [Huberman Lab Podcast](https://youtu.be/q1Ss8sTbFBY?t
 ![](_attachments/74acf07ae4f2f43d32eed6a074ae326d.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Soon is not as good as now.”
-<br>
-— Seth Godin
-</sub>
-</p>

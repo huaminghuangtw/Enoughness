@@ -4,6 +4,7 @@ created: 2026-04-10
 modified: 2026-05-07
 canonicalPath: 2026/4/10/enoughness-26
 issue: 26
+quote: “There are only two industries that refer to their customers as ‘users’: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — The Social Dilemma (2020 film)
 ---
 
 <!-- SELF-INTRO-START -->
@@ -61,13 +62,3 @@ _我常在想，如果可以創造一個沒有電子產品干擾的神聖空間�
 **這是我的 [使命](https://youtu.be/tvos4nORf_Y?t=18m33s)，也是我追求的 [墓誌銘](https://youtu.be/SBDWLvTRmP0)。**
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“There are only two industries that refer to their customers as ‘users’: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.”
-<br>
-— The Social Dilemma (2020 film)
-</sub>
-</p>

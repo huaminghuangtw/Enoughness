@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/11/14/enoughness-5
 draft: false
 issue: 5
+quote: “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” — Blaise Pascal
 ---
 
 <!-- SELF-INTRO-START -->
@@ -138,13 +139,3 @@ P.S. [沖冷水、泡冰浴的後座力更是強大！](https://www.instagram.co
 無論是寫作、畫畫還是攝影，起初難免有些生硬；隨著 [獨處時間](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime/) 與經驗累積，個人風格逐漸成形，更容易進入「[心流](https://www.google.com/search?q=心流)（Flow State）」狀態，讓創作成為一種「自我表達」，對於「我是誰」的宣示。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“All of humanity’s problems stem from man’s inability to sit quietly in a room alone.”
-<br>
-— Blaise Pascal
-</sub>
-</p>

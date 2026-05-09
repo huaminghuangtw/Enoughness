@@ -4,6 +4,7 @@ created: 2025-12-26
 modified: 2026-05-07
 canonicalPath: 2025/12/26/enoughness-11
 issue: 11
+quote: "\"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.” — Sathya Sai Baba"
 ---
 
 <!-- SELF-INTRO-START -->
@@ -125,13 +126,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 > Consistent, high quality sleep is your #1 life priority.
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety.”
-<br>
-— Sathya Sai Baba
-</sub>
-</p>

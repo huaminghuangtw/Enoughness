@@ -4,6 +4,7 @@ created: 2026-03-06
 modified: 2026-05-07
 canonicalPath: 2026/3/6/enoughness-21
 issue: 21
+quote: “Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus
 ---
 
 <!-- SELF-INTRO-START -->
@@ -77,13 +78,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/07ad48cc80c6d1ce1c712dffa343101a.png "圖片來源：Nike")
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.”
-<br>
-— Epictetus
-</sub>
-</p>

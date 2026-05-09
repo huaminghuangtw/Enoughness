@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/11/28/enoughness-7
 draft: false
 issue: 7
+quote: “To be great is to be misunderstood.” — Ralph Waldo Emerson
 ---
 
 <!-- SELF-INTRO-START -->
@@ -119,13 +120,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 這些動作完全不需要任何器材，在家就能輕鬆練習，希望對你有幫助！
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“To be great is to be misunderstood.”
-<br>
-— Ralph Waldo Emerson
-</sub>
-</p>

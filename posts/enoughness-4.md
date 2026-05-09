@@ -5,6 +5,7 @@ modified: 2026-05-10
 canonicalPath: 2025/11/7/enoughness-4
 draft: false
 issue: 4
+quote: “Being realistic is the most common path to mediocrity.” — Will Smith
 ---
 
 <!-- SELF-INTRO-START -->
@@ -85,13 +86,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 這是隨時都能送給自己的小禮物！
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Being realistic is the most common path to mediocrity.”
-<br>
-— Will Smith
-</sub>
-</p>

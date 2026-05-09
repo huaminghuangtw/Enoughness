@@ -4,6 +4,7 @@ created: 2026-02-13
 modified: 2026-05-07
 canonicalPath: 2026/2/13/enoughness-18
 issue: 18
+quote: "\"Nature never deceives us; it is we who deceive ourselves.\" — Jean-Jacques Rousseau"
 ---
 
 <!-- SELF-INTRO-START -->
@@ -75,13 +76,3 @@ Rob 的作品有細膩的 [光影變化](https://robvisserphotography.nl/raysofl
 下次當你覺得壓力大、思緒紛亂時，不妨走進大自然，什麼都不做，只是在樹下待一下。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-"Nature never deceives us; it is we who deceive ourselves."
-<br>
-— Jean-Jacques Rousseau
-</sub>
-</p>

@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/12/12/enoughness-9
 draft: false
 issue: 9
+quote: “Don’t do what you can do. Try what you can’t do.” — William Faulkner
 ---
 
 <!-- SELF-INTRO-START -->
@@ -171,13 +172,3 @@ P.S. 這集是我最喜歡的 Podcast 集數之一，滿滿的人生智慧，[�
 ![](_attachments/4583779e4477d44535c8a24505e3069a.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Don’t do what you can do. Try what you can’t do.”
-<br>
-— William Faulkner
-</sub>
-</p>

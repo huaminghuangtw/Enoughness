@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/10/17/enoughness-1
 draft: false
 issue: 1
+quote: “Be who you were created to be, and you will set the world on fire.” — St. Catherine of Siena
 ---
 
 <!-- SELF-INTRO-START -->
@@ -60,13 +61,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/0a13d2bb6bf2a105c58798a341bb188a.png "攝於彰化員林「餘白和菓子茶舖」")
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Be who you were created to be, and you will set the world on fire.”
-<br>
-— St. Catherine of Siena
-</sub>
-</p>

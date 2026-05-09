@@ -4,6 +4,7 @@ created: 2026-01-02
 modified: 2026-05-07
 canonicalPath: 2026/1/2/enoughness-12
 issue: 12
+quote: “Did you ever stop to think, and forget to start again?” — Winnie-the-Pooh
 ---
 
 <!-- SELF-INTRO-START -->
@@ -183,13 +184,3 @@ Milne 的文字，加上插畫家 [Ernest Howard Shepard](https://www.google.com
 ![](_attachments/ef7a487cf8082cf199f52fcade28e29c.png "「專注當下，並且善良。」—《小熊維尼的正念筆記》（圖片來源：尖端網路書店）")
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Did you ever stop to think, and forget to start again?”
-<br>
-— Winnie-the-Pooh
-</sub>
-</p>

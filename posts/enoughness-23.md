@@ -4,6 +4,7 @@ created: 2026-03-20
 modified: 2026-05-07
 canonicalPath: 2026/3/20/enoughness-23
 issue: 23
+quote: “Some men see things as they are and ask why. Others dream things that never were and ask why not.” — George Bernard Shaw
 ---
 
 <!-- SELF-INTRO-START -->
@@ -127,13 +128,3 @@ Think big. Dream big.
 ![](_attachments/fbb14ccb28991a710e29af7c1e78c4c1.jpg)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Some men see things as they are and ask why. Others dream things that never were and ask why not.”
-<br>
-— George Bernard Shaw
-</sub>
-</p>

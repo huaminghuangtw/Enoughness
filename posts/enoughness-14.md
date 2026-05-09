@@ -4,6 +4,7 @@ created: 2026-01-16
 modified: 2026-05-07
 canonicalPath: 2026/1/16/enoughness-14
 issue: 14
+quote: “People sometimes fail to live because they are always preparing to live.” — Alan Watts
 ---
 
 <!-- SELF-INTRO-START -->
@@ -147,13 +148,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 **對生活保持專注，對世界保有好奇與關懷，我正在學習成為這樣的人。**
 
  — 樺明
-
----
-
-<p align="center">
-<sub>
-“People sometimes fail to live because they are always preparing to live.”
-<br>
-— Alan Watts
-</sub>
-</p>

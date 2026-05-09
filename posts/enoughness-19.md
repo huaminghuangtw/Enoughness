@@ -4,6 +4,7 @@ created: 2026-02-20
 modified: 2026-05-07
 canonicalPath: 2026/2/20/enoughness-19
 issue: 19
+quote: “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
 ---
 
 <!-- SELF-INTRO-START -->
@@ -147,13 +148,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 畢竟，事物本來就不具備讓我們評論的本事。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.”
-<br>
-— Alan Watts
-</sub>
-</p>

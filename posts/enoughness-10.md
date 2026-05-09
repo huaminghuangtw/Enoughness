@@ -5,6 +5,7 @@ modified: 2026-05-07
 canonicalPath: 2025/12/19/enoughness-10
 draft: false
 issue: 10
+quote: “Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith
 ---
 
 <!-- SELF-INTRO-START -->
@@ -102,13 +103,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/ea3910160ddbf73987e2ad3a907ec65e.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.”
-<br>
-— Will Smith
-</sub>
-</p>

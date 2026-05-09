@@ -5,6 +5,7 @@ modified: 2026-05-10
 canonicalPath: 2025/10/31/enoughness-3
 draft: false
 issue: 3
+quote: “Only those who will risk going too far can possibly find out how far one can go.” — T.S. Eliot
 ---
 
 <!-- SELF-INTRO-START -->
@@ -177,13 +178,3 @@ _**如果現在就要走了，我會不會後悔沒有做那個選擇？**_
 其實，我最怕的不是失敗，而是做自己的成功。
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Only those who will risk going too far can possibly find out how far one can go.”
-<br>
-— T.S. Eliot
-</sub>
-</p>

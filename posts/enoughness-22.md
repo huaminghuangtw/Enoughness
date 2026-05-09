@@ -4,6 +4,7 @@ created: 2026-03-13
 modified: 2026-05-07
 canonicalPath: 2026/3/13/enoughness-22
 issue: 22
+quote: “Meditation is to be aware of what is going on: in your body, in your feelings, in your mind, and in the world.” — Thích Nhất Hạnh
 ---
 
 <!-- SELF-INTRO-START -->
@@ -93,13 +94,3 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 ![](_attachments/8a4c8a9583c074b70f4fcbdf8b8c75f6.png)
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“Meditation is to be aware of what is going on: in your body, in your feelings, in your mind, and in the world.”
-<br>
-— Thích Nhất Hạnh
-</sub>
-</p>

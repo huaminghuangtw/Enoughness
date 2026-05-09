@@ -4,6 +4,7 @@ created: 2026-01-09
 modified: 2026-05-07
 canonicalPath: 2026/1/9/enoughness-13
 issue: 13
+quote: “It is our choices, Harry, that show what we truly are, far more than our abilities.” — J.K. Rowling, Harry Potter and the Chamber of Secrets
 ---
 
 <!-- SELF-INTRO-START -->
@@ -124,13 +125,3 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 Let’s get cold! 🥶
 
 — 樺明
-
----
-
-<p align="center">
-<sub>
-“It is our choices, Harry, that show what we truly are, far more than our abilities.”
-<br>
-— J.K. Rowling, Harry Potter and the Chamber of Secrets
-</sub>
-</p>
