@@ -3,7 +3,6 @@ title: ⚖️ 買進然後忘記、40% 法則、一日之計在昨夜
 created: 2026-04-03
 modified: 2026-05-10
 issue: 25
-quote: “You’re not obligated to win. You’re obligated to keep trying. To the best you can do everyday.” — Jason Mraz
 tags: []
 ---
 
