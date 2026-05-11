@@ -3,7 +3,6 @@ title: ⚖️ 空白的一秒鐘、免費健腦法、不要失去感覺的能力
 created: 2026-03-13
 modified: 2026-05-10
 issue: 22
-quote: '“Meditation is to be aware of what is going on: in your body, in your feelings, in your mind, and in the world.” — Thích Nhất Hạnh'
 tags: []
 ---
 
