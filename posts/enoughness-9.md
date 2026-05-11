@@ -3,7 +3,6 @@ title: ⚖️ 和過去的自己說再見、故宮南院馬拉松、讓慾望安
 created: 2025-12-12
 modified: 2026-05-10
 issue: 9
-quote: “Don’t do what you can do. Try what you can’t do.” — William Faulkner
 tags: []
 ---
 
