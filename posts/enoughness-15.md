@@ -3,7 +3,6 @@ title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘
 created: 2026-01-23
 modified: 2026-05-10
 issue: 15
-quote: “The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.” — David Viscott
 tags: []
 ---
 
@@ -57,7 +56,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 2
 
-[歐洲少林寺](https://www.google.com/maps?q=Shaolin+Temple+Europe) 掌門人 [釋恆義](https://www.google.com/search?q=Shi+Heng+Yi)（Shi Heng Yi）在 TED 演講 中 [提到](https://youtu.be/4-079YIasck?t=16m41s)：
+[歐洲少林寺](https://www.google.com/maps?q=Shaolin+Temple+Europe) 掌門人 [釋恆義](https://www.google.com/search?q=Shi+Heng+Yi)（Shi Heng Yi）在 TED 演講中 [提到](https://youtu.be/4-079YIasck?t=16m41s)：
 
 > 我不是我的身體，我不是我的心智，我不是我的情緒，我只是能夠從旁看見這三個面向的自己。
 >
