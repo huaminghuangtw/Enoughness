@@ -3,7 +3,6 @@ title: ⚖️ 吃個味道就好、微互動的力量、簡單生活
 created: 2026-03-06
 modified: 2026-05-10
 issue: 21
-quote: “Freedom is secured not by the fulfilling of one’s desires, but by the removal of desire.” — Epictetus
 tags: []
 ---
 
