@@ -1,9 +1,8 @@
 ---
 title: ⚖️ 現在是現在、木漏れ日、快樂是一種選擇
 created: 2026-01-16
-modified: 2026-05-10
+modified: 2026-05-11
 issue: 14
-quote: “People sometimes fail to live because they are always preparing to live.” — Alan Watts
 tags: []
 ---
 
@@ -15,7 +14,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ---
 
-> [!WARNING] 以下劇透，請斟酌閱讀。
+> [!WARNING] 注意：以下劇透，請斟酌閱讀。
 
 最近看了 [《我的完美日常》（Perfect Days）](https://www.imdb.com/title/tt27503384/)。
 
