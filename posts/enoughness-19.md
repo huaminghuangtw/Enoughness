@@ -3,7 +3,6 @@ title: ⚖️ 許文龍幸福學、這個世界不是非黑即白、拋開對事
 created: 2026-02-20
 modified: 2026-05-10
 issue: 19
-quote: “You never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.” — Alan Watts
 tags: []
 ---
 
