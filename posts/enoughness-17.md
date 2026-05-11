@@ -3,7 +3,6 @@ title: ⚖️ 單字卡習慣養成法、專注力 > 時間、池塘裡溺水的
 created: 2026-02-06
 modified: 2026-05-10
 issue: 17
-quote: '“I want to live my life in such a way that when I get out of bed in the morning, the devil says, ‘aw shit, he’s up!’” — Steve Maraboli, Unapologetically You: Reflections on Life and the Human Experience'
 tags: []
 ---
 
