@@ -3,7 +3,6 @@ title: ⚖️ 手機人生、北歐時間、小熊維尼教我的事
 created: 2026-01-02
 modified: 2026-05-10
 issue: 12
-quote: “Did you ever stop to think, and forget to start again?” — Winnie-the-Pooh
 tags: []
 ---
 
