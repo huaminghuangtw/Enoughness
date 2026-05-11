@@ -3,7 +3,6 @@ title: ⚖️ 放下你的水杯、焦慮工具箱、大谷翔平的曼陀羅九
 created: 2025-12-05
 modified: 2026-05-10
 issue: 8
-quote: “Make each day your masterpiece.” — John Wooden
 tags: []
 ---
 
