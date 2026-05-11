@@ -3,7 +3,6 @@ title: ⚖️ 錢買不到的東西、每個人都活在自己的時區、分心
 created: 2026-01-30
 modified: 2026-05-10
 issue: 16
-quote: “Focus is about saying no.” — Steve Jobs
 tags: []
 ---
 
@@ -35,7 +34,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 > Spend your money on the things money can buy. Spend your time on the things money can’t buy.
 >
-> 把錢花在錢能買到的事物上，把時間花在 [錢買不到的事物](enoughness-16.md#1) 上。
+> 把錢花在錢能買到的事物上，把時間花在 [錢買不到的事物](../../..//Enoughness/posts/enoughness-16.md#1) 上。
 
 # 2
 
