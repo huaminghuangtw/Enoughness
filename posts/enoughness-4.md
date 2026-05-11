@@ -3,7 +3,6 @@ title: ⚖️ 如何改變世界、失敗博物館、給自己的一份禮物
 created: 2025-11-07
 modified: 2026-05-10
 issue: 4
-quote: “Being realistic is the most common path to mediocrity.” — Will Smith
 tags: []
 ---
 
