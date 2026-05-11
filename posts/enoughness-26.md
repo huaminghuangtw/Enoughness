@@ -3,7 +3,6 @@ title: ⚖️ 人肉電池、手機成癮、沒有數位焦慮的世界
 created: 2026-04-10
 modified: 2026-05-10
 issue: 26
-quote: '“There are only two industries that refer to their customers as ‘users’: the illegal drug trade and tech companies. Both thrive by creating addicts and profiting from the addiction.” — The Social Dilemma (2020 film)'
 tags: []
 ---
 
