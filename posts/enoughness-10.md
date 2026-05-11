@@ -3,7 +3,6 @@ title: ⚖️ 如何正確綁鞋帶、邊開火邊移動、一年讀數百本書
 created: 2025-12-19
 modified: 2026-05-10
 issue: 10
-quote: “Dreams are built on discipline; discipline is built on habits; habits are built on training. And training takes place in every single second and every situation of your life.” — Will Smith
 tags: []
 ---
 
