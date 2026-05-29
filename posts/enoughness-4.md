@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 改變世界從改變自己開始、失敗博物館、給自己的一份禮物
 created: 2025-11-07
-modified: 2026-05-22
+modified: 2026-05-29
 issue: 4
 tags: []
 ---
@@ -58,7 +58,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 * [高露潔冷凍義大利麵](https://museumoffailure.com/exhibition/colgate-kitchen-entrees) — 牙膏品牌跨界賣冷凍晚餐，理念是「吃完馬上刷牙」，但似乎沒人想吃「高露潔口味的義大利麵」。
 * [Juicero](https://www.google.com/search?q=Juicero) — 矽谷著名的失敗之作：要價 400 美元的智慧型果汁機，還能連 Wi-Fi 驗證果汁包的新鮮度。直到 [有人發現](https://youtu.be/5lutHF5HhVA) 直接「用手擠」也能榨出一樣的汁，速度還一樣快。這場鬧劇完美詮釋了「[Don’t simplify and optimize a part or process that should not exist in the first place.（不要去簡化或優化那些一開始就不該存在的流程或環節。）](https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html)」的道理。
 
-對這個主題有興趣的話，推薦《[工程、設計與人性：為什麼成功的設計，都是從失敗開始？](https://www.google.com/search?q=工程%E3%80%81設計與人性)》（To Engineer Is Human: The Role of Failure in Successful Design）這本書。
+對這個主題有興趣的話，推薦你《[工程、設計與人性：為什麼成功的設計，都是從失敗開始？](https://www.google.com/search?q=工程%E3%80%81設計與人性)》（To Engineer Is Human: The Role of Failure in Successful Design）這本書。
 
 # 3
 
