@@ -1,10 +1,10 @@
 ---
-title: ⚖️ 上錯車就要趕緊下車
+title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、曼巴精神
 created: 2026-05-22
-modified: 2026-05-28
-draft: true
+modified: 2026-05-29
 issue: 32
-tags: []
+tags:
+  - 心理韌性
 ---
 
 <!-- SELF-INTRO-START -->
@@ -17,26 +17,51 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 1
 
-> [“Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.” — Chris Bosh’s Speech at the 2021 Basketball Hall of Fame Enshrinement](https://www.youtube.com/shorts/Hkd-7zUxQaA)
+2021 年 9 月，曾在 NBA 打滾 13 年的 [Chris Bosh](https://www.google.com/search?q=Chris+Bosh) 正式入選奈 [史密斯籃球名人堂](https://www.google.com/search?q=史密斯籃球名人堂)（Naismith Basketball Hall of Fame）。
 
-這段著名的往事發生在 2008 年北京奧運期間，當時全美頂尖球星集結組成「救贖之隊」（Redeem Team）。這支球隊的成立背景，源於美國男籃在國際賽場經歷的一系列挫敗，包括 2002 年世錦賽僅獲第六名、2004 年雅典奧運準決賽敗給阿根廷僅得銅牌，以及 2006 年世錦賽再次失利。為了奪回金牌並重塑美國籃球的威信，美國籃協任命 Jerry Colangelo 為總監，並由杜克大學傳奇教練 K 教頭（Coach K）掌舵，要求球員長期磨合以建立團隊精神。Chris Bosh 回憶道，當時年僅 24 歲的他充滿鬥志，一心想在這些前輩面前展現競爭心，於是給自己設定了一個目標：每天都要成為第一個出現在早餐廳的人。為了達成目標，他特地在日出前就設好鬧鐘起床，換上全套運動裝備準備下樓。然而，當 Bosh 到達現場時，眼前的景象卻讓他徹底震撼。Kobe Bryant 早已坐在那裡，雙腿裹著冰袋，全身被汗水濕透。Bosh 花了一段時間才意識到，Kobe 並非只是早起吃早餐，而是已經獨自完成了一場高強度的個人訓練。最令 Bosh 感到不可思議的是，Kobe 在幾天前才剛在 NBA 總決賽中輸球，身體理應處於極度疲勞期；相比之下，Bosh 所在的球隊早已休賽數月，他理應體力充沛，卻依然被 Kobe 的意志力拉開了差距。這次經歷讓 Bosh 深刻體悟到「曼巴精神」的真諦：傳奇的定義不在於擁有多少成功，而是在於跌落谷底後，如何以更強大的姿態反彈與努力。
+在 [演講](https://youtu.be/naCn_91SuVU?t=3m14s) 中，他分享一段往事：
 
-Your goal in life should be to **reduce the amount of time it takes to get out of a bad state**. The ability to [bounce back quickly](../../Evergreen-Notes/Permanent-Notes/resilience.md) is one of life’s most important skills.
+2008 年北京奧運，美國男籃為了奪回失去的榮耀，集結了當時最頂尖的球星，組成「[救贖之隊](https://www.google.com/search?q=救贖之隊)」（Redeem Team）。當時年僅 24 歲的 Chris Bosh，滿懷鬥志地想在這些傳奇前輩面前證明自己。他給自己立下目標：每天都要成為第一個吃早餐的人。
 
-[It’s not about how hard you hit. It’s about how hard you can get hit, how much you can take, and keep moving forward.](https://youtu.be/tZUC-uAGLEA)
+於是，他設了鬧鐘，天還沒亮就起床，換好裝備，準備搶下「最早到」的頭銜。但每次抵達時，Kobe Bryant 早已汗流浹背坐在那，雙腿纏著冰袋 — Kobe 不只早起，還完成一輪高強度訓練。
 
-My wife once told me, <mark>[“When you’re five, you can be mad for a day. When you’re ten, you can be mad for an hour. By the time you’re thirty, you get ten minutes—and then you have to move on.”](https://jamesclear.com/3-2-1/december-11-2025)</mark>
+最令 Chris 感到不可思議的是，Kobe 幾天前才在 NBA 總決賽失利，理應是最疲憊的人；相比之下，Chris 所在的球隊早已休賽數月，他應該是體力最充沛的人，卻依然被 Kobe 的自律和自我要求拉開了差距。
 
-Life is full of [frustration and disappointment](../../Evergreen-Notes/Permanent-Notes/failing-forward-turns-setbacks-into-stepping-stones.md). Real maturity isn’t eliminating bad moments—it’s shrinking the time they have power over you.
+Chris 這才明白：
 
-Becoming [less reactive](../../Evergreen-Notes/Permanent-Notes/choose-your-response.md) doesn’t mean nothing bothers you; it means you’ve trained yourself to recognize when you’re in a bad state and pull yourself out of it faster.
-
-> “If you get on the wrong train, get off at the nearest station. The longer it takes you to get off, the more expensive the return trip will be.” — Japanese proverb
-
-> “It’s not whether you get knocked down, its whether you get back up.” — Vince Lombardi
+> 傳奇不是靠成功定義，而是如何從失敗中反彈。
+>
+> Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.
 
 # 2
 
+還記得小時候學走路嗎？每個人都是經過無數次「跌倒、再站起來」的過程，最後才學會走路。
+
+曾經有個長輩跟我說：
+
+> 五歲的小孩可以生氣一整天，十歲可以生氣一小時，三十歲以後，你只能花十分鐘，然後就該繼續往前。
+
+我們的目標，不是避免跌倒，而是縮短跌倒後站起來的時間。能夠快速從低潮中恢復元氣，是人生最重要的能力之一。
+
+在 Nike 這支名為「失敗」（Failure）的 [廣告](https://youtu.be/D33gtTgReeM) 中，籃球大帝 [Michael Jordan](https://www.google.com/search?q=Michael+Jordan) 說道：
+
+> I’ve missed more than 9,000 shots in my career. I’ve lost almost 300 games. Twenty-six times I’ve been trusted to take the game-winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.
+>
+> 我在職業生涯中錯失過九千多次出手機會，輸掉將近三百場比賽。有二十六次，隊友把最後一擊交給我，我卻沒投進。我一再失敗、一次又一次，正因如此，我才能成功。
+
+每一次 [失敗](enoughness-4.md#2) 都是實驗，每一個錯誤都是線索。
+
+成功，就是把每一次挫折都變成重新站起來的力量。
+
+![](_attachments/96ba4bea4282aeba081874ca13ba5d5a.png "圖片來源：[Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)")
+
 # 3
+
+
+不管剛經歷什麼挫敗，總是比昨天的自己更努力。
+
+# “The Mamba Mentality” by Kobe Bryant
+
+> Try to get 1% better at what your are doing every single day.
 
 — 樺明
