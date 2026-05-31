@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-05-30
+modified: 2026-05-31
 issue: 32
 tags:
   - 卓越
@@ -60,9 +60,9 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 # 3
 
-從小到大，[Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 一直是我的榜樣。雖然我不會打籃球，但 Kobe 的態度深深激勵著我 — 熱情、執著、自律、鍥而不捨、無所畏懼 — 還有更重要的：每天都要進步（Get better every single day）。
+從小到大，[Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 一直是我的榜樣。雖然我不會打籃球，但 Kobe 的態度深深激勵著我 — 熱情、執著、自律、鍥而不捨、無所畏懼 — 還有更重要的：**每天都要進步（Get better every single day）**。
 
-最近很喜歡在中午時邊 [沖冰水](enoughness-13.md#3)，邊聽 [Kobe 的諄諄教誨](https://youtu.be/Ju5kyQJyGBY)。每次聽到他的聲音，我都會起雞皮疙瘩，直通脊椎那種。
+最近很喜歡在中午時邊 [沖冰水](enoughness-13.md#3)，邊聽 [Kobe 的諄諄教誨](https://youtu.be/Ju5kyQJyGBY)。每次聽到他的聲音，我都會起雞皮疙瘩，貫穿脊椎那種。
 
 下面是我最喜歡、也經常放在心上提醒自己的幾段話：
 
@@ -70,7 +70,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.
 >
-> [最大的恐懼](enoughness-3.md#4) 是你自己，因為每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入，卻失敗了，那該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
+> [最大的恐懼](enoughness-3.md#4) 是你自己，因為每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入卻失敗了，那該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
 
 > Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it sucks, you still have to wake up the next day and do the journey all over again anyway.
 >
@@ -106,7 +106,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > If you want to play at an excellent level, if you want to do something excellent, you have to be excellent all the time. It’s a way of life. It’s not just, ‘I show up on Monday and be excellent.’ I don’t work that way. You get to be excellent across the board. That’s how you build habits. When excellence becomes a habit, that’s just who you are.
 >
-> 如果想做出卓越的事，你必須時時刻刻都很卓越。這是一種生活態度，不是「星期一才表現好」而已。你要在各方面都做到最好。當卓越變成習慣，那卓越就只是你這個人展現出的樣子而已。
+> 如果想做出卓越的事，你必須時時刻刻都很卓越。這是一種生活態度，不是「星期一才表現好」而已。你要在各方面都做到最好。當卓越變成習慣，那卓越就只是你這個人原本的樣子而已。
 
 > I don’t negotiate with myself. I told myself at 13 that I want to be one of the greatest who have ever played. That’s the deal I made. I shook hands with myself. That is the deal, that is the contract, that is non-negotiable.
 >
@@ -120,13 +120,15 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > What I’ve learned is to always keep going. Always. No matter what happens, the storm eventually ends, and when the storm does end, you want to make sure that you’re ready.
 >
-> 我學到的就是永遠要持續前進。無論發生什麼事，風暴終究會過去；當風暴過去時，你要確保自己已經準備就緒。
+> 我學到的就是永遠持續前進。無論發生什麼事，風暴終究會過去；當風暴過去時，你要確保自己已經準備就緒。
 
 > Rest at the end, not in the middle. And that’s something I always live by. I’m not going to rest, and I’m going to keep on pushing now. There are a lot of answers that I don’t have, even questions that I don’t have, but I’m just going to keep going.
 >
 > 在終點休息，不是在途中。這是我一直奉行的信念。我不會現在休息，我會繼續努力。很多答案我還不知道，甚至連問題都還沒想清楚，但我就是會一直努力下去。
 
 雖然 Kobe 已經在別的星球上了，曼巴精神依舊天天影響著我。
+
+相信他在另一個世界繼續熱愛籃球。
 
 謝謝你，我心目中永遠的英雄 💛💜
 
