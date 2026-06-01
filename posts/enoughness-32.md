@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-05-31
+modified: 2026-06-01
 issue: 32
 tags:
   - 卓越
@@ -22,15 +22,15 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 在 [演講](https://youtu.be/naCn_91SuVU?t=3m14s) 中，他分享一段往事：
 
-2008 年北京奧運，美國男籃為了奪回失去的榮耀，集結了當時最頂尖的球星，組成「[救贖之隊](https://www.google.com/search?q=救贖之隊)」（Redeem Team）。當時年僅 24 歲的 Chris Bosh，滿懷鬥志地想在這些傳奇前輩面前證明自己。他給自己立下目標：每天都要成為第一個吃早餐的人。
+2008 年北京奧運，美國男籃為了奪回失去的榮耀，集結了當時最頂尖的球星，組成「[救贖之隊](https://www.google.com/search?q=救贖之隊)」（Redeem Team）。當時年僅 24 歲的 Chris Bosh，滿懷鬥志地想在這些傳奇前輩面前證明自己。他給自己立下目標：每天衝第一吃早餐！
 
 於是，他設了鬧鐘，天還沒亮就起床，換好裝備，準備搶下「最早到」的頭銜。但每次抵達時，Kobe Bryant 早已汗流浹背坐在那，雙腿纏著冰袋 — Kobe 不只早起，還完成一輪高強度訓練。
 
-最令 Chris 感到不可思議的是，Kobe 幾天前才在 NBA 總決賽失利，理應是最疲憊的人；相比之下，Chris 所在的球隊早已休賽數月，他應該是體力最充沛的人，卻依然被 Kobe 的自律和自我要求拉開了差距。
+最令 Chris 感到不可思議的是，Kobe 幾天前才在 NBA 總決賽失利，理應是最疲憊的人；相比之下，Chris 所在的球隊早已休賽數月，論身體狀態，他應該是最好的，卻依然被 Kobe 的自律和自我要求海放，看不到車尾燈。
 
 Chris 這才明白：
 
-> 傳奇不是靠成功定義，而是如何從失敗中反彈。
+> 傳奇不是以擁有過多少成功來定義，而是如何在跌落谷底後反彈。
 >
 > Legends aren’t defined by their success, they’re defined by how they bounce back from their failures.
 
@@ -40,9 +40,9 @@ Chris 這才明白：
 
 曾經有個長輩跟我說：
 
-> 五歲的小孩可以生氣一整天，十歲可以生氣一小時，三十歲以後，你只能花十分鐘，然後就該繼續往前。
+> 五歲小孩可以生氣一整天，十歲可以生氣一小時，三十歲後，你只能花十分鐘，然後就該繼續前進。
 
-我們的目標，不是避免跌倒，而是縮短跌倒後站起來的時間。能夠快速從低潮中恢復元氣，是人生最重要的能力之一。
+我們的目標，不是避免跌倒，而是縮短跌倒後再度站起來的時間。能夠快速從低潮中恢復元氣，是人生最重要的能力之一。
 
 在 Nike 這支名為「失敗」（Failure）的 [廣告](https://youtu.be/D33gtTgReeM) 中，籃球大帝 [Michael Jordan](https://www.google.com/search?q=Michael+Jordan) 說道：
 
@@ -70,7 +70,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.
 >
-> [最大的恐懼](enoughness-3.md#4) 是你自己，因為每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入卻失敗了，那該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
+> [最大的恐懼](enoughness-3.md#4) 是你自己，因為每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入，卻失敗了，該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
 
 > Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it sucks, you still have to wake up the next day and do the journey all over again anyway.
 >
@@ -78,7 +78,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 ## 關於持續小幅進步
 
-> The confidence comes from preparation. When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look like ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.
+> The confidence comes from preparation. When the game is on the line, I’m not asking myself to do something I haven’t done thousands of times before. In those moments, if I look ice-cold or not nervous, it’s because I’ve done it thousands of times before. So it’s just one more time.
 >
 > 自信來自準備。在比賽關鍵時刻，我不會要求自己做沒練習過上千次的事。那一刻，如果我看起來很冷靜、不緊張，是因為我已經做過無數次了，這只是再多一次而已。
 
@@ -128,7 +128,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 雖然 Kobe 已經在別的星球上了，曼巴精神依舊天天影響著我。
 
-相信他在另一個世界繼續熱愛籃球。
+相信他在另一個世界還是同樣熱愛籃球。
 
 謝謝你，我心目中永遠的英雄 💛💜
 
