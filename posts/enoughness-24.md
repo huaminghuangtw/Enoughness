@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 奇異果的皮可以吃、不要擔心，要關心、先當學生，再當運動員
 created: 2026-03-27
-modified: 2026-05-10
+modified: 2026-06-01
 issue: 24
 tags: []
 ---
@@ -84,7 +84,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 >
 > Negative energy is wasted energy. You want to become a master at overcoming hard moments. That is to me the sign of a champion. The best in the world are not the best because they win every point. It’s because they know they will lose again and again, and have learnt how to deal with it. You accept it, cry it out if you need to, and then force a smile.
 
-美國 NBA 前職業球員、曾就讀於喬治亞理工學院（[Georgia Institute of Technology](https://www.google.com/search?q=Georgia+Institute+of+Technology)）的 [Chris Bosh](https://www.google.com/search?q=Chris+Bosh)，在 [入選籃球名人堂典禮的致詞](https://youtu.be/naCn_91SuVU?t=188s) 中，回憶起自己和已故傳奇球星 [Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 同隊的經歷 — 當時 24 歲的他，試圖以早起吃早餐展現鬥志，卻發現 Kobe 早已完成晨練、滿身大汗地裹著冰袋，坐在餐廳準備吃早餐。這讓他深刻體悟到：
+前 NBA 球員、曾就讀於喬治亞理工學院（[Georgia Institute of Technology](https://www.google.com/search?q=Georgia+Institute+of+Technology)）的 [Chris Bosh](https://www.google.com/search?q=Chris+Bosh)，在 [入選籃球名人堂典禮的致詞](https://youtu.be/naCn_91SuVU?t=188s) 中，回憶起自己和已故傳奇球星 [Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 同隊的經歷 — 當時 24 歲的他，試圖以早起吃早餐展現鬥志，卻發現 Kobe 早已完成晨練、滿身大汗地裹著冰袋。這讓他深刻體悟到：
 
 > 傳奇不是以擁有過多少成功來定義，而是如何在跌落谷底後反彈。
 >
