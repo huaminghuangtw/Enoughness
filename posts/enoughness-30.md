@@ -1,7 +1,7 @@
 ---
-title: ⚖️ 正念飲食、
+title: ⚖️ 正念飲食、我的睡眠神器、如何喝水
 created: 2026-05-08
-modified: 2026-05-31
+modified: 2026-06-02
 issue: 30
 tags: []
 ---
@@ -32,7 +32,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 意思是「做什麼，像什麼。」不論做什麼事，專注當下、全心投入。
 
-當我把注意力都放在「咀嚼」和「吞嚥」上，感受每一口慢慢進入身體的過程，食物似乎也變得更美味、更好吃了！（歐對，閉上眼睛，並滿懷感激，似乎還有加成作用。）
+當我把注意力都放在「咀嚼」和「吞嚥」上，感受每一口慢慢進入身體的過程，食物似乎也變得更美味、更好吃了！（對了，閉上眼睛，並滿懷感激，似乎還有加成作用唷！）
 
 沒有比較沒有傷害。跟現在每次進食都能感受到被滋養、獲得能量比起來，以前好像只吃下沒有靈魂的空殼……
 
@@ -40,6 +40,88 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 # 2
 
+如果每天睡 8 小時，一天有 1/3 的時間要貢獻給睡眠。
+
+[大谷翔平](enoughness-8md#3) 更是會睡到 [12 小時（包含賽前 2 小時午睡）](https://www.si.com/mlb/2024/03/15/shohei-ohtani-dodgers-sleep-habits-mattress)，等於有半天都在 [休息](enoughness-20.md#3)。
+
+他在 [GQ 的 10 項貼身小物訪談](https://youtu.be/wkh2mxn49RI) 中，就有 3 項跟睡眠有關：
+
+1. 客製化睡眠枕頭
+2. 心率監測器
+3. 加重眼罩
+
+世界上很多頂尖運動員（像是 [Roger Federer](https://www.google.com/search?q=Roger+Federer+sleep)、[Usain Bolt](https://www.google.com/search?q=Usain+Bolt+sleep)、[LeBron James](https://www.google.com/search?q=LeBron+James+sleep)）都很喜歡睡覺，他們 [把睡覺當作一天中最重要的事](enoughness-11.md#3)。
+
+睡覺是最有效的恢復方式，比吃任何山珍海味都還要有用。
+
+![](_attachments/Pasted%20image%2020260602170829.png)
+
+這是我的睡眠組合包，裡面包括：
+
+1. 眼罩
+2. 耳塞
+3. 美容膠帶
+4. 凡士林
+5. 鎂錠
+6. 紙 & 筆
+
+# 眼罩 & 耳塞
+
+優質的睡眠環境需要「暗」跟「靜」：眼罩用來封住眼睛，隔絕光線；耳塞用來封住耳朵，隔絕噪音。
+
+## 美容膠帶
+
+至於美容膠帶呢？用來封住嘴巴。
+
+「[用鼻子呼吸，用嘴巴吃東西](https://www.google.com/search?q=鼻子呼吸+嘴巴呼吸)」是人類呼吸系統的設計邏輯。
+
+睡前，我會用美容膠帶輕封嘴巴（上下直貼），幫助自己養成鼻呼吸的習慣。
+
+鼻呼吸不僅能過濾和加濕空氣，還會產生「[一氧化氮](https://www.google.com/search?q=鼻子+呼吸+一氧化氮)」——呼吸道的天然消毒劑，可以對抗病原體，並提升血氧濃度。
+
+相反地，口呼吸容易造成蛀牙、口乾和降低睡眠品質（例如打鼾或睡眠呼吸中止）。
+
+如果你很在意外表，更要注意是否有嘴巴呼吸的習慣。[口呼吸會改變舌頭與臉部肌肉的位置](https://www.google.com/search?q=嘴巴+呼吸+臉型)，尤其是當小朋友還在發育時，容易導致暴牙、下巴消失等變醜的情況。
+
+## 凡士林
+
+貼美容膠帶前，我會先在嘴唇上塗一層薄薄的凡士林，除了保濕，早上也比較好把膠帶撕下來。
+
+## 鎂錠
+
+這是從 [Dr. Andrew Huberman](https://youtu.be/XcvhERcZpWw?t=6030s) 身上學到的。我固定在睡前 30–60 分鐘吞一顆 [Doppelherz 的夜間舒眠鎂錠](https://www.doppelherz.de/produkte/doppelherz-aktiv-magnesium-500-fuer-die-nacht)。
+
+## 紙 & 筆
+
+醒來後，我不會馬上起身，而是繼續躺著，給腦袋一點時間，把醞釀了一整晚的潛意識推上檯面。
+
+這是我一天中靈感最多的時刻，我會側身快速記下：
+
+* 就寢與起床時間
+* 今天最重要的任務
+* 任何突然湧現的想法
+
+整個流程大約花費 15–20 分鐘；確認腦中出現的重點都寫下後，才會起床開始一天。
+
 # 3
+
+When exercising, follow the [Galpin Equation](https://youtu.be/q37ARYnRDGc?t=2989s) as a guideline for the amount of **additional** fluid you should consume
+
+# The Galpin Equation
+
+* Body weight (in lbs.) divided by 30 = number of ounces to consume every 15–20 minutes
+* Body weight (in kg.) × 2 = number of mL to consume every 15–20 minutes
+
+---
+
+[How to Optimize Your Water Quality & Intake for Health | Huberman Lab](https://youtu.be/at37Y8rKDlA)
+
+---
+
+Zero-cost option: rest 1–5 gallons of water, uncapped, at room temperature for ~1 day. Sediment will fall to the bottom, so you can pour off the top two-thirds for drinking.
+
+_Note_: Do not opt for boiling tap water as a filtration method because high heat can actually make contaminants worse.
+
+For most people, **it will be healthier to filter their tap water.** (Brita pitcher filters)
 
 — 樺明
