@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 單字卡習慣養成法、專注力 > 時間、池塘裡溺水的孩子
 created: 2026-02-06
-modified: 2026-05-10
+modified: 2026-06-02
 issue: 17
 tags: []
 ---
@@ -27,8 +27,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 可以先選擇一個簡單的起點，例如起床後的第一個動作，然後用紙卡或便條紙把你的日常小習慣依序排列，然後照順序執行。就像背單字，把一連串小動作串接起來，每個動作緊接著下一個。
 
 這和《[原子習慣](https://www.books.com.tw/products/0010822522)》（Atomic Habits）提到的「習慣堆疊」（[Habit Stacking](https://www.google.com/search?q=Habit+Stacking)）很類似：將正向的小習慣一個個疊加，逐步建立完整的日常流程。
-
-遇到分心時，就提醒自己回到卡片，不必追求完美，重點是持續累積。
 
 美國作家 [Annie Dillard](https://www.google.com/search?q=Annie+Dillard) 曾說：
 
