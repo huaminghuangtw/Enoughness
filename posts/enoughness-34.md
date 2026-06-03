@@ -31,7 +31,7 @@ you can hold a yellow badge which is the suburban parts of london which is easie
 
 測驗內容：司機必須牢記以查令十字（Charing Cross）為中心、半徑 6 英里範圍內的 320 條主要路線、25,000 條街道，以及沿途所有的地標、建築、商店和劇院等資訊。考試難度：考試完全禁止使用 GPS 與導航。學員必須通過多個階段的口試（稱為 Appearable），向考官精準描述兩點之間的最短行車路線。驚人數據：通常平均需要 2 到 4 年的時間來背誦，且僅有約 1/5 的報考者能最終通過。
 
-![](_attachments/Pasted%20image%2020260602102519.png)
+![](_attachments/0a02c3dd29337374bf6d5e1f0abc2e07.png)
 
 [圖片來源：維基百科](https://en.wikipedia.org/wiki/Hackney_carriage)
 
