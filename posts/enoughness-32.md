@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-06-01
+modified: 2026-06-05
 issue: 32
 tags:
   - 卓越
@@ -106,7 +106,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > If you want to play at an excellent level, if you want to do something excellent, you have to be excellent all the time. It’s a way of life. It’s not just, ‘I show up on Monday and be excellent.’ I don’t work that way. You get to be excellent across the board. That’s how you build habits. When excellence becomes a habit, that’s just who you are.
 >
-> 如果想做出卓越的事，你必須時時刻刻都很卓越。這是一種生活態度，不是「星期一才表現好」而已。你要在各方面都做到最好。當卓越變成習慣，那卓越就只是你這個人原本的樣子而已。
+> 如果想做出卓越的事，你必須時時刻刻都很卓越。這是一種生活態度，不是「星期一才表現好」而已。你要在各方面都做到最好。當卓越變成習慣，那卓越就是你展現的樣子罷了。
 
 > I don’t negotiate with myself. I told myself at 13 that I want to be one of the greatest who have ever played. That’s the deal I made. I shook hands with myself. That is the deal, that is the contract, that is non-negotiable.
 >
