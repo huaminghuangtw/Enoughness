@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 正念飲食、我的睡眠神器、沒事多喝水
 created: 2026-05-08
-modified: 2026-06-05
+modified: 2026-06-06
 issue: 30
 tags:
   - 自我照顧
@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 以前我常把吃飯當成填飽肚子或消磨時間的活動，總是要配個 YouTube 才吃得下去。
 
-自從在 [Michael Gershon](https://www.google.com/search?q=Michael+Gershon) 博士身上學到「[腸腦軸線](https://www.google.com/search?q=腸腦軸線)」（Gut-Brain Axis）」這個概念後，我開始練習專心吃飯。
+在 [Michael Gershon](https://www.google.com/search?q=Michael+Gershon) 博士身上學到「[腸腦軸線](https://www.google.com/search?q=腸腦軸線)」（Gut-Brain Axis）」這個概念後，我開始練習專心吃飯。
 
 簡單來說，腸道是人體的「第二大腦」，兩者之間有一條由迷走神經（Vagus Nerve）組成的「高速公路」雙向傳遞訊息。當我們壓力大、焦慮時，腸胃會跟著不舒服；反過來，腸道健康也會影響我們的心情和專注力。
 
@@ -33,7 +33,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 意思是「做什麼，像什麼。」不論做什麼事，專注當下、全心投入。
 
-當我把注意力都放在「咀嚼」和「吞嚥」上，感受每一口慢慢進入身體的過程，食物似乎也變得更美味、更好吃了！（對了，閉上眼睛，並滿懷感激，似乎還有加成作用唷！）
+當我把注意力都放在「咀嚼」和「吞嚥」上，感受每一口慢慢進入身體的過程，食物似乎也變得更美味、更好吃了！
+
+對了，閉上眼睛，並滿懷感激，似乎還有加成作用唷！
 
 沒有比較沒有傷害。跟現在每次進食都能感受到被滋養、獲得能量比起來，以前好像只吃下沒有靈魂的空殼……
 
@@ -116,11 +118,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 運動時，可以參考 [The Galpin Equation](https://youtu.be/q37ARYnRDGc?t=2989s)：體重公斤數（kg）× 2 = 每 15–20 分鐘要喝的毫升數（mL）。舉例來說，如果你的體重是 65 kg，則建議每 15–20 分鐘攝取 130 mL 水分。
 
-這個公式不是絕對 — 運動強度、天氣、出汗量和體質都會影響。可以透過觀察尿液顏色（淡黃色為佳）和體感來動態調整飲水量。
+這個公式不是絕對 — 運動強度、天氣、出汗量和體質都會影響。可以透過觀察尿液顏色和體感來動態調整飲水量。
 
-![](_attachments/9fa7dc50016b914d0d90db9a2f8c8980.png)
+![](_attachments/97d95e6e15a0e052c448f7d468bf190d.png)
 
-關於飲用水過濾，除了市面上的濾壺、濾芯（例如 Brita），Dr. Andrew Huberman [提到](https://youtu.be/at37Y8rKDlA?t=1h44m18s) 一個零成本的做法：在室溫下，將飲用水靜置一段時間，雜質沉澱底部後，倒出上層 ⅔ 飲用。他還 [特別提醒](https://youtu.be/at37Y8rKDlA?t=1h46m3s)，靜置全程必須是「無蓋」（Uncapped）狀態（或用一塊布蓋著），目的是讓內部物質可以蒸發出去。
+關於飲用水過濾：除了市面上的濾壺、濾芯（例如 Brita），Dr. Andrew Huberman [提到](https://youtu.be/at37Y8rKDlA?t=1h44m18s) 一個零成本的做法：在室溫下，將飲用水靜置一段時間，雜質沉澱底部後，倒出上層 ⅔ 飲用。他還 [特別提醒](https://youtu.be/at37Y8rKDlA?t=1h46m3s)，靜置全程必須是「無蓋」（Uncapped）狀態（或用一塊布蓋著），目的是讓內部物質可以蒸發出去。
 
 ![](_attachments/260664b48aefc1043f9bfdf819d36358.png)
 
