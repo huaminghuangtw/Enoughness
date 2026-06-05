@@ -1,0 +1,8 @@
+#!/bin/sh
+
+python3 .scripts/sync_self_intro.py
+
+if ! git diff --quiet posts/; then
+  git add posts/
+  git commit --no-verify -m "chore: sync self-intro"
+fi
