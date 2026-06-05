@@ -1,10 +1,10 @@
 ---
 title: ⚖️ 正念飲食、我的睡眠神器、沒事多喝水
 created: 2026-05-08
-modified: 2026-06-04
+modified: 2026-06-05
 issue: 30
 tags:
-  - 健康
+  - 自我照顧
 ---
 
 <!-- SELF-INTRO-START -->
@@ -51,7 +51,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 2. 心率監測器
 3. 加重眼罩
 
-很多頂尖的精英運動員（像是 [Roger Federer](https://www.google.com/search?q=Roger+Federer+sleep)、[Usain Bolt](https://www.google.com/search?q=Usain+Bolt+sleep)、[LeBron James](https://www.google.com/search?q=LeBron+James+sleep)）都很喜歡睡覺，他們 [把睡覺當作一天中最重要的事](enoughness-11.md#3)。
+很多頂尖的精英運動員（像是 [Roger Federer](https://www.google.com/search?q=Roger+Federer+sleep)、[Usain Bolt](https://www.google.com/search?q=Usain+Bolt+sleep)、[LeBron James](https://www.google.com/search?q=LeBron+James+sleep)）都很喜歡 [睡覺](enoughness-18.md#1)，他們 [把睡覺當作一天中最重要的事](enoughness-11.md#3)。
 
 睡覺是最有效的恢復方式，比吃任何山珍海味都還要有用。
 
