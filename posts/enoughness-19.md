@@ -74,7 +74,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 同時也對這種「不解釋」的氣度與格局，感到敬佩 🫡
 
-這就跟 [周杰倫](https://www.google.com/search?q=周杰倫) 被問到：「萬一別人不看你拍的電影怎麼辦？」，會說：「[那是他們的損失。](https://huam.ing/kevin-tsai-drinking-library)」
+這就跟 [周杰倫](https://www.google.com/search?q=周杰倫) 被問到：「萬一別人不看你拍的電影怎麼辦？」，會說：「[那是他們的損失。](https://huam.ing/i-am-afraid-that-someone-else-is-having-a-better-life-than-me)」
 
 一樣瀟灑帥氣。
 
@@ -84,15 +84,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 
 ⚖️ 全書最後一句：「**我所需要的，都已經足夠。**」
 
-看似簡單，卻蘊含豐盛的生活智慧。
-
-許文龍學，是一門關於知足幸福的人生管理哲學，值得我們學習。
-
 ---
 
-我寫了一篇 [書摘](https://huam.ing/wen-long-hsu-zero-and-infinity)，有興趣更深入了解這本書的話，可以看看。
+許文龍學，是一門關於知足、幸福的人生哲學，值得我們學習。
 
-如果能親自翻閱這本書，細細品味原汁原味的許文龍，當然是更好。
+我寫了一篇 [書摘](https://huam.ing/zero-and-infinity)，可以看看唷！
 
 # 2
 
