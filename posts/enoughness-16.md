@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 錢買不到的東西、每個人都活在自己的時區、分心筆記本
 created: 2026-01-30
-modified: 2026-06-02
+modified: 2026-06-05
 issue: 16
 tags: []
 ---
@@ -69,7 +69,5 @@ _嗨，我是 [黃樺明](https://huam.ing)，我熱愛 [寫作](https://huam.in
 其實，[大腦天生擅長分心](enoughness-27.md#2)。與其用意志力強迫自己不走神，不如善用這種「[漫遊](https://huam.ing/enoughness-18/#3)」的特性，把想到的事通通捕捉起來。
 
 透過這個方法，能幫助自己回歸當下、將 [專注力](enoughness-17.md#2) 拉回手邊工作。
-
-![](_attachments/1da39cec8f0baeb88540f6cc2df8dcf0.png)
 
 — 樺明
