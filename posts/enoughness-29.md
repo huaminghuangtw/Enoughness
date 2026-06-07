@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 小便斗裡的蒼蠅、大腦如何解碼視覺資訊、設計 Salience
 created: 2026-05-01
-modified: 2026-05-26
+modified: 2026-06-06
 issue: 29
 tags:
   - 設計
