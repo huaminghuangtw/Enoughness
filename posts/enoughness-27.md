@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 當維尼，不要當兔子、預設模式網路、守護你的玫瑰
 created: 2026-04-17
-modified: 2026-06-05
+modified: 2026-06-06
 issue: 27
 tags:
   - 腦科學
