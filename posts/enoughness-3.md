@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
-modified: 2026-06-06
+modified: 2026-06-07
 issue: 3
 tags: []
 ---
@@ -32,7 +32,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](https://images.unsplash.com/photo-1581588525251-e1dca48e9827?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
-曾—病房服務多年的澳洲護理師 [Bronnie Ware](https://www.google.com/search?q=Bronnie+Ware)，在文章《[Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)》中，整理出上百位病人登出人生前最後悔的 5 件事：
+曾在安寧病房服務多年的澳洲護理師 [Bronnie Ware](https://www.google.com/search?q=Bronnie+Ware)，在文章《[Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)》中，整理出上百位病人登出人生前最後悔的 5 件事：
 
 ## 第一名：我希望有勇氣為自己而活，而不是過著別人期望我過的生活
 
