@@ -5,6 +5,7 @@ TEMPLATE = Path(
     "/Users/huaminghuang/Library/Mobile Documents/"
     "iCloud~md~obsidian/Documents/Second-Brain/Templates/T_Enoughness.md"
 )
+
 POSTS_DIR = Path(__file__).parent.parent / "posts"
 
 START_MARKER = "<!-- SELF-INTRO-START -->"
@@ -33,7 +34,6 @@ def sync_post(post_path: Path, canonical: list[str]) -> None:
     if new_text != text:
         post_path.write_text(new_text, encoding="utf-8")
 
-
 def main() -> None:
     if not TEMPLATE.exists():
         print(f"error: template not found: {TEMPLATE}", file=sys.stderr)
@@ -51,7 +51,6 @@ def main() -> None:
 
     for post in sorted(POSTS_DIR.glob("*.md")):
         sync_post(post, canonical)
-
 
 if __name__ == "__main__":
     main()
