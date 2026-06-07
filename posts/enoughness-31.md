@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 快思慢想、一次只做一件事、無心之心
 created: 2026-05-15
-modified: 2026-06-05
+modified: 2026-06-06
 issue: 31
 tags:
   - 正念
