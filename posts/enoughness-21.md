@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 吃個味道就好、微互動的力量、簡單生活
 created: 2026-03-06
-modified: 2026-05-10
+modified: 2026-06-06
 issue: 21
 tags: []
 ---
