@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 1. 快速、直覺的系統 1
 2. 緩慢、理性的系統 2
 
-![](_attachments/Pasted%20image%2020260607180544.png)
+![](_attachments/ac3be20a7086e1267c08f344b713ec2f.png)
 
 系統 1 專門處理熟練或習慣性動作；但需要深度思考、邏輯推演和創造力的事，只能交給系統 2。
 
