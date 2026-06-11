@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘密武器
 created: 2026-01-23
-modified: 2026-06-06
+modified: 2026-06-11
 issue: 15
 tags: []
 ---
@@ -56,7 +56,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 2
 
-[歐洲少林寺](https://www.google.com/maps?q=Shaolin+Temple+Europe) 掌門人 [釋恆義](https://www.google.com/search?q=Shi+Heng+Yi)（Shi Heng Yi）在 TED 演講中 [提到](https://youtu.be/4-079YIasck?t=16m41s)：
+[歐洲少林寺](https://www.google.com/maps?q=Shaolin+Temple+Europe) 掌門人 [釋恆義](https://www.google.com/search?q=Shi+Heng+Yi)（Shi Heng Yi）在 TED 演講 [提到](https://youtu.be/4-079YIasck?t=16m41s)：
 
 > 我不是我的身體，我不是我的心智，我不是我的情緒，我只是能夠從旁看見這三個面向的自己。
 >
@@ -64,19 +64,21 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](_attachments/20b8406ef85cbbfdf2c21d9cafb09b0b.png)
 
-長時間獨處、走路與冥想後，我深刻體悟到：我只是一名自己的「觀察員」，靜靜觀照著一切的存在。
+長時間獨處、走路與冥想後，我深刻體悟到：**我只是一名自己的「觀察員」，靜靜觀照著一切的存在。**
 
-持續練習正念（Mindfulness）後，我發現：一切都是順其自然的能量流動。我的任務，只是順勢而為 — 讓身體交由心靈統御，心靈交由靈魂管轄，靈魂則 [臣服](enoughness-13.md#3) 於 [天賦](https://huam.ing/you-and-your-timeline) 的指引。
+持續練習 [正念](https://www.google.com/search?q=正念)（Mindfulness）後，我發現：一切都是順其自然的能量流動。我的任務，只是順勢而為 — 讓身體交由心靈統御，心靈交由靈魂管轄，靈魂則 [臣服](enoughness-13.md#3) 於 [天賦](https://huam.ing/you-and-your-timeline) 的指引。
 
 自我覺察，是開啟與自己真誠對話、自在相處的能力。唯有 [對「感覺」保持敏銳](enoughness-22.md#3)，才能察覺情緒、發現真實感受。
 
-理解自己，是喜歡自己的開始，也是改變自己的起點。
+認識自己，是喜歡自己的開始，也是改變自己的起點。
 
-老子《道德經》第三十三章寫道：「知人者智，自知者明。勝人者有力，自勝者強。」
+老子《道德經》第三十三章寫道：
 
-了解別人是聰明，了解自己是智慧；駕馭他人是力量，駕馭自己是強大。
+> 知人者智，自知者明。勝人者有力，自勝者強。
 
-修行並不侷限於和尚，每個人都能在日常中學會看見自己、成為自己的主人。
+白話文的意思是：**了解別人是聰明，了解自己是智慧；駕馭他人是力量，駕馭自己是強大。**
+
+修行並不侷限於和尚，每個人都能在日常中練習看見自己、成為自己的主人。
 
 # 3
 
