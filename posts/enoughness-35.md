@@ -108,7 +108,7 @@ PISA 對 LDW 的定義是這樣說的：
 
 > 你記不記得校園裡有哪些樹？你最喜歡哪一棵？它在校園的哪個角落？
 
-可能很少人能回答這些問題。
+可能很少同學能回答這些問題。
 
 《[小王子](enoughness-27.md#3)》（The Little Prince）中，狐狸對小王子說：
 
@@ -116,7 +116,7 @@ PISA 對 LDW 的定義是這樣說的：
 >
 > It is only with the heart that one can see rightly; what is essential is invisible to the eye.
 
-現在也請你閉上眼，靜下來想想：
+現在，也請你閉上眼，靜下來想想：
 
 > 我們是否過於在乎孩子的課業、成績、升學，而忘了花時間開啟孩子的內在心靈，與開發他們 [感受世界的能力](enoughness-22.md#3)？
 
