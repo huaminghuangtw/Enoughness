@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 未來工作報告、自我調節學習與後設認知、教育的目的
 created: 2026-06-12
-modified: 2026-06-12
+modified: 2026-06-13
 issue: 35
 tags:
   - 教育
@@ -17,11 +17,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-世界經濟論壇（World Economic Forum，WEF）在 2025 年 1 月發布了兩年一度的「[未來工作報告](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)」，分析了企業眼中最重視的核心技能。
+[世界經濟論壇](https://www.google.com/search?q=世界經濟論壇)（World Economic Forum，WEF）在 2025 年 1 月發布了兩年一度的「[未來工作報告](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)」，分析了企業眼中最重視的核心技能：
 
-## 2025 核心技能
+## 2025 年核心技能
 
-![](_attachments/15e15772152fb839379bc6c5262997d9.png)
+![](_attachments/15e15772152fb839379bc6c5262997d9.png "2025 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
 
 前五名清一色是人類獨有的技能：
 
@@ -38,9 +38,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 並列。
 
-## 2030 核心技能
+## 2030 年核心技能
 
-![](_attachments/31cd1518d438d8b3d353ad05dd51f679.png)
+![](_attachments/31cd1518d438d8b3d353ad05dd51f679.png "2030 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
 
 2030 年的預測是一張四象限圖。
 
@@ -54,9 +54,9 @@ X 軸代表「2025 年雇主視為核心的比例」，Y 軸代表「預計到 2
 
 ### 第二象限：新興技能（Emerging skills）— 現在不太重要，未來將增加需求的技能
 
-左上角的 **網路安全（Networks & cybersecurity）** 和 **環境永續（Environmental stewardship）** 被視爲未來的兩匹大黑馬。
+左上角的 **網路安全（Networks & cybersecurity）** 和 **環境永續（Environmental stewardship）**，被視爲未來的兩匹大黑馬。
 
-這兩項就像十年前的 AI — 當時沒人在意，幾年後大家搶著要。
+他們就像十年前的 AI — 當時沒人在意，幾年後大家搶著要。
 
 ### 第三象限：邊緣技能（Out of focus skills）— 現在不太重要，未來不太會增加需求的技能
 
@@ -64,13 +64,13 @@ X 軸代表「2025 年雇主視為核心的比例」，Y 軸代表「預計到 2
 
 我認為，這個象限有三個被低估的技能：
 
-1. **閱讀、寫作、數學（Reading, writing and mathematics）**：AI 讓資訊變得廉價、唾手可得，同時也讓決策判斷力變得稀有。能分辨資訊真偽、用文字或數字把想法說清楚，表示一個人的思考清晰度。沒有這些基本功，其他技能很難發揮。
-2. **教導與指導（Teaching and mentoring）**：在知識折舊加速的時代，能把複雜的觀念，用深入淺出的方式讓 5 歲小孩也聽得懂的人，會是組織中最具槓桿的資產。
-3. **多語能力（Multi-lingualism）**：人權鬥士、南非首位黑人總統 [Nelson Mandela](https://www.google.com/search?q=Nelson+Mandela) 曾說：「[用對方聽得懂的語言交談，是在對他的大腦說話；用對方的母語交談，是在對他的內心說話。](https://www.brainyquote.com/quotes/nelson_mandela_121685)」語言不只是溝通工具，更是信任的載體。翻譯軟體翻得出句子，但翻不了人與人之間的情感連結。
+1. **閱讀、寫作、數學（Reading, writing and mathematics）**：AI 讓資訊變得廉價、唾手可得，同時也讓決策判斷力變得稀有。能分辨資訊真偽、用文字或數字把想法說清楚，表示一個人有清晰的思考。沒有這些基本功，其他技能很難發揮。
+2. **教導與指導（Teaching and mentoring）**：在知識折舊加速的時代，能把複雜的觀念，用深入淺出的方式 [讓 5 歲小孩也聽得懂](https://www.reddit.com/r/explainlikeimfive/) 的人，會是組織中最具槓桿的資產。
+3. **多語能力（Multi-lingualism）**：人權鬥士、南非首位黑人總統 [Nelson Mandela](https://www.google.com/search?q=Nelson+Mandela) 曾說：「[用對方聽得懂的語言交談，是在對他的大腦說話；用對方的母語交談，是在對他的內心說話。](https://www.brainyquote.com/quotes/nelson_mandela_121685)」語言不只是溝通工具，更是信任的載體。AI 翻得出句子，但翻不了人與人之間的情感連結。
 
 ### 第四象限：穩定技能（Steady skills）— 現在重要，未來不太會增加需求的技能
 
-右下角，包括 **服務導向與客戶服務（Service orientation and customer service）**、**資源管理與營運（Resource management and operations）**，這些技能的需求已近飽和。
+右下角，包括 **服務導向與客戶服務（Service orientation and customer service）**、**資源管理與營運（Resource management and operations）**，這些技能的需求已趨近於飽和。
 
 # 2
 
@@ -106,13 +106,13 @@ PISA 對 LDW 的定義是這樣說的：
 
 如果請他們閉上眼，靜下來想想：
 
-> 你記不記得校園裡有哪些樹？你最喜歡哪一棵？它在校園的哪個角落？
+> 你記不記得校園裡有哪些樹？你最喜歡哪一棵？它在哪個角落？
 
-可能很少同學能回答這些問題。
+可能沒幾位同學能回答這些問題。
 
-《[小王子](enoughness-27.md#3)》（The Little Prince）中，狐狸對小王子說：
+《[小王子](enoughness-27.md#3)》中，狐狸說：
 
-> 只有用心體會才能看清一切，真正重要的東西，用眼睛是看不見的。
+> 只有用心體會才能看清楚；真正重要的東西，用眼睛是看不見的。
 >
 > It is only with the heart that one can see rightly; what is essential is invisible to the eye.
 
@@ -122,12 +122,12 @@ PISA 對 LDW 的定義是這樣說的：
 
 PISA 之父 [Andreas Schleicher](https://www.google.com/search?q=Andreas+Schleicher) 在 TED 演講中 [說](https://youtu.be/7Xmr87nsl74?t=3m8s)：
 
-> 人生的考驗不在於你是否記得在學校學過的東西，而在於你是否準備好面對改變。
+> 人生的考驗，不在於是否記得學校教過的東西，而在於是否準備好面對改變。
 >
 > The test of truth in life is not whether we can remember what we’ve learned in school, but whether we’re prepared for change.
 
-智慧是知識的恰當運用。這個世界並不在乎你能**記住什麼**，它在乎的是你能否靈活應對外在環境的變化，用知識去**做些什麼**。
+智慧是知識的恰當運用。這個世界並不在乎你能 _記住什麼_，而是能否用知識去 _做些什麼_。
 
-我想，**教育的目的，是對人生有全盤式的觀點，進而毫無保留地發揮身為人類的全部潛能，[一滴都不剩](enoughness-25.md#2)**。
+我想，**教育的目的，是對人生有全盤式的觀點，然後毫無保留地，將身為人類的全部潛能發揮到 [一滴都不剩](enoughness-25.md#2)**。
 
 — 樺明
