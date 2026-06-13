@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 比 Google 地圖還威的倫敦計程車司機、運將的海馬迴、如何預防阿茲海默症
 created: 2026-06-05
-modified: 2026-06-10
+modified: 2026-06-13
 issue: 34
 tags:
   - 升級大腦
@@ -26,7 +26,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 答案是計程車司機 🚖
 
-![](_attachments/97c27115e2258e19ba7c865347164cec.png "類似老爺車型的黑頭計程車（Black Cab）（圖片來源：[Unsplsh](https://unsplash.com/photos/a-black-car-driving-down-a-street-1JnmGnuwUSg)）")
+![](_attachments/97c27115e2258e19ba7c865347164cec.png "類似老爺車型的黑頭計程車（Black Cab）（圖片來源：[Unsplash](https://unsplash.com/photos/a-black-car-driving-down-a-street-1JnmGnuwUSg)）")
 
 在倫敦當運將（Cabbies），是不能看導航的。想拿到這份工作，得先通過傳說中難如登天的「[倫敦知識大全](https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london)」（[The Knowledge](https://london-taxi.co.uk/the-knowledge)）— 花上 3 到 4 年，把「[藍皮書](https://www.knowledgeoflondon.co.uk/bluebooks)」烙印至腦袋：25,000 條街道、320 條路線，還有數不清的地標、建築、商店。
 
