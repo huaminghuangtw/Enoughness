@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 負空間、商人和漁夫、Make Each Day Count
 created: 2026-04-24
-modified: 2026-06-06
+modified: 2026-06-13
 issue: 28
 tags: []
 ---
@@ -107,8 +107,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 前幾天去醫院探病。在地下停車場取車時，剛好路過「[安息室](https://www.google.com/search?q=安息室)」。家人突然轉頭問我：「你會害怕（死亡）嗎？」
 
 我停頓了一下，然後說：「**[比起死亡，我更害怕虛度光陰，害怕自己沒有用盡全力過好每一天。](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime)**」
-
----
 
 電影《[鐵達尼號](https://www.imdb.com/title/tt0120338)》（Titanic）中，李奧納多（[Leonardo DiCaprio](https://www.google.com/search?q=Leonardo+DiCaprio)）在晚宴舉杯時那句「[Make each day count](https://youtu.be/JYdCltjvrxg)」，經常在我的腦海中徘徊。
 
