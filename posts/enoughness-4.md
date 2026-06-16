@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 改變世界從改變自己開始、失敗博物館、給自己的一份禮物
 created: 2025-11-07
-modified: 2026-06-06
+modified: 2026-06-16
 issue: 4
 tags: []
 ---
@@ -16,7 +16,8 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-> 「古之欲明明德於天下者，先治其國。欲治其國者，先齊其家。欲齊其家者，先修其身。欲修其身者，先正其心。」—《禮記 · 大學》
+> 古之欲明明德於天下者，先治其國。欲治其國者，先齊其家。欲齊其家者，先修其身。欲修其身者，先正其心。
+> —《禮記 · 大學》
 
 美國著名的管理學大師 [Stephen Covey](https://www.google.com/search?q=Stephen+Covey) 在《[與成功有約](https://readingoutpost.com/the-7-habits/)》（The 7 Habits of Highly Effective People）書中提出 [「影響圈」（Circle of Influence）與「關注圈」（Circle of Concern）](https://smarter01.com/circle-of-control/) 的概念。
 
