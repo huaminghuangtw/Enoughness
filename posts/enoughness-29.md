@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 小便斗裡的蒼蠅、大腦如何解碼視覺資訊、設計 Salience
 created: 2026-05-01
-modified: 2026-06-07
+modified: 2026-06-13
 issue: 29
 tags:
   - 設計
@@ -29,7 +29,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 果然，男人看到馬桶裡有東西，就會忍不住想瞄準……這個小巧思，讓地板上的尿直接少了 80%，機場也省下大筆清潔費。
 
-P.S. 還有人把蒼蠅換成 [足球門](https://www.google.com/search?q=Football+goal+urinal)
+P.S. 還有人把蒼蠅換成 [足球門](https://www.google.com/search?q=Football+goal+urinal) 🥅
 
 # 2
 
