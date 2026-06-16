@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-06-06
+modified: 2026-06-13
 issue: 32
 tags:
   - 卓越
@@ -26,7 +26,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 於是，他設了鬧鐘，天還沒亮就起床，換好裝備，準備搶下「最早到」的頭銜。但每次抵達時，Kobe Bryant 早已汗流浹背坐在那，雙腿纏著冰袋 — Kobe 不只早起，還完成一輪高強度訓練。
 
-最令 Chris 感到不可思議的是，Kobe 幾天前才在 NBA 總決賽失利，理應是最疲憊的人；相比之下，Chris 所在的球隊早已休賽數月，論身體狀態，他應該是最好的，卻依然被 Kobe 的自律和自我要求海放，看不到車尾燈。
+最令 Chris 感到不可思議的是，Kobe 幾天前才在 NBA 總決賽失利，理應是最疲憊的人；相比之下，Chris 所在的球隊早已休賽數月，論身體狀態，他應該是最好的，卻依然被 Kobe 的自律和自我要求海放，連車尾燈都看不到。
 
 Chris 這才明白：
 
@@ -70,7 +70,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > The greatest fear you face is yourself, because we all have dreams, and it’s very scary sometimes to accept the dream you have. Because you’re afraid that if you put your heart and soul into it, and you fail. Then how are you going to feel about yourself? So being fearless means putting yourself out there, and going for it, no matter what, go for it—not for anybody else, but for yourself.
 >
-> [最大的恐懼](enoughness-3.md#4) 是你自己，因為每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入，卻失敗了，該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
+> [最大的恐懼](enoughness-3.md#4) 是你自己，每個人都有夢想，有時候接受自己的夢想是很可怕的。因為你害怕如果全心投入，卻失敗了，該如何跟自己交代？所以，無所畏懼就是把自己放在前線，並且全力以赴，不是為了別人，而是為了自己。
 
 > Doubt is such a strange thing. There’ll be times where you succeed, there are times that you fail. Wasting your time doubting whether you’re going to be successful or not is pointless. You just put one foot in front of the other, you control what you can control, and then you see what the outcome is. If you win, it’s great, you’re going to wake up the next day and do the journey over again. If you lose, it sucks, you still have to wake up the next day and do the journey all over again anyway.
 >
