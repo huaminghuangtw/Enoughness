@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 塞翁失馬，焉知非福、諾瓦效應、衝浪者心態
 created: 2026-05-29
-modified: 2026-06-11
+modified: 2026-06-06
 issue: 33
 tags: []
 ---
@@ -34,7 +34,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 2
 
-美國文學大師 [Cormac McCarthy](https://www.google.com/search?q=Cormac+McCarthy) 在犯罪驚悚小說《險路》（No Country for Old Men）寫道：
+美國文學大師 [Cormac McCarthy](https://www.google.com/search?q=Cormac+McCarthy) 在犯罪驚悚小說《險路》（No Country for Old Men）中寫道：
 
 > You never know what worse luck your bad luck saved you from.
 >
