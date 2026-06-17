@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-06-26
-modified: 2026-06-16
+modified: 2026-06-17
 draft: true
 issue: 37
 tags: []
@@ -33,6 +33,22 @@ This is why the wisest people are often the most humble: they have the largest c
 
 # 2
 
+在 AI 時代，答案愈來愈容易取得，但有一種能力，是 Al 給不了，也無法替代的，那就是「自學力」。
+
+自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
+
+ [簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
+
+關鍵不在車，而在駕駛
+
+AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
+
+[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
+
 # 3
+
+Bamboo
+
+<https://pubmed.ncbi.nkm.nih.gov/32448144/>
 
 — 樺明
