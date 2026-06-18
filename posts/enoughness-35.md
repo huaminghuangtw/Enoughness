@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 未來工作報告、自我調節學習與後設認知、教育的目的
 created: 2026-06-12
-modified: 2026-06-13
+modified: 2026-06-18
 issue: 35
 tags:
   - 教育
@@ -64,7 +64,7 @@ X 軸代表「2025 年雇主視為核心的比例」，Y 軸代表「預計到 2
 
 我認為，這個象限有三個被低估的技能：
 
-1. **閱讀、寫作、數學（Reading, writing and mathematics）**：AI 讓資訊變得廉價、唾手可得，同時也讓決策判斷力變得稀有。能分辨資訊真偽、用文字或數字把想法說清楚，表示一個人有清晰的思考。沒有這些基本功，其他技能很難發揮。
+1. **閱讀、寫作、數學（Reading, writing and mathematics）**：AI 讓資訊變得廉價、唾手可得，同時也讓決策判斷力變得稀有。能分辨資訊真偽、用簡單的文字或數字，把想法說清楚，表示一個人有清晰的思考。沒有這些基本功，其他技能很難發揮。
 2. **教導與指導（Teaching and mentoring）**：在知識折舊加速的時代，能把複雜的觀念，用深入淺出的方式 [讓 5 歲小孩也聽得懂](https://www.reddit.com/r/explainlikeimfive/) 的人，會是組織中最具槓桿的資產。
 3. **多語能力（Multi-lingualism）**：人權鬥士、南非首位黑人總統 [Nelson Mandela](https://www.google.com/search?q=Nelson+Mandela) 曾說：「[用對方聽得懂的語言交談，是在對他的大腦說話；用對方的母語交談，是在對他的內心說話。](https://www.brainyquote.com/quotes/nelson_mandela_121685)」語言不只是溝通工具，更是信任的載體。AI 翻得出句子，但翻不了人與人之間的情感連結。
 
