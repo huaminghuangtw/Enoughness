@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
-modified: 2026-06-06
+modified: 2026-06-19
 issue: 7
 tags: []
 ---
@@ -58,8 +58,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **永遠不要抱怨。**
 
-![](_attachments/c44ba0fe8fee90887a2d6add64fc893c.png)
-
 # 2
 
 我正在練習的飲食習慣：**「吃到飽」→「吃到不餓」**。
@@ -99,21 +97,17 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](_attachments/65d6e5fc39fd736c44a14fd6102a2798.png "圖片來源：StrongFirst, the school of strength")
 
-相較於「延長壽命」（Lifespan），我們更應該追求的是「延長生命力」（Healthspan）— 重點不在於活到幾歲，而在於「健康地」活到幾歲。
+[相較於「延長壽命」（Lifespan），我們更應該追求的是「延長生命力」（Healthspan）— 重點不在於活到幾歲，而在於「健康地」活到幾歲。](enoughness-36.md#1)
 
 我希望自己能像 [這位阿伯一樣](https://youtu.be/Kw0yBrXKZno)，到了 70 幾歲依然身手矯健、活蹦亂跳。
-
-![](_attachments/eac2499bee6356637d248d6cc298209d.png)
 
 為了實現這個願景，即便每天只有幾分鐘能運動，我也會優先投資在「髖關節與骨盆」的活動度與柔軟度上。
 
 幾個我常做的動作：
 
-1. [哥薩克深蹲（Cossack Squats）](https://www.google.com/search?q=哥薩克深蹲+Cossack+Squats)
-2. [橋式（Bridges）](https://www.google.com/search?q=橋式+Bridges)
-3. [反向弓箭步（Reverse Lunges）](https://www.google.com/search?q=反向弓箭步+Reverse+Lunges)
-
-可以的話，我會再搭配 [髖屈肌伸展（Hip Flexor Stretch）](https://www.google.com/search?q=髖屈肌伸展+Hip+Flexor+Stretch)。
+1. [哥薩克深蹲](https://www.google.com/search?q=哥薩克深蹲)
+2. [橋式](https://www.google.com/search?q=橋式)
+3. [反向弓箭步](https://www.google.com/search?q=反向弓箭步)
 
 這些動作完全不需要任何器材，在家就能輕鬆練習，希望對你有幫助！
 
