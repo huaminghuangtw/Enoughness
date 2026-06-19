@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 塞翁失馬，焉知非福、諾瓦效應、衝浪者心態
 created: 2026-05-29
-modified: 2026-06-11
+modified: 2026-06-18
 issue: 33
 tags: []
 ---
