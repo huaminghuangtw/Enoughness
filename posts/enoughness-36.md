@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 現代四騎士和醫學 3.0、人生最後十年，你想要怎麼過？、運動是最好的長壽藥
 created: 2026-06-19
-modified: 2026-06-20
+modified: 2026-06-21
 issue: 36
 tags:
   - 健康
@@ -26,10 +26,10 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [世界衛生組織](https://www.google.com/search?q=世界衛生組織) 將它們歸類為「[非傳染性疾病](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)」（Noncommunicable Diseases，NCDs）— 不會傳染，但會慢慢腐蝕身體：
 
-1. **代謝功能異常**（Metabolic Dysfunction）：不僅是糖尿病的前奏，更是其他三位騎士的共同源頭，Peter Attia 認為，這是最該優先解決的上游問題。
+1. **代謝功能異常**（Metabolic Dysfunction）：糖尿病的前奏，也是其他三位騎士的共同源頭。
 2. **心血管疾病**（Cardiovascular Disease）：全球頭號殺手。
-3. **癌症**（Cancer）：全球第二號殺手，也是最沉默的騎士。癌細胞可在體內潛伏數十年，毫無症狀，等到有感覺時，往往已到末期 — 這也是為什麼很多人「明明很健康」，卻突然被診斷出癌症。
-4. **神經退化性疾病**（Neurodegenerative Disease）：[阿茲海默症](https://www.google.com/search?q=阿茲海默症)、[帕金森氏症](https://www.google.com/search?q=帕金森氏症) 等。目前無藥可醫，只能預防。
+3. **癌症**（Cancer）：全球第二號殺手，也是最沉默的騎士。癌細胞可在體內潛伏數十年，毫無症狀，等到有感覺時，往往已到末期 — 這也是為什麼許多人「明明很健康」，卻突然被診斷出癌症。
+4. **神經退化性疾病**（Neurodegenerative Disease）：[阿茲海默症](enoughness-34.md#3)、[帕金森氏症](https://www.google.com/search?q=帕金森氏症) 等。目前無藥可醫，只能預防。
 
 這四名騎士有個共通點：**不會讓我們一下子就死掉，而是慢慢地讓我們死掉。**
 
@@ -65,7 +65,7 @@ Attia 認為，30 歲，甚至更年輕，就該開始主動管理自己的 [健
 
 ![](_attachments/3cfd4a8f0a7a668cb3b961ae8006e9a3.png "圖片來源：《[超預期壽命：如何有效預防、延緩、逆轉慢性病及衰老，長壽的科學與藝術](https://www.books.com.tw/products/0011001532)》")
 
-我曾在日記寫下：**我希望在走的那天，還能邊寫日記，邊看最後一次日出，然後行動自如地去[跑步](https://www.marathonsworld.com/artapp/mywall.php?uid=963161)、拉單槓、上市場，最後在午休的睡夢中死去。**
+我曾在日記寫下：**我希望在走的那天，還能邊寫日記，邊看最後一次日出，然後行動自如地去 [跑步](https://www.marathonsworld.com/artapp/mywall.php?uid=963161)、拉單槓、上市場，最後在午休的睡夢中死去。**
 
 對我來說，這才叫「此生足矣」，才稱得上是 [人生頂級享受](enoughness-28.md#2)。
 
@@ -76,7 +76,7 @@ Attia 認為，30 歲，甚至更年輕，就該開始主動管理自己的 [健
 
 Peter Attia 相信，**延長 Healthspan 比延長 Lifespan 更重要 — 活得久，不如活得好**。
 
-英國女王 [伊莉莎白二世](https://www.google.com/search?q=伊莉莎白二世)（Queen Elizabeth II）就是最好的寫照：
+英國女王 [伊莉莎白二世](https://www.google.com/search?q=伊莉莎白二世) 就是最好的寫照：
 
 2022 年 9 月 6 日，[離世前兩天，她仍堅守崗位、任命新任首相](https://www.google.com/search?q=伊莉莎白二世+過世前+工作)。
 
@@ -224,7 +224,7 @@ Zone 2 是地基，但光有地基不夠，還需要知道屋頂在哪裡。
 
 《[超預期壽命](https://www.books.com.tw/products/0011001532)》主要想傳遞的訊息是：**不要等待**。
 
-心血管疾病、癌症、糖尿病這些慢性病，都不是一夜造成的，而是在自我感覺「還很健康」的那幾十年裡，一點一點地累積。你以為的沒事，只是還沒爆發而已。
+心血管疾病、癌症、糖尿病這些慢性病，都不是一夜造成的，而是在自我感覺「很健康」的那幾十年裡，一點一點地累積。你以為的沒事，只是還沒爆發而已。
 
 好消息是，對付 [現代四騎士](#現代四騎士)，只需要 _立刻_ 改變生活習慣：[運動](https://huam.ing/tags/運動)、[飲食](https://huam.ing/tags/飲食)、[睡眠](https://huam.ing/tags/睡眠)、[情緒管理](https://huam.ing/tags/情緒管理) — 老生常談，但確實有效。
 
@@ -234,15 +234,26 @@ Zone 2 是地基，但光有地基不夠，還需要知道屋頂在哪裡。
 
 [七、八年的臥病時光，對自己和家人都是折磨。不想度過所有人都覺得你是累贅的七、八年，真的不能再拖了。](#2)
 
+誰不想要：
+
+* 55 歲時，還能騎腳踏車、游泳、跑馬拉松。
+* 65 歲時，有體力和熱情去探索一個陌生的國度。
+* 75 歲時，散步、爬樓梯、打掃家裡，不會氣喘吁吁。
+* 85 歲時，清醒地聽誰邊的人說話、把孫子從地上抱起來。
+
+**這就是你現在運動的原因。**
+
+讓自己到了那個年紀，選擇要怎麼生活，而不是被生活選擇。
+
 **現在就是起點，你的人生最後十年，正在被現在決定。**
 
 最後，我想分享兩段我很喜歡的話：
 
-> 我認為，人們在停止思考未來時，就開始變老。如果你想知道一個人的真實年齡，去聽他們說話：如果他們談論的是過去，以及自己曾經做過的事，那他們已經老了；如果他們談論的是夢想、抱負，以及滿懷期待的事物，那他們依舊年輕。
+> 我認為，人在停止思考未來時，就開始變老。如果你想知道一個人的真實年齡，去聽他們說話：如果他們談論的是過去，以及自己曾經做過的事，那他們已經老了；如果他們談論的是夢想、抱負、憧憬，以及滿懷期待的事物，那他們依舊年輕。
 >
 > [“I think people get old when they stop thinking about the future,” Ric told me. “If you want to find someone’s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they’ve gotten old. If they think about their dreams, their aspirations, what they’re still looking forward to — they’re young.](https://www.goodreads.com/quotes/11621282-i-think-people-get-old-when-they-stop-thinking-about)
 
-> 人們不是因為變老才停止追夢，而是因為停止追夢才變老。
+> 人不是因為變老才停止追夢，而是因為停止追夢才變老。
 >
 > [It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams.](https://www.goodreads.com/quotes/174092-it-is-not-true-that-people-stop-pursuing-dreams-because)
 
