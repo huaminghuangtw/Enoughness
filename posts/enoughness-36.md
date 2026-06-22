@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 現代四騎士和醫學 3.0、人生最後十年，你想要怎麼過？、運動是最好的長壽藥
 created: 2026-06-19
-modified: 2026-06-21
+modified: 2026-06-22
 issue: 36
 tags:
   - 健康
@@ -210,7 +210,7 @@ Zone 2 是地基，但光有地基不夠，還需要知道屋頂在哪裡。
 
 ## 四、穩定性（Stability）
 
-[穩定性](https://peterattiamd.com/category/exercise/stability/) 是汽車的底盤，是所有運動和生活動作的基礎。
+[穩定性](https://peterattiamd.com/category/exercise/stability/) 是汽車的底盤、是所有運動和生活動作的基礎。
 
 幾個我常做的核心訓練：
 
@@ -241,15 +241,15 @@ Zone 2 是地基，但光有地基不夠，還需要知道屋頂在哪裡。
 * 75 歲時，散步、爬樓梯、打掃家裡，不會氣喘吁吁。
 * 85 歲時，清醒地聽誰邊的人說話、把孫子從地上抱起來。
 
-**這就是你現在運動的原因。**
+**這就是你現在運動的原因：Healthspan＝Lifespan。**
 
-讓自己到了那個年紀，選擇要怎麼生活，而不是被生活選擇。
+讓自己到了那個年紀，可以選擇要怎麼生活，而不是被生活選擇。
 
 **現在就是起點，你的人生最後十年，正在被現在決定。**
 
 最後，我想分享兩段我很喜歡的話：
 
-> 我認為，人在停止思考未來時，就開始變老。如果你想知道一個人的真實年齡，去聽他們說話：如果他們談論的是過去，以及自己曾經做過的事，那他們已經老了；如果他們談論的是夢想、抱負、憧憬，以及滿懷期待的事物，那他們依舊年輕。
+> 人在停止思考未來時，就開始變老。如果你想知道一個人的真實年齡，去聽他們說話：如果他們談論的是過去，以及自己曾經做過的事，那他們已經老了；如果他們談論的是夢想、抱負、憧憬，以及滿懷期待的事物，那他們依舊年輕。
 >
 > [“I think people get old when they stop thinking about the future,” Ric told me. “If you want to find someone’s true age, listen to them. If they talk about the past and they talk about all the things that happened that they did, they’ve gotten old. If they think about their dreams, their aspirations, what they’re still looking forward to — they’re young.](https://www.goodreads.com/quotes/11621282-i-think-people-get-old-when-they-stop-thinking-about)
 
