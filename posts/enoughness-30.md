@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 正念飲食、我的睡眠神器、沒事多喝水
 created: 2026-05-08
-modified: 2026-06-18
+modified: 2026-06-22
 issue: 30
 tags:
   - 睡眠
@@ -51,17 +51,19 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 他在 [GQ 的 10 項貼身小物訪談](https://youtu.be/wkh2mxn49RI) 中，就有 3 項跟睡眠有關：
 
-1. 客製化睡眠枕頭
-2. 心率監測器
-3. 加重眼罩
+1. 客製化枕頭
+2. 加重眼罩
+3. 心率計
 
-很多頂尖的精英運動員（像是 [Roger Federer](https://www.google.com/search?q=Roger+Federer+sleep)、[Usain Bolt](https://www.google.com/search?q=Usain+Bolt+sleep)、[LeBron James](https://www.google.com/search?q=LeBron+James+sleep)）都很喜歡 [睡覺](enoughness-18.md#1)，他們 [把睡覺當作一天中最重要的事](enoughness-11.md#3)。
+很多精英運動員（像是 [Roger Federer](https://www.google.com/search?q=Roger+Federer+sleep)、[Usain Bolt](https://www.google.com/search?q=Usain+Bolt+sleep)、[LeBron James](https://www.google.com/search?q=LeBron+James+sleep)）都很喜歡 [睡覺](enoughness-18.md#1)，他們 [把睡覺當作一天中最重要的事](enoughness-11.md#3)。
 
-睡覺是最有效的恢復方式，比吃任何山珍海味都還要有用。
+睡覺是最有效的恢復方式，比吃任何山珍海味都有用。
 
 ![](_attachments/1dceb0681b3ae7d160cb8c2460afbd36.png)
 
-這是我的睡眠隨身包，裡面包括：
+這是我的睡眠隨身包，裡頭裝著我的寶貝們 — 我到哪，他們就到哪。
+
+包括：
 
 1. 眼罩
 2. 耳塞
@@ -72,17 +74,20 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 眼罩 & 耳塞
 
-優質的睡眠環境需要「暗」跟「靜」：眼罩用來封住眼睛，隔絕光線；耳塞用來封住耳朵，隔絕噪音。
+優質的睡眠環境需要「暗」跟「靜」：
+
+* 眼罩用來封住眼睛 🙈，隔絕光線。
+* 耳塞用來封住耳朵 🙉，隔絕噪音。
 
 ## 美容膠帶
 
-至於美容膠帶呢？用來封住嘴巴。
+至於美容膠帶呢？用來封住嘴巴 🙊
 
 「[用鼻子呼吸，用嘴巴吃東西](https://www.google.com/search?q=鼻子呼吸+嘴巴呼吸)」是人類呼吸系統的設計邏輯。
 
 睡前，我會用美容膠帶上下直貼嘴巴，幫助自己養成鼻呼吸的習慣。
 
-鼻呼吸不僅能過濾和加濕空氣，還會產生「[一氧化氮](https://www.google.com/search?q=鼻子+呼吸+一氧化氮)」—呼吸道的天然消毒劑，可以對抗病原體，並提升血氧濃度。
+鼻呼吸不僅能過濾、加濕空氣，還會產生「[一氧化氮](https://www.google.com/search?q=鼻子+呼吸+一氧化氮)」—呼吸道的天然消毒劑，可以對抗病原體，並提升血氧濃度。
 
 相反地，口呼吸容易造成蛀牙、口乾和降低睡眠品質（例如打鼾或睡眠呼吸中止）。
 
@@ -98,7 +103,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ## 紙 & 筆
 
-醒來後 15–20 分鐘，是我每天最文思泉湧的時候。我不會馬上起身，而是繼續躺著，給腦袋一點時間，把醞釀了一整晚的潛意識推上檯面。
+醒來後 15–20 分鐘，是我每天最文思泉湧的時候。我不會馬上起身，而是繼續躺著，給腦袋一點時間，把已經醞釀一整晚的潛意識推上檯面。
 
 當想法出現時，我會轉身拿起紙筆記下：
 
@@ -124,7 +129,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](_attachments/97d95e6e15a0e052c448f7d468bf190d.png)
 
-關於飲用水過濾：除了市面上的濾壺、濾芯（例如 Brita），Dr. Andrew Huberman [提到](https://youtu.be/at37Y8rKDlA?t=1h44m18s) 一個零成本的做法：在室溫下，將飲用水靜置一段時間，雜質沉澱底部後，倒出上層 ⅔ 飲用。他還 [特別提醒](https://youtu.be/at37Y8rKDlA?t=1h46m3s)，靜置全程必須是「無蓋」（Uncapped）狀態（或用一塊布蓋著），目的是讓內部物質可以蒸發出去。
+關於飲用水過濾：除了市面上的濾壺、濾芯（例如 [Brita](https://www.google.com/search?q=Brita)），Dr. Andrew Huberman [提到](https://youtu.be/at37Y8rKDlA?t=1h44m18s) 一個零成本的做法：
+
+> 在室溫下，將飲用水靜置一段時間，雜質沉澱底部後，倒出上層 ⅔ 飲用。
+
+他還 [特別提醒](https://youtu.be/at37Y8rKDlA?t=1h46m3s)：
+
+> 靜置全程必須是「無蓋」（Uncapped）狀態（或用一塊布蓋著），目的是讓內部物質可以蒸發出去。
 
 ![](_attachments/260664b48aefc1043f9bfdf819d36358.png)
 
