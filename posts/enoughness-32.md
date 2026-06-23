@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-06-18
+modified: 2026-06-23
 issue: 32
 tags:
   - 卓越
@@ -124,7 +124,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 > Rest at the end, not in the middle. And that’s something I always live by. I’m not going to rest, and I’m going to keep on pushing now. There are a lot of answers that I don’t have, even questions that I don’t have, but I’m just going to keep going.
 >
-> 在終點休息，不是在途中。這是我一直奉行的信念。我不會現在休息，我會繼續努力。很多答案我還不知道，甚至連問題都還沒想清楚，但我就是會一直努力下去。
+> 在終點休息，不是在途中。這是我一直奉行的信念。我不會現在休息，我會繼續努力。很多答案我都還沒有頭緒，甚至連問題也還沒想清楚，但我就是會一直努力下去。
 
 雖然 Kobe 已經在別的星球上了，曼巴精神依舊天天影響著我。
 
