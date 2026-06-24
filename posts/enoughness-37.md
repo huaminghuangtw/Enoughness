@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 保持好奇、
 created: 2026-06-26
-modified: 2026-06-23
+modified: 2026-06-24
 draft: true
 issue: 37
 tags: []
@@ -18,6 +18,8 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 # 1
 
 ![](_attachments/be1acb744ab8cfa3711533e46e60a118.png "[保持好奇，而非急著批判。— Ted Lasso](https://youtu.be/i_FofLSherM)")
+
+⭐️ 對自己的投射
 
 小時候我養過一隻寵物，牠的名字叫 Curious。
 
