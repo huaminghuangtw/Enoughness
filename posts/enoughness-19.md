@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 許文龍幸福學、這個世界不是非黑即白、拋開對事物的評價
 created: 2026-02-20
-modified: 2026-06-18
+modified: 2026-06-25
 issue: 19
 tags: []
 ---
@@ -106,8 +106,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **同一件事，用不同立場、面向、角度來看，會有完全不同的解讀。**
 
----
-
 世間萬物常被簡化為對與錯、黑與白、是與非，如同 [二極體](https://www.google.com/search?q=二極體)。
 
 但事實上，世事更像一條 [光譜](https://www.google.com/search?q=光譜)，並沒有絕對的標準與界線。
@@ -124,7 +122,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 我常提醒自己：「**我來到這個世界，是為了理解它，而不是為了評斷它。**」
 
-[現實本身是中性的。對一棵樹來說，根本沒有所謂「對錯」、「好壞」的概念。](https://youtu.be/3qHkcs3kG44?t=1h56m55s)
+[現實本身是中性的。對一棵樹來說，並沒有所謂「對錯」、「好壞」的概念。](https://youtu.be/3qHkcs3kG44?t=1h56m55s)
 
 羅馬帝國五賢帝之一、哲學家皇帝 [Marcus Aurelius](https://www.google.com/search?q=Marcus+Aurelius) 在《[沉思錄](https://www.books.com.tw/products/0010816881)》（Meditations）中也提到：
 
@@ -140,6 +138,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 當我們能夠接受每件事物自然運行的樣貌，單純欣賞他們原本的樣子，日子就會快樂許多。
 
-畢竟，事物本來就不具備讓我們評論的本事。
+畢竟，**事物本來就不具備讓我們評論的本事**。
 
 — 樺明
