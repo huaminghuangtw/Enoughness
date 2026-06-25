@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 放下你的水杯、焦慮工具箱、大谷翔平的曼陀羅九宮格
 created: 2025-12-05
-modified: 2026-06-18
+modified: 2026-06-24
 issue: 8
 tags: []
 ---
@@ -35,8 +35,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 **如果你只是短暫地想一下，沒什麼大礙。如果你想得久一點，會開始感到痛苦。如果整天都想著它們，你會感到癱瘓，無法做任何事情。**
 
 **所以，永遠記得：把杯子放下。**
-
-![](_attachments/66fca761c564a5d4269c378d3e909acc.png)
 
 # 2
 
@@ -128,9 +126,9 @@ P.S. 時間不多的話，可以啜飲一杯溫開水，並專注於手握水杯
 
 [高中時](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html)，大谷為了在日本職棒選秀會中，成為八大球團第一指名的新人，開始使用「[原田目標達成法](https://theharadamethod.com/about-the-method)」（The Harada Method），也就是著名的「[曼陀羅九宮格](https://www.books.com.tw/products/0010979842)」（The Open Window 64 Chart，OW64）。
 
-![](_attachments/75cbbca333792735e27c98bb2283aa4d.png "圖片來源：經理人")
+![](_attachments/eeb90f976c085c45f0c6bac773099587.png)
 
-這個框架的核心步驟如下：
+步驟如下：
 
 1. 在正中央寫下核心目標。
 2. 將核心目標拆解為 8 個次級目標。
