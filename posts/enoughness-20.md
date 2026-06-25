@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 不因事小而不為、做你不敢做的事、休息時也要盡全力
 created: 2026-02-27
-modified: 2026-06-18
+modified: 2026-06-25
 issue: 20
 tags: []
 ---
@@ -94,7 +94,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [業餘玩家以為必須先戰勝恐懼，才能開始行動；專業玩家知道恐懼永遠不會消失，所以他們不等待勇氣降臨，而是帶著恐懼去做、在不確定中前進。](https://www.goodreads.com/quotes/555698-the-amateur-believes-he-must-first-overcome-his-fear-then)
 
-古羅馬哲學家塞內卡（[Seneca](https://www.google.com/search?q=Seneca)）也說過：
+古羅馬哲學家 [Seneca](https://www.google.com/search?q=Seneca) 也說過：
 
 > It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.
 >
