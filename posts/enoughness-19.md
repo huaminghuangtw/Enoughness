@@ -124,7 +124,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [現實本身是中性的。對一棵樹來說，並沒有所謂「對錯」、「好壞」的概念。](https://youtu.be/3qHkcs3kG44?t=1h56m55s)
 
-羅馬帝國五賢帝之一、哲學家皇帝 [Marcus Aurelius](https://www.google.com/search?q=Marcus+Aurelius) 在《[沉思錄](https://www.books.com.tw/products/0010816881)》（Meditations）中也提到：
+羅馬皇帝兼哲學家 [Marcus Aurelius](https://www.google.com/search?q=Marcus+Aurelius) 在《[沉思錄](https://www.books.com.tw/products/0010816881)》（[Meditations](https://www.goodreads.com/work/quotes/31010-meditations)）提到：
 
 > 如果你因為外在事物而痛苦，折磨你的並非事物本身，而是你對它的評價；而你隨時都擁有拋開這些評價的能力。
 >
