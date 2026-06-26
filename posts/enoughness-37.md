@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 非暴力溝通、不要預設立場、用好奇取代評論
 created: 2026-06-26
-modified: 2026-06-25
+modified: 2026-06-26
 issue: 37
 tags:
   - 溝通
@@ -17,9 +17,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-有一段時間我很喜歡看小朋友的書，常常跑去 [高雄總圖](https://www.google.com/maps?q=高雄市立圖書總館) 地下一樓的 [兒童繪本中心](https://www.google.com/search?q=國際繪本中心) 窩一個下午。
+有一段時間我很喜歡看小朋友的書，常常跑去 [高雄市立總圖](https://www.google.com/maps?q=高雄市立圖書總館) 地下一樓的 [兒童繪本中心](https://www.google.com/search?q=國際繪本中心) 窩一個下午。
 
-某次，我看到有個小孩把一整疊繪本亂丟在地上，年輕爸爸生氣地說：
+某次，我看到有個小孩把一整疊書亂丟在地上，年輕爸爸生氣地說：
 
 > 你真的很沒秩序！
 
@@ -31,7 +31,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這是**非暴力溝通** — 年輕爸爸說的是「我看到什麼」，是 _客觀_ 事實。
 
-美國心理學家 [Marshall Rosenberg](https://www.google.com/search?q=Marshall+Rosenberg) 在《[非暴力溝通](https://www.books.com.tw/products/0010831754)》（[Nonviolent Communication](https://www.goodreads.com/work/quotes/2766138-nonviolent-communication-a-language-of-life---life-changing-tools-for-h)）提到一個四步驟框架：
+美國心理學家 [Marshall Rosenberg](https://www.google.com/search?q=Marshall+Rosenberg) 在《[非暴力溝通](https://www.books.com.tw/products/0010831754)》（[Nonviolent Communication](https://www.goodreads.com/work/quotes/2766138-nonviolent-communication-a-language-of-life---life-changing-tools-for-h)）提到一個框架：
 
 1. **觀察**：說出你看到的客觀事實，不加評論
 2. **感受**：表達情緒，而不是意見或想法
@@ -54,7 +54,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 更重要的是，非暴力溝通讓孩子有機會理解行為背後的原因 — 圖書館是公共空間，要尊重他人權利。
 
-當孩子長期處在這樣的溝通環境，不知不覺會內化這個流程：**先觀察，再說感受，連結需要，最後提出請求**。久而久之，他會成為在衝突中仍然能保持情緒穩定的人。
+當孩子長期處在這樣的溝通環境，不知不覺會內化這個流程：**先觀察，說出感受，連結需要，最後提出請求**。
 
 而這，或許是為人父母能給孩子最珍貴的 [禮物](https://huam.ing/ted-taipei-2025) 之一。
 
@@ -100,7 +100,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 假設之所以痛苦，是因為我們把自己編的故事當成事實，然後為它受苦。
 
-《[打破人生幻鏡的四個約定](https://www.books.com.tw/products/0011003800)》（[The Four Agreements](https://www.goodreads.com/work/quotes/376130-the-four-agreements-a-practical-guide-to-personal-freedom)）中的第三個約定：
+《[打破人生幻鏡的四個約定](https://www.books.com.tw/products/0011003800)》（[The Four Agreements](https://www.goodreads.com/work/quotes/376130-the-four-agreements-a-practical-guide-to-personal-freedom)）中第三個約定：
 
 > 不要預設立場。
 >
@@ -116,17 +116,17 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 * 因為提問等於承認自己不知道；假設可以假裝已經懂了。
 * 因為提問後還要等答案；假設能馬上結束不確定感。
-* 因為提問需要勇氣；假設只要躲在腦袋裡就好。
+* 因為提問需要勇氣；假設只要躲在想像中就好。
 
 [拋開對事情的評價，不要預設立場](enoughness-19.md#3)，我正在學習成爲這樣的人。
 
 # 3
 
-你有沒有遇過這種人？當你分享一個看起來不「實用」的興趣，對方直接說：
+你有沒有遇過這種人？當你分享一個似乎「沒有出路」的興趣，對方直接說：
 
-> 聽起來好無聊喔！
+> 這沒辦法養家糊口吧！
 >
-> 這很難賺錢耶！
+> 先考慮現實吧……
 >
 > 不會餓死嗎？
 
@@ -134,19 +134,19 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 > 那是怎樣的體驗？
 >
-> 你是怎麼開始產生興趣的？
+> 什麼時候開始產生興趣的？
 >
 > 過程中最讓你感到興奮的是什麼？
 
-在工作上也是。當有人提出一個尚未成熟的初步想法，喜歡評論的人會說：
+工作上也是。當有人提出一個尚未成熟的初步想法，喜歡評論的人會說：
 
 > 這肯定行不通啦！
 
-好奇的人則會說：
+好奇的人：
 
-> 有意思 🤨 你覺得如果我們朝這方向做會怎樣？
+> 有意思 🤨 你覺得如果我們朝這方向持續做個 5 年會怎樣？
 
-以前，看到伴侶的網購包裹，我常常脫口而出：
+以前，看到伴侶的網購包裹，我常脫口而出：
 
 > 妳怎麼又亂買東西了？
 
