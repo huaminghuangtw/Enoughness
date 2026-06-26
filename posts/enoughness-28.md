@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 負空間、商人和漁夫、Make Each Day Count
 created: 2026-04-24
-modified: 2026-06-18
+modified: 2026-06-25
 issue: 28
 tags: []
 ---
@@ -116,8 +116,12 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 每天醒來，都是一次歸零、一次新開始，更是另一個全力以赴的機會。
 
-Make each day count.
+羅馬皇帝兼哲學家 [Marcus Aurelius](https://www.google.com/search?q=Marcus+Aurelius) 在《[沉思錄](https://www.books.com.tw/products/0010816881)》（[Meditations](https://www.goodreads.com/work/quotes/31010-meditations)）寫道：
 
-![](_attachments/e34c0476e188b229eca492393de614fa.png)
+> 早上醒來時，想一想：能夠活著 — 能夠呼吸、思考、享受、去愛 — 是多麼珍貴的特權。然後，讓這一天值得！
+>
+> When you arise in the morning, think of what a precious privilege it is to be alive—to breathe, to think, to enjoy, to love—then make that day count!
+
+**Make each day count.**
 
 — 樺明
