@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 現代四騎士和醫學 3.0、人生最後十年，你想要怎麼過？、運動是最好的長壽藥
 created: 2026-06-19
-modified: 2026-06-24
+modified: 2026-06-27
 issue: 36
 tags:
   - 健康
@@ -228,7 +228,7 @@ P.S. 想更深入認識 Zone 2 訓練？可以看張修修的 [這支影片](htt
 
 好消息是，對付 [現代四騎士](#現代四騎士)，只需要 _立刻_ 改變生活習慣：[運動](https://huam.ing/tags/運動)、[飲食](https://huam.ing/tags/飲食)、[睡眠](https://huam.ing/tags/睡眠)、[情緒管理](https://huam.ing/tags/情緒管理) — 老生常談，但確實有效。
 
-我一直把 [超慢跑](https://www.google.com/search?q=超慢跑) 達人 [徐棟英](https://www.google.com/search?q=徐棟英) 教官的一句話放在心上：
+我常把 [超慢跑](https://www.google.com/search?q=超慢跑) 達人 [徐棟英](https://www.google.com/search?q=徐棟英) 教官的一句話放在心上：
 
 > 寧願在瑜珈墊上多流汗，也不要在病床上流眼淚。
 
