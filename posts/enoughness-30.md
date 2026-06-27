@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 正念飲食、我的睡眠神器、沒事多喝水
 created: 2026-05-08
-modified: 2026-06-22
+modified: 2026-06-27
 issue: 30
 tags:
   - 睡眠
@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 自從開始練習 [八分飽](enoughness-7.md#2) 後，我的吃飯訓練課程又加入了「正念飲食」（Mindful Eating）這個課表。
 
-以前我常把吃飯當成填飽肚子或消磨時間的活動，總是要配個 YouTube 才吃得下去。
+以前我常把吃飯當成填飽肚子或消磨時間的活動，總是要配 YouTube 才吃得下去。
 
 在 [Michael Gershon](https://www.google.com/search?q=Michael+Gershon) 博士身上學到「[腸腦軸線](https://www.google.com/search?q=腸腦軸線)」（Gut-Brain Axis）」這個概念後，我開始練習專心吃飯。
 
