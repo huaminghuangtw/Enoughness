@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 錢買不到的東西、每個人都活在自己的時區、分心筆記本
 created: 2026-01-30
-modified: 2026-06-18
+modified: 2026-06-27
 issue: 16
 tags: []
 ---
@@ -30,11 +30,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 而金錢，反而要 [用最簡單、穩健的方式管理](enoughness-25.md#1)。
 
-這讓我聯想到 [村上春樹](https://www.google.com/search?q=村上春樹) 的一句話：
+這讓我聯想到 [村上春樹](https://www.google.com/search?q=村上春樹) 曾說：
 
-> Spend your money on the things money can buy. Spend your time on the things money can’t buy.
->
 > 把錢花在錢能買到的事物上，把時間花在 [錢買不到的事物](../../..//Enoughness/posts/enoughness-16.md#1) 上。
+>
+> Spend your money on the things money can buy. Spend your time on the things money can’t buy.
 
 # 2
 
