@@ -24,7 +24,7 @@ By identifying what we want to _avoid_, we often gain clearer insight into what 
 * **Investing**: Instead of “How do I pick winning stocks?”, ask “How do I avoid losing money?”
 * **Product Design**: Instead of “What features should I add?”, ask “What would make users hate this product?”
 * **Health & Fitness**: Instead of “How do I get in shape?”, ask “What habits would guarantee I stay unhealthy?”
-* **Decision-Making**: Before committing to a major choice, run a _[premortem](premortem.md)_: imagine it is a year later and the decision has failed catastrophically — what went wrong?
+* **Decision-Making**: Before committing to a major choice, run a _[premortem](../../Evergreen-Notes/Permanent-Notes/premortem.md)_: imagine it is a year later and the decision has failed catastrophically — what went wrong?
 
 # 2
 
