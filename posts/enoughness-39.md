@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-07-03
-modified: 2026-06-27
+modified: 2026-07-01
 draft: true
 issue: 39
 tags: []
@@ -27,6 +27,8 @@ By identifying what we want to _avoid_, we often gain clearer insight into what 
 * **Decision-Making**: Before committing to a major choice, run a _[premortem](../../Evergreen-Notes/Permanent-Notes/premortem.md)_: imagine it is a year later and the decision has failed catastrophically — what went wrong?
 
 # 2
+
+不要做愚蠢的事
 
 # 3
 
