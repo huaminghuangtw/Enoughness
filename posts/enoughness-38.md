@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-06-26
-modified: 2026-06-25
+modified: 2026-07-01
 draft: true
 issue: 38
 tags: []
@@ -16,6 +16,24 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 ---
 
 # 1
+
+> I begin each morning, I do every single morning exactly the same way, I begin each morning by doing my highest priority work first. I have a very clear priority list and I start from the highest priority work first. Before I even get to work, my day is already a success. I’ve already completed my most important work and can dedicate my day to helping others. **And when people apologize for interrupting me, I always say, ‘I have plenty of time,’ and I do.**
+
+（帥呆了 😍
+
+> 有一年夏天，黃仁勳帶著孩子到日本京都旅行。他在一座禪寺遇見一名老園丁。那天很熱，園丁蹲在地上，拿著一支小鑷子和小竹簍，清理青苔中的枯葉。
+>
+> 黃仁勳問他：「你在做什麼呢？」
+>
+> 「我在挑死掉的苔蘚。」
+>
+> 「可是庭園這麼大，要多少時間才清得完呀？」
+>
+> 園丁說：「我照顧這座庭園已經 25 年了。**我有的是時間。**」
+>
+> 後來黃仁勳才知道，這位老園丁已經在這裡工作超過 30 年了。他把一生奉獻給一件事 — 當你選擇這麼做的時候，就會發現，**你其實有很多時間**。
+>
+> 這段經歷讓黃仁勳學會專注當下的「YOLO」哲學 — You Only Live Once，人生只活一次。他說：「這也是我能給你們最好的職涯建議。大部分的時間，我很少追著事情跑，而是享受著我正在做的事。我不需追求更多，但我渴望把當下的工作做到最好。認識我的人都知道，<mark>輝達沒有所謂的長期策略和計畫，我們想的都是，今天要做好什麼事？</mark>」
 
 不要久坐
 
