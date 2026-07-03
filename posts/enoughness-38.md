@@ -1,10 +1,11 @@
 ---
-title: ⚖️ 、、
+title: ⚖️ 黃仁勳給年輕人的建議、先吃青蛙，再吃蝌蚪、做最重要的事
 created: 2026-06-26
-modified: 2026-07-01
-draft: true
+modified: 2026-07-03
 issue: 38
-tags: []
+tags:
+  - 時間管理
+  - 生產力
 ---
 
 <!-- SELF-INTRO-START -->
@@ -17,61 +18,98 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-> I begin each morning, I do every single morning exactly the same way, I begin each morning by doing my highest priority work first. I have a very clear priority list and I start from the highest priority work first. Before I even get to work, my day is already a success. I’ve already completed my most important work and can dedicate my day to helping others. **And when people apologize for interrupting me, I always say, ‘I have plenty of time,’ and I do.**
+2023 年 10 月 7 日，黃仁勳在 [華美半導體協會](https://www.google.com/search?q=華美半導體協會) 的年會晚宴上，和與會的專業人士 [分享](https://youtu.be/z8cAXOys3bI?t=47m49s) 一個人生經歷：
 
-（帥呆了 😍
-
-> 有一年夏天，黃仁勳帶著孩子到日本京都旅行。他在一座禪寺遇見一名老園丁。那天很熱，園丁蹲在地上，拿著一支小鑷子和小竹簍，清理青苔中的枯葉。
+> 有一次我們全家去京都旅行，我在一座禪寺遇見一名老園丁。
 >
-> 黃仁勳問他：「你在做什麼呢？」
+> 那天很熱，但這位老先生蹲在地上，正在整理苔蘚。
 >
-> 「我在挑死掉的苔蘚。」
+> 我走過去看，問他在做什麼，他說：「我在挑死掉的苔蘚。」
 >
-> 「可是庭園這麼大，要多少時間才清得完呀？」
+> 我又問：「但這花園這麼大，你的夾子和籃子這麼小，要多少時間才清得完呀？」
 >
-> 園丁說：「我照顧這座庭園已經 25 年了。**我有的是時間。**」
+> 他回答：「我照顧這裡 30 年了。**我有的是時間。**」
 >
-> 後來黃仁勳才知道，這位老園丁已經在這裡工作超過 30 年了。他把一生奉獻給一件事 — 當你選擇這麼做的時候，就會發現，**你其實有很多時間**。
+> 說真的，這就是我能給你們最好的職涯建議。**大部分時候，我很少追著事情跑，而是享受我正在做的事。我專注在當下，把眼前工作做到最好，毫無保留。你知道嗎？我常常回到家時整個人筋疲力盡，但我很開心，因為我盡了全力。你一定很驚訝，我一點也不野心勃勃。我不追求做更多事，我追求把正在做的事做得更好。我不會伸手去要更多，我等世界來找我。**
 >
-> 這段經歷讓黃仁勳學會專注當下的「YOLO」哲學 — You Only Live Once，人生只活一次。他說：「這也是我能給你們最好的職涯建議。大部分的時間，我很少追著事情跑，而是享受著我正在做的事。我不需追求更多，但我渴望把當下的工作做到最好。認識我的人都知道，<mark>輝達沒有所謂的長期策略和計畫，我們想的都是，今天要做好什麼事？</mark>」
+> 我知道這聽起來完全不像職涯建議，但認識我的人都知道，**輝達沒有長期策略和計畫。我們想的都是：今天要做好什麼事？**
+>
+> 很反直覺對吧？但那位園丁給我的建議真的很有道理。
+>
+> **你有的是時間，享受你的工作，盡全力做到最好，每天不斷學習，好事自然會找上你。**
 
-不要久坐
+年紀越大，我越明白：計畫永遠趕不上變化。
 
-運動就算沒有養成運動習慣，也不能讓不動變成習慣
+難怪有人說：
 
-* Do not have a sedentary lifestyle
-* Sitting is new smoking.
-* Move your body to create energy, and use your energy to create more of it.
-	* The more time you spend sitting on the couch, the lazier you’ll get.
-	* The more you move, the more energetic you feel.
-* Our body is made to move — Move as much as you can throughout the day.
-* Stop living in a box: Most people get up in the morning, eat breakfast out of a box, go into a box office, use a box elevator, do their work on a box, talk on a box, go into a box room for meetings, and in the evening, they turn the box on.
-* Never sit still for more than 45 minutes.
+> 當我們自以為能掌控一切時，上帝早在旁邊笑到美丁噹。
 
-Don’t Underestimate the Power of Micro Exercises
-
-<https://huam.ing/this-shortcut-got-me-to-exercise-every-single-day>
-
-<https://shosho.tw/blog/vilpa-easy-exercise-strategy/>
+與其規劃未來，不如規劃 _[今天](enoughness-3.md#3)_ 的行動，然後讓這些行動創造你的未來。
 
 # 2
 
-在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
+2024 年 6 月 14 日，黃仁勳在加州理工學院的畢業典禮講台上，[分享](https://youtu.be/-qXDdToZHzE?t=1h20m54s) 他的時間管理術：
 
-自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
+> 我有一張非常清楚的優先清單，每天早上我都從最重要的工作開始。在我正式開始一天的工作之前，我已經贏得這一天了。我已經完成了一天中最重要的事，剩下的時間，我可以用來幫助別人。當有人打擾我、跟我拍謝時，我總是說：「**我有的是時間。**」
+>
+> I begin each morning by doing my highest priority work first. I have a very clear priority list and I start from the highest priority work first. Before I even get to work, my day is already a success. I’ve already completed my most important work and can dedicate my day to helping others. And when people apologize for interrupting me, I always say, ‘I have plenty of time,’ and I do.
 
- [簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
+勵志作家 [Brian Tracy](https://www.google.com/search?q=Brian+Tracy) 在《[先吃那隻青蛙](https://www.books.com.tw/products/0011002720)》（[Eat That Frog](https://www.goodreads.com/en/book/show/95887.Eat_That_Frog_21_Great_Ways_to_Stop_Procrastinating_and_Get_More_Done_in_Less_Time)）寫道：
 
-關鍵不在車，而在駕駛
+> 如果你的工作是吃一隻青蛙，那最好一早就把它吃完。如果你的工作是吃兩隻青蛙，那就先吃最大那隻。
+>
+> If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first.
 
-AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
+「青蛙」就是你最不想做、最容易拖延的那件事。它可能很困難、很無聊，或者會讓你感到害怕。但你心裡知道，只要把它做完，今天剩下的時間，甚至是往後的人生，都會輕鬆很多。
 
-[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
+我的經驗是：**最重要 = 最不舒服**。
+
+而那個最想逃避的任務、最害怕開啟的對話、最不想吃的青蛙 — 往往是最值得投入時間的事。
+
+美國作家 [Joseph Campbell](https://www.google.com/search?q=Joseph+Campbell) 曾說：
+
+> 你不敢進入的洞穴，藏著你夢寐以求的寶藏。
+>
+> The cave you fear to enter holds the treasure you seek.
+
+我們也許沒有時間做完所有事，但我們永遠有時間把最重要的事做完。
+
+吃下青蛙後，剩下的時間都可以用來吃蝌蚪。
+
+因為你有的是時間。
+
+![](_attachments/63aed20147a2455fb4ad8216559e6af4.png "圖片來源：[Sketchplanations](https://sketchplanations.com/eat-the-frog)")
 
 # 3
 
-Bamboo
+財經記者 [Tae Kim](https://www.google.com/search?q=Tae+Kim) 在《[輝達之道](https://www.books.com.tw/products/0011008066)》（[The NVIDIA Way](https://www.goodreads.com/book/show/218319936-the-nvidia-way)）記錄了一個故事：
 
-<https://pubmed.ncbi.nkm.nih.gov/32448144/>
+有一次，Adobe 執行長 [Shantanu Narayen](https://www.google.com/search?q=Shantanu+Narayen) 和黃仁勳共進早餐。
+
+兩人從創新聊到策略，再聊到企業文化。
+
+聊著聊著，Narayen 下意識地低頭看手錶。
+
+黃仁勳便問：「你看手錶做什麼？」
+
+Narayen 有點意外：「Jensen，難道你沒有行事曆嗎？」
+
+黃仁勳回答：
+
+> 我做我想做的事。
+>
+> I do what I want.
+
+黃仁勳不管理時間，他只做選擇 — **選擇做最重要的事**。
+
+![](_attachments/409870e52c47e163435a9f53e231e576.png "圖片來源：[Nvidia](https://x.com/nvidia/status/2046396659261743183)")
+
+管理學大師 [Stephen Covey](https://www.google.com/search?q=Stephen+Covey) 也是這麼想的：
+
+> 關鍵不是把行事曆上的事排優先順序，而是把優先的事排進行事曆。
+>
+> The key is not to prioritize what’s on your schedule, but to schedule your priorities.
+
+很多人拿到行事曆，忙著排順序；黃仁勳拿到行事曆，先把最重要的事填進去。
 
 — 樺明
