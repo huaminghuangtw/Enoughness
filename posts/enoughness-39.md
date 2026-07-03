@@ -1,6 +1,6 @@
 ---
 title: ⚖️ 、、
-created: 2026-07-03
+created: 2026-07-10
 modified: 2026-07-03
 draft: true
 issue: 39
