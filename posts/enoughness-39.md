@@ -1,7 +1,7 @@
 ---
-title: ⚖️ 、、
+title: ⚖️ 反過來想，凡事反過來想、業餘比賽 vs 職業比賽、每天把小事做好
 created: 2026-07-10
-modified: 2026-07-03
+modified: 2026-07-07
 draft: true
 issue: 39
 tags: []
@@ -17,58 +17,115 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-By identifying what we want to _avoid_, we often gain clearer insight into what we should actually _do_. The negative space defines the positive space.
+德國數學家 [Jacobi](https://www.google.com/search?q=Carl+Gustav+Jacob+Jacobi) 曾說：
 
-# Examples
+> Man muss immer umkehren.
 
-* **Investing**: Instead of “How do I pick winning stocks?”, ask “How do I avoid losing money?”
-* **Product Design**: Instead of “What features should I add?”, ask “What would make users hate this product?”
-* **Health & Fitness**: Instead of “How do I get in shape?”, ask “What habits would guarantee I stay unhealthy?”
-* **Decision-Making**: Before committing to a major choice, run a _[premortem](../../Evergreen-Notes/Permanent-Notes/premortem.md)_: imagine it is a year later and the decision has failed catastrophically — what went wrong?
+翻成白話文就是：
+
+> 反過來想，凡事反過來想。
+
+這句話被 [巴菲特](https://www.google.com/search?q=Warren+Buffett)（Warren Buffett）的傳奇合夥人 [查理蒙格](https://www.google.com/search?q=查理蒙格)（Charlie Munger）多次引用。
+
+蒙格在二戰時擔任氣象兵。他的任務是判斷天氣，確保飛行員能安全起飛、平安歸來。
+
+在這個崗位上，他磨出受用一生的「逆向思考法」。
+
+多數人大概會問：
+
+> 怎樣才能讓飛行員平安回來？
+
+蒙格反過來問：
+
+> 哪些條件會讓飛行員送命？
+
+用這種提問方式，答案馬上呼之欲出：
+
+1. 讓飛機結冰
+2. 在惡劣天氣中飛行
+
+於是他學到，這份工作的大忌是讓飛機結冰或遭遇惡劣天氣。
+
+> 我只想知道怎樣會死，然後避開那些地方。
+> — 查理蒙格
+>
+> “All I want to know is where I’m going to die, so I’ll never go there.” — Charlie Munger
+
+**避免愚蠢，比追求精明更容易。** 只要持續避開會導致災難的路徑，剩下的就是成功。
+
+%% link %%
+
+正如電影《KANO》所說：
+
+> 不要想著贏，要想不能輸。
+
+在日常生活中，我們也可以經常反過來想：
+
+* 如何練出好身材？➞ 什麼習慣會讓我變胖？
+* 如何寫出好文章？➞ 什麼會讓讀者讀不下去？
+* 如何善用時間？➞ 什麼事在偷偷浪費我的時間？
+* 如何和伴侶好好溝通？➞ 什麼話一說出口就傷感情？
+* 如何讓產品功能更好？➞ 什麼會讓使用者討厭這個產品？
+
+想像一張白紙：你沒有畫圓，只是把圓的周圍塗黑，中間空白的地方自然變成一個圓。
+
+%% image %%
+
+[負空間](enoughness-28.md#1)，決定了正空間。
+
+想成為什麼，往往是由「不想成為什麼」定義的。很多時候，成功不過就是避免失敗、不要做愚蠢的事。
+
+%% Invert 示意圖 %%
 
 # 2
 
-不要做愚蠢的事
+美國工程師 [Simon Ramo](https://www.google.com/search?q=Simon+Ramo) 在著作《[Extraordinary Tennis for the Ordinary Tennis Player](https://www.google.com/search?q=Extraordinary+Tennis+for+the+Ordinary+Tennis+Player)》分析了「職業網球」和「業餘網球」的差異：
+
+* **業餘比賽**（Loser’s Game）：80% 的分數，來自「非受迫性失誤」。你贏，不是因為你打得好，而是因為對方先掛網、先出界。
+* **職業比賽**（Winner’s Game）：80% 的分數，來自「精彩致勝球」。你贏，是因為你打出對手根本接不到的好球。
+
+如果你打的是業餘網球，對手跟你一樣會 [奶油手](https://www.google.com/search?q=奶油手)、會失誤。你只需要穩穩地回擊，等他犯錯就好。
+
+反過來，如果你打的是職業網球，那麼你得想辦法打出路線刁鑽的好球，讓他懷疑自己選這行是不是腦袋壞去了。
+
+**業餘者經常掉入的陷阱：明明在打業餘比賽，卻自以為在打職業賽。**
+
+以前在 [雄中打棒球](https://www.google.com/search?q=雄中棒球隊)，我常常想要帥一波，尻一支大的。
+
+結果呢？見高不見遠的飛球，慘遭接殺。
+
+學長就會提醒：
+
+> 把球往地上打。
+
+果然，滾地球更容易讓對手失誤，球隊的上壘率也增加了。
+
+我才了解到，原來自己一直把業餘比賽當職業賽在打。
+
+🤔 _你在打哪種比賽呢？在哪些業餘賽局裡，你也假裝自己是職業選手呢？_
 
 # 3
 
-不要久坐
+大部分的人生賽局是 [業餘比賽](#2)：不用很厲害，只需要**每天把小事做好**。（LINK!!!!）
 
-運動就算沒有養成運動習慣，也不能讓不動變成習慣
+年紀越大，我越明白：**每天做的小事 >>> 某天幹的大事**。
 
-* Do not have a sedentary lifestyle
-* Sitting is new smoking.
-* Move your body to create energy, and use your energy to create more of it.
-* The more time you spend sitting on the couch, the lazier you’ll get.
-* The more you move, the more energetic you feel.
-* Our body is made to move — Move as much as you can throughout the day.
-* Stop living in a box: Most people get up in the morning, eat breakfast out of a box, go into a box office, use a box elevator, do their work on a box, talk on a box, go into a box room for meetings, and in the evening, they turn the box on.
-* Never sit still for more than 45 minutes.
+舉例來說：
 
-Don’t Underestimate the Power of Micro Exercises
+%% link %%
 
-<https://huam.ing/this-shortcut-got-me-to-exercise-every-single-day>
+* 不用某天睡滿 12 小時補回來，只需要每天在同一時間上下床、睡足 7–9 小時。
+* 不用某天跑一場馬拉松，只需要每天出門走走、慢跑、讓身體流點汗。
+* 不用某天展開為期兩週的斷食挑戰，只需要每天多吃一份蔬菜、少喝一杯含糖飲料。
+* 不用某天寫出一篇爆紅文章，只需要每天持續寫、不中斷。
+* 不用某天策劃一場盛大的驚喜，只需要每天好好說一句「謝謝」或「我愛妳」。
+* 不用某天一口氣完成所有待辦，只需要每天先做最重要的事。
+* 不用某天找到一支翻倍的飆股，只需要每天存下一點錢、定期投入大盤。
 
-<https://shosho.tw/blog/vilpa-easy-exercise-strategy/>
+你不需要打出精彩的致勝球，你只需要**每天上場**、**把球打回去**、**讓時間站在你這邊**。
 
-# 2
+持續而平凡的努力加總起來，就是非凡。就像 [瓦基](https://www.google.com/search?q=瓦基) 說的：
 
-在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
-
-自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
-
-[簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
-
-關鍵不在車，而在駕駛
-
-AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
-
-[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
-
-# 3
-
-Bamboo
-
-<https://pubmed.ncbi.nkm.nih.gov/32448144/>
+> [任何卓越的成果，都來自於不凡的思考、平凡的行動、不甘於平凡的選擇。](https://readingoutpost.com/autonomous-life/#:~:text=%E9%81%B8%E6%93%87%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82-,%E4%BB%BB%E4%BD%95%E5%8D%93%E8%B6%8A%E7%9A%84%E6%88%90%E6%9E%9C%EF%BC%8C%E9%83%BD%E4%BE%86%E8%87%AA%E6%96%BC%E4%B8%8D%E5%87%A1%E7%9A%84%E6%80%9D%E8%80%83%E3%80%81%E5%B9%B3%E5%87%A1%E7%9A%84%E8%A1%8C%E5%8B%95%E3%80%81%E4%B8%8D%E7%94%98%E6%96%BC%E5%B9%B3%E5%87%A1%E7%9A%84%E9%81%B8%E6%93%87%E3%80%82,-%E5%A6%82%E6%9E%9C%E6%88%91%E5%80%91%E6%83%B3)
 
 — 樺明
