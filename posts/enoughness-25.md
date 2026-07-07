@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 買進然後忘記、40% 法則、一日之計在昨夜
 created: 2026-04-03
-modified: 2026-06-18
+modified: 2026-07-07
 issue: 25
 tags: []
 ---
@@ -28,7 +28,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 >
 > Investing is one of the very few endeavors in life where the harder you try, the worse you’re probably going to do.
 
-巴菲特（[Warren Buffett](https://www.google.com/search?q=Warren+Buffett)）的黃金拍檔查理 · 蒙格（[Charlie Munger](https://www.google.com/search?q=Charlie+Munger) ）也說過：
+巴菲特（[Warren Buffett](https://www.google.com/search?q=Warren+Buffett)）的黃金拍檔查理蒙格（[Charlie Munger](https://www.google.com/search?q=Charlie+Munger) ）也說過：
 
 > 複利的第一條法則，就是千萬別去打擾它。
 >
@@ -94,7 +94,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這句陳述很有意思，也耐人尋味 — 為什麼不是「有早晨，有晚上」呢？
 
-它打破了「先工作、後休息」的慣性思維；提醒我們要反過來想：**[充足的休息與沉澱，是生產力的前提。](enoughness-20.md#3)**
+它打破了「先工作、後休息」的慣性思維；提醒我們要 [反過來想](enoughness-39.md#1)：**[充足的休息與沉澱，是生產力的前提。](enoughness-20.md#3)**
 
 想像一下，你正開著一輛時速 70 公里的汽車。如果想靠邊停車，一定會先鬆開油門、輕踩煞車、緩緩減速，最後才停入車位。沒有人會愚蠢到直接熄火，並拉起手煞車。
 
