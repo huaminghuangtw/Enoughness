@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 和過去的自己說再見、故宮南院馬拉松、讓慾望安靜
 created: 2025-12-12
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 9
 tags: []
 ---
@@ -164,9 +164,5 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 1. 選定一個，下好離手，並坦然接受失去另一個。
 2. 暫時擱置，讓慾望安靜，稍後再決定。
-
-P.S. 這集是我最喜歡的 Podcast 集數之一，滿滿的人生智慧，[歡迎閲讀我的筆記](https://huam.ing/44-harsh-truths-about-human-nature/)。
-
-![](_attachments/4583779e4477d44535c8a24505e3069a.png)
 
 — 樺明
