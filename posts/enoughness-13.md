@@ -1,7 +1,7 @@
 ---
 title: ⚖️ Kevin Kelly、九十年學到的九件事、2025 年最棒的習慣
 created: 2026-01-09
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 13
 tags: []
 ---
@@ -89,7 +89,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 後來，我允許自己先從「泡臉 30 秒」開始，慢慢適應後，才進階到沖冷水 2 分鐘，甚至泡冰浴 4 分鐘。
 
-![](_attachments/5b88616ae7936c6d3d431dec7848611c.png)
+---
 
 在這個過程中，我領悟到一個精髓：**「臣服」（Surrender）**。
 
