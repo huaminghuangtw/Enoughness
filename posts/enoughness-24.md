@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 奇異果的皮可以吃、不要擔心，要關心、先當學生，再當運動員
 created: 2026-03-27
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 24
 tags: []
 ---
@@ -50,11 +50,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **[不要「擔心」，要「關心」。](https://huam.ing/the-power-of-quiet)**
 
-![](_attachments/4724290f121e5745e7429f9aae5dc0fe.png)
-
 # 3
 
-這週在 [潘政琮基金會（CT Pan Foundation）](https://www.ctpanfoundation.org) 的部落格讀了兩篇讓我深受感動的文章。以下節錄幾段我很喜歡的文字：
+在 [潘政琮基金會（CT Pan Foundation）](https://www.ctpanfoundation.org) 的部落格讀了兩篇深度文章：
 
 《[教育改變的是人類內心的貧窮](https://www.ctpanfoundation.org/post/%E6%95%99%E8%82%B2%E6%94%B9%E8%AE%8A%E7%9A%84%E6%98%AF%E4%BA%BA%E9%A1%9E%E5%85%A7%E5%BF%83%E7%9A%84%E8%B2%A7%E7%AA%AE)》
 
