@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘密武器
 created: 2026-01-23
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 15
 tags: []
 ---
@@ -99,7 +99,5 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 富足，是永遠比「夠用」多一點點。
 
 Enough is enough.
-
-![](_attachments/86cf44b7a7c0237eb8b80b90a6d830c7.png)
 
 — 樺明
