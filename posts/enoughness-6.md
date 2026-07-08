@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 我的運動點心系統、預設說不、回家讓花開
 created: 2025-11-21
-modified: 2026-06-19
+modified: 2026-07-08
 issue: 6
 tags: []
 ---
@@ -88,8 +88,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 我們必須練習「緩慢地答應、迅速地拒絕」。
 
 拒絕平庸的機會，才能抓住卓越的機會。
-
-![](_attachments/025d97ba939e03be2e28c0ed0e91c756.png)
 
 # 3
 
