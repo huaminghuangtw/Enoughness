@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 未來工作報告、自我調節學習與後設認知、教育的目的
 created: 2026-06-12
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 35
 tags:
   - 教育
@@ -90,7 +90,7 @@ PISA 對 LDW 的定義是這樣說的：
 
 這個能力的核心，叫「[自我調節學習](https://www.google.com/search?q=自我調節學習)」（Self-Regulated Learning，SRL），指能夠反思自身學習狀況，並在沒有人督促的情況下，持續調整和進步。
 
-[心理學家](https://psycnet.apa.org/doi/10.1037/0003-066X.34.10.906) 把這種「開啟上帝視角」、「從高處鳥瞰自己」的能力稱為「[後設認知](https://www.google.com/search?q=後設認知)」（metacognition）—（對自己）認知的認知。
+[心理學家](https://psycnet.apa.org/doi/10.1037/0003-066X.34.10.906) 把這種「開啟上帝視角」、「從高處鳥瞰自己」的能力稱為「[後設認知](https://www.google.com/search?q=後設認知)」（metacognition）— 思考自己的思考。
 
 簡單來說，就是「認識自己」。
 
