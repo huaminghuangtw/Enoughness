@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 正念飲食、我的睡眠神器、沒事多喝水
 created: 2026-05-08
-modified: 2026-06-27
+modified: 2026-07-08
 issue: 30
 tags:
   - 睡眠
@@ -25,7 +25,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 以前我常把吃飯當成填飽肚子或消磨時間的活動，總是要配 YouTube 才吃得下去。
 
-在 [Michael Gershon](https://www.google.com/search?q=Michael+Gershon) 博士身上學到「[腸腦軸線](https://www.google.com/search?q=腸腦軸線)」（Gut-Brain Axis）」這個概念後，我開始練習專心吃飯。
+在 [Michael Gershon](https://www.google.com/search?q=Michael+Gershon) 博士身上學到「[腸腦軸線](https://www.google.com/search?q=腸腦軸線)」（Gut-Brain Axis）這個概念後，我開始練習專心吃飯。
 
 簡單來說，腸道是人體的「第二大腦」，兩者之間有一條由迷走神經（Vagus Nerve）組成的「高速公路」雙向傳遞訊息。當我們壓力大、焦慮時，腸胃會跟著不舒服；反過來，腸道健康也會影響我們的心情和專注力。
 
