@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 沒事多睡覺、森林攝影師、在樹下待一下
 created: 2026-02-13
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 18
 tags: []
 ---
@@ -60,7 +60,7 @@ Rob 的作品有細膩的 [光影變化](https://robvisserphotography.nl/raysofl
 
 維尼讓雙腳引領身體，單純地留意周遭正在發生的事情。每一個片刻都充滿新的驚喜，而維尼最愛的，就是體驗這些驚喜。
 
-![](_attachments/fea563db5cd0546d85d334efa808bfad.png)
+---
 
 我們總是習慣當人生的導演，試圖控制、安排、掌控每一步，卻因此錯過當下的美好。
 
