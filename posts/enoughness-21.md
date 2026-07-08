@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 吃個味道就好、微互動的力量、簡單生活
 created: 2026-03-06
-modified: 2026-06-18
+modified: 2026-07-08
 issue: 21
 tags:
   - 簡單生活
@@ -36,8 +36,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 > I wasn’t going to eat it, I was just going to taste it.
 >
 > 我本來不是要吃掉它，我只是想嚐一口而已。
-
-![](_attachments/7d8acfce8e1a318c714aed877ba0aa3b.png)
 
 # 2
 
