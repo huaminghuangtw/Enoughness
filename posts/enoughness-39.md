@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 反過來想，凡事反過來想、業餘比賽 vs 職業比賽、每天把小事做好
 created: 2026-07-10
-modified: 2026-07-08
+modified: 2026-07-15
 issue: 39
 tags: []
 ---
@@ -55,7 +55,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](_attachments/1047e07faa2519f106d74bbe8ded6680.png)
 
-想像一張白紙：你沒有畫圓，只是把圓的周圍塗黑，中間空白的地方就會自成一圓。
+想像一張白紙：沒有畫圓，只是把圓的周圍塗黑，中間空白的地方就會自成一圓。
 
 [負空間](enoughness-28.md#1)，決定了正空間。
 
@@ -75,7 +75,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 2
 
-美國工程師 [Simon Ramo](https://www.google.com/search?q=Simon+Ramo) 在著作《[Extraordinary Tennis for the Ordinary Tennis Player](https://www.google.com/search?q=Extraordinary+Tennis+for+the+Ordinary+Tennis+Player)》提到「職業網球」和「業餘網球」的差異：
+美國工程師 [Simon Ramo](https://www.google.com/search?q=Simon+Ramo) 在著作《[Extraordinary Tennis for the Ordinary Tennis Player](https://www.google.com/search?q=Extraordinary+Tennis+for+the+Ordinary+Tennis+Player)》提到「業餘網球」和「職業網球」的差異：
 
 * **業餘比賽**（Loser’s Game）：80% 的分數，來自「非受迫性失誤」。你贏，不是因為你打得好，而是對手先掛網、先出界。
 * **職業比賽**（Winner’s Game）：80% 的分數，來自「精彩致勝球」。你贏，是因為你打出刁鑽、對方根本接不到的絕殺好球。
