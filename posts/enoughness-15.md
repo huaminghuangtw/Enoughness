@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘密武器
 created: 2026-01-23
-modified: 2026-07-08
+modified: 2026-07-17
 issue: 15
 tags: []
 ---
@@ -16,7 +16,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-最近在讀《[我可能錯了：森林智者的最後一堂人生課](https://www.google.com/search?q=我可能錯了)》。據說，這是瑞典人的床頭書，每 30 個人就有 1 個人看過這本書。
+最近在讀《[我可能錯了：森林智者的最後一堂人生課](https://www.books.com.tw/products/0010947051)》（[I May Be Wrong](https://www.goodreads.com/en/book/show/60222414-i-may-be-wrong)）。
+
+據說，這是瑞典人的床頭書，每 30 個人就有 1 個人看過這本書。
 
 ![](_attachments/c9a2f0aa86cc4e5963d8b9fa67453600.avif "封面圖片：古巴畫家 Tomás Sánchez 的作品《崇敬》（Adoración）")
 
