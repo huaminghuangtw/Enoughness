@@ -1,11 +1,8 @@
 ---
 title: ⚖️ 快思慢想、一次只做一件事、無心之心
 created: 2026-05-15
-modified: 2026-06-18
+modified: 2026-07-19
 issue: 31
-tags:
-  - 正念
-  - 腦科學
 ---
 
 <!-- SELF-INTRO-START -->
