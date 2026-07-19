@@ -1,10 +1,8 @@
 ---
 title: ⚖️ 未來工作報告、自我調節學習與後設認知、教育的目的
 created: 2026-06-12
-modified: 2026-07-08
+modified: 2026-07-19
 issue: 35
-tags:
-  - 教育
 ---
 
 <!-- SELF-INTRO-START -->
