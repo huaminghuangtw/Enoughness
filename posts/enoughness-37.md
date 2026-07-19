@@ -1,10 +1,8 @@
 ---
 title: ⚖️ 非暴力溝通、不要預設立場、用好奇取代評論
 created: 2026-06-26
-modified: 2026-06-28
+modified: 2026-07-19
 issue: 37
-tags:
-  - 溝通
 ---
 
 <!-- SELF-INTRO-START -->
