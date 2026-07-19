@@ -1,10 +1,8 @@
 ---
 title: ⚖️ 人肉電池、手機成癮、沒有數位焦慮的世界
 created: 2026-04-10
-modified: 2026-06-18
+modified: 2026-07-19
 issue: 26
-tags:
-  - 手機成癮
 ---
 
 <!-- SELF-INTRO-START -->
