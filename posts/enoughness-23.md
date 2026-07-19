@@ -3,7 +3,6 @@ title: ⚖️ 大腦外包、虎度門、大格局大思維
 created: 2026-03-20
 modified: 2026-06-18
 issue: 23
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

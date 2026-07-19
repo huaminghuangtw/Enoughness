@@ -3,7 +3,6 @@ title: ⚖️ 錢買不到的東西、每個人都活在自己的時區、分心
 created: 2026-01-30
 modified: 2026-07-08
 issue: 16
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

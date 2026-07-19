@@ -3,7 +3,6 @@ title: ⚖️ 改變世界從改變自己開始、失敗博物館、給自己的
 created: 2025-11-07
 modified: 2026-06-18
 issue: 4
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

@@ -3,7 +3,6 @@ title: ⚖️ 如何正確綁鞋帶、邊開火邊移動、一年讀數百本書
 created: 2025-12-19
 modified: 2026-07-08
 issue: 10
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

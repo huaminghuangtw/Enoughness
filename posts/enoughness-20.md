@@ -3,7 +3,6 @@ title: ⚖️ 不因事小而不為、做你不敢做的事、休息時也要盡
 created: 2026-02-27
 modified: 2026-07-08
 issue: 20
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

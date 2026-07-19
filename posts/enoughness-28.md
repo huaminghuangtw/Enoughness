@@ -3,7 +3,6 @@ title: ⚖️ 負空間、商人和漁夫、Make Each Day Count
 created: 2026-04-24
 modified: 2026-06-25
 issue: 28
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

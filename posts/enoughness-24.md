@@ -3,7 +3,6 @@ title: ⚖️ 奇異果的皮可以吃、不要擔心，要關心、先當學生
 created: 2026-03-27
 modified: 2026-07-08
 issue: 24
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

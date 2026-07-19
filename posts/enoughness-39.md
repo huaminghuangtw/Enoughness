@@ -3,7 +3,6 @@ title: ⚖️ 反過來想，凡事反過來想、業餘比賽 vs 職業比賽�
 created: 2026-07-10
 modified: 2026-07-17
 issue: 39
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

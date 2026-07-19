@@ -4,7 +4,6 @@ created: 2026-07-24
 modified: 2026-07-17
 draft: true
 issue: 41
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

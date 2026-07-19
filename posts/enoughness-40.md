@@ -3,7 +3,6 @@ title: ⚖️ 螺旋不是繞圈、說不定，你早就到了、竹子的啟示
 created: 2026-07-17
 modified: 2026-07-18
 issue: 40
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

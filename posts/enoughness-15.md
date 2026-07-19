@@ -3,7 +3,6 @@ title: ⚖️ 給身體的一封信、當自己的觀察員、知足是你的秘
 created: 2026-01-23
 modified: 2026-07-17
 issue: 15
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->

@@ -3,7 +3,6 @@ title: ⚖️ 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
 modified: 2026-06-19
 issue: 7
-tags: []
 ---
 
 <!-- SELF-INTRO-START -->
