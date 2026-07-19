@@ -3,9 +3,6 @@ title: ⚖️ 現代四騎士和醫學 3.0、人生最後十年，你想要怎�
 created: 2026-06-19
 modified: 2026-07-19
 issue: 36
-tags:
-  - 健康
-  - 運動
 ---
 
 <!-- SELF-INTRO-START -->
