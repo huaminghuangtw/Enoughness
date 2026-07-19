@@ -1,10 +1,8 @@
 ---
 title: ⚖️ 當維尼，不要當兔子、預設模式網路、真正重要的東西是看不見的
 created: 2026-04-17
-modified: 2026-06-18
+modified: 2026-07-19
 issue: 27
-tags:
-  - 腦科學
 ---
 
 <!-- SELF-INTRO-START -->
