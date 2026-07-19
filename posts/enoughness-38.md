@@ -1,11 +1,8 @@
 ---
 title: ⚖️ 黃仁勳給年輕人的建議、先吃青蛙，再吃蝌蚪、做最重要的事
 created: 2026-07-03
-modified: 2026-07-04
+modified: 2026-07-19
 issue: 38
-tags:
-  - 時間管理
-  - 生產力
 ---
 
 <!-- SELF-INTRO-START -->
