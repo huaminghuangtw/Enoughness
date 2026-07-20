@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 螺旋不是繞圈、說不定，你早就到了、竹子的啟示
 created: 2026-07-17
-modified: 2026-07-18
+modified: 2026-07-19
 issue: 40
 ---
 
@@ -66,7 +66,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [但說不定，你早就到了。](enoughness-28.md#2)
 
-就是這裡，就是現在，Here and Now。
+就是這裡，就是 [現在](enoughness-14.md)，Here and Now。
 
 # 3
 
