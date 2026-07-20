@@ -57,6 +57,8 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **當維尼，不要當兔子。**
 
+![](_attachments/9f92d53bf5566d115550ffd0f4f10f08.png)
+
 # 2
 
 [第一期](enoughness-1.md#3) 提過在生活中「留白」的重要性。
