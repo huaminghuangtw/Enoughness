@@ -1,7 +1,7 @@
 ---
-title: ⚖️ 、、
+title: ⚖️ 遠離靜態生活、不要長時間久坐、每天來一份運動點心
 created: 2026-07-24
-modified: 2026-07-17
+modified: 2026-07-23
 draft: true
 issue: 41
 ---
@@ -14,43 +14,95 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ---
 
+Link peter attia & 運動點心系統 & 微小運動
+
 # 1
 
-不要久坐
+最近很喜歡《[怪獸訓練電台](https://www.youtube.com/playlist?list=PLNtRmUd1zYLA_k0GIH8T8lBicTfgDZYQ-)》這個 Podcast，聽何立安博士與 Uncle Josh 講垃圾話、一搭一唱，又可以學到很多運動訓練的相關知識。
+
+在《[抗老化，你需要大重量訓練](https://www.books.com.tw/products/0011050502)》中，何博士提到運動有兩種：
+
+1. **遠離靜態生活**。日常的走動、爬樓梯、中斷坐姿、做家事，目的是「讓身體的下水道保持水流，不被淤積塞住」。
+2. **提升肌力體能**。給予身體大重量訓練，如深蹲、硬舉、臥推，目的是「」。
+
+如果只做重訓但整天不動，訓練效果會被靜態生活吃掉；如果只走路而不重訓，肌肉與骨質依然會隨著老化流失。
+
+兩者無法互相取代，必須雙管齊下。
+
+---
+
+許多人有一種迷思，認為肌力不足頂多就是「老了提不動東西」，大不了到時候再來練。但事實上，早在因為肌少而感覺到行動不便之前，身體的代謝早就已經先出問題了，血糖與血壓難以控制，腎臟、心臟開始出狀況。
+
+---
+
+現代社會發明了大量的「靜態刺激物」，手機、電視、電腦、線上遊戲，這些東西讓人可以黏在螢幕前好幾個小時甚至通宵，徹底壓抑了人類好動的本能。
+
+簡單的自我檢測：試著把家裡的電視拔掉、沒收手機與 3C 產品，像對待小孩一樣。你會發現，一旦失去這些靜態刺激物的緩衝，人自然而然就會一直四處走動、找事情做。
+
+當開始有意識地檢查，就會發現生活中「處處都是靜態刺激物」。
+
+做一個強壯老人
 
 運動就算沒有養成運動習慣，也不能讓不動變成習慣
 
-* Do not have a sedentary lifestyle
-* Sitting is new smoking.
-* Move your body to create energy, and use your energy to create more of it.
-* The more time you spend sitting on the couch, the lazier you’ll get.
-* The more you move, the more energetic you feel.
-* Our body is made to move — Move as much as you can throughout the day.
-* Stop living in a box: Most people get up in the morning, eat breakfast out of a box, go into a box office, use a box elevator, do their work on a box, talk on a box, go into a box room for meetings, and in the evening, they turn the box on.
-* Never sit still for more than 45 minutes.
+Our body is made to move — Move as much as you can throughout the day.
+Never sit still for more than 45 minutes.
+
+
+何博士長期倡導「以常訓代替長照」理念：與其等到老了再花大錢請看護、住安養院，不如現在就開始投資自己的肌力。
+
+# 2
+
+Sedentary
+
+過去人們多半認為，只要每天運動 30 分鐘，就能保持健康。但 [加拿大多倫多大學](https://www.google.com/search?q=加拿大多倫多大學) 的一篇 [研究](https://doi.org/10.7326/m14-1651) 指出：長時間久坐會顯著增加死亡、心血管疾病、癌症及第二型糖尿病的風險 — _即便你有規律運動的習慣_。
+
+也就是說，運動和久坐是兩條獨立路線。你不能用下班後的一小時健身房，來抵銷一整天黏在椅子上的傷害。
+
+從幼稚園開始，我們就被教育要「乖乖坐著」。從小學到高中的 12 年，每天上課八小時，大部分時間都坐在教室裡，沒什麼機會自由活動。體育課更是少得可憐，考試前還會被借去上數學。
+
+進入職場後：早上起床，從紙盒倒出麥片當早餐；走進格子般的大樓，搭電梯上樓；在隔間裡工作，進會議室開會。
+
+下班回家，坐上沙發，打開電視、滑手機、追劇。
+
+**從一個盒子，移動到下一個盒子，成為每天的生活寫照**。
+
+人類本來是好動的生物，卻被手機、電視、電腦、串流平台、線上遊戲這些「靜態刺激物」限制住了。
+
+我們原本應該起身走動、去找事情做，但現在你只需要面對螢幕，就能打發一整天的時間。
+
+https://www.goodreads.com/work/quotes/6473602-born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-wo
+
+《[天生就會跑](https://www.books.com.tw/products/0010464094)》（[Born to Run](https://www.goodreads.com/book/show/6289283-born-to-run)）：人類是地球上最強的長距離跑者。黑猩猩沒有頸後肌，我們有——這條肌腱能穩定頭部，跑步時不會搖頭晃腦。黑猩猩沒有明顯的跟腱，我們有——它像一條彈簧，每一步都幫你省力。加上無毛的體表和發達的汗腺，讓人類能在烈日下持續散熱。這些特質加起來，使人類在極限耐力上勝過多數動物——甚至能在一場超長跑比賽中贏過馬。
+你知道嗎？人類是唯一能以直立姿態、用雙腳長距離移動的動物。這一切，都跟你的骨盆有關。
+
+其他四足動物的骨盆又長又窄，像一條直線；人類的骨盆卻又短又寬，像一個碗——穩穩托住內臟、撐住上半身。這個結構，讓我們能挺直身體、大步向前走。
+
+人類就是為移動而生的。演化上，我們的身體適合每天步行 7 到 15 公里（約 10,000 步）。現代狩獵採集族群的研究也發現，成年人一天走 7 到 13 公里是家常便飯。
+
+不只走路。
+
+
+# 3
+
+**日常習慣**：除了建立規律運動習慣外，更重要的是在日常工作與生活中**主動打斷久坐**（例如每坐 30–60 分鐘就站起來活動 2–3 分鐘）。
+
 
 Don’t Underestimate the Power of Micro Exercises
 
-<https://huam.ing/this-shortcut-got-me-to-exercise-every-single-day>
 
-<https://shosho.tw/blog/vilpa-easy-exercise-strategy/>
+教育部體育署 101 年「運動城市調查」(電話訪問蒐集全國 13 歲以上 35,505 位民眾健康相關資料發現)，近七成 13 歲以上國人無規律運動習慣。能夠做到每週至少運動 3 次、每次至少 30 分鐘、運動強度達到會流汗而且會喘之規律運動比率僅有 30.4%。調查發現，國人不運動的五大原因為沒有時間 (52.1%)、工作太累 (24.6%)、懶得運動 (18.5%)、健康狀況不能運動 (9.4%)、沒有興趣 (6.6%) 等。
 
-# 2
+每個禮拜沒辦法運動 3 次，那 1 次行不行？
 
-在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
+真的抽不出 30 分鐘來做運動，那 10 分鐘行不行？
 
-自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
+Vigorous Intermittent Lifestyle Physical Activity。
 
-[簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
-
-關鍵不在車，而在駕駛
-
-AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
-
-[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
-
-# 2
+中文有點繞口喔，叫做「費力間歇性生活方式身體活動」。
 
 # 3
+
+把 VILPA 融入到你的生活中
 
 — 樺明
