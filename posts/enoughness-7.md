@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
-modified: 2026-06-19
+modified: 2026-07-24
 issue: 7
 ---
 
@@ -86,9 +86,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 1. 「3–5 法則」：每一個動作皆做 3–5 組，每組 3–5 下，組間休息 3–5 分鐘。
 2. 將訓練視為一種「練習」（Practice），而非單純的「鍛鍊」（Workout）。
 
-	> Strength is a skill, and as such, it must be practiced. If you approach it in this manner, not only are you gonna get stronger so much faster, but you’re gonna truly enjoying the training process.
-	> 
 	> 力量是一種技能，因此必須加以練習。如果你用這種方式看待它，你不僅會更快地變強壯，還能真正享受整個訓練過程。
+	> 
+	> Strength is a skill, and as such, it must be practiced. If you approach it in this manner, not only are you gonna get stronger so much faster, but you’re gonna truly enjoying the training process.
 
 3. 轉轉關節、甩甩手、抖抖四肢這類輕鬆的動作，能夠幫助喚醒身體，讓你在接下來的訓練裡，更容易達到巔峰狀態。
 
@@ -96,9 +96,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](_attachments/65d6e5fc39fd736c44a14fd6102a2798.png "圖片來源：StrongFirst, the school of strength")
 
-[相較於「延長壽命」（Lifespan），我們更應該追求的是「延長生命力」（Healthspan）— 重點不在於活到幾歲，而在於「健康地」活到幾歲。](enoughness-36.md#1)
+[相較於「延長壽命」（Lifespan），我們更應該追求的是「延長生命力」（Healthspan）。重點不在於活到幾歲，而在於「健康地」活到幾歲。](enoughness-36.md#1)
 
-我希望自己能像 [這位阿伯一樣](https://youtu.be/Kw0yBrXKZno)，到了 70 幾歲依然身手矯健、活蹦亂跳。
+我希望自己能像 [這位阿伯](https://youtu.be/Kw0yBrXKZno) 一樣，做一個強壯的老人，到了 70 幾歲依然身手矯健、活蹦亂跳。
 
 為了實現這個願景，即便每天只有幾分鐘能運動，我也會優先投資在「髖關節與骨盆」的活動度與柔軟度上。
 
