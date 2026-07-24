@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 現代四騎士和醫學 3.0、人生最後十年，你想要怎麼過？、運動是最好的長壽藥
 created: 2026-06-19
-modified: 2026-07-19
+modified: 2026-07-24
 issue: 36
 ---
 
@@ -189,7 +189,7 @@ P.S. 想更深入認識 Zone 2 訓練？可以看張修修的 [這支影片](htt
 >
 > Over the next thirty or forty years, your muscle strength will decline by about 8 to 17 per­cent per decade—accelerating as time goes on. So, if you want to pick up that thirty-pound grandkid or great-grandkid when you’re eighty, you’re going to have to be able to lift about fifty to fifty-five pounds now. Without hurting yourself. Can you do that?
 
-[肌力](https://peterattiamd.com/category/exercise/strength-muscle-mass/) 是長壽的儲蓄帳戶，趁年輕多存一點，老的時候才有得領。
+[肌力](https://peterattiamd.com/category/exercise/strength-muscle-mass/) 是長壽的儲蓄帳戶，趁年輕多存一點，老的時候才有得領。這就是「[用長訓代替長照](https://www.google.com/search?q=用長訓代替長照)」的精神：與其把錢留給未來的看護和安養院，不如現在就投資在自己的肌力上。
 
 [鍛鍊肌力](enoughness-7.md#3)，其實不一定要花錢上健身房，在家裡就能徒手練功。
 
