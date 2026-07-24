@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-07-31
-modified: 2026-07-23
+modified: 2026-07-24
 draft: true
 issue: 42
 ---
@@ -15,6 +15,16 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 ---
 
 # 1
+
+[The Arrival Fallacy](../../Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md)
+
+[ASAP Sports Transcripts - Golf - 2025 - THE 153RD OPEN - July 15 - Scottie Scheffler](https://www.asapsports.com/show_interview.php?id=209897)
+
+[The Arrival Fallacy: Why Success Is Never Enough \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-arrival-fallacy-why-success-is-never-enough)
+
+> It feels like you work your whole life to celebrate winning a tournament for like a few minutes. It only lasts a few minutes, that kind of euphoric feeling…And then it’s like, what are we going to eat for dinner?
+
+> This is not a fulfilling life. It’s fulfilling from the sense of accomplishment, but it’s not fulfilling from the sense of the deepest places of your heart…There’s a lot of people that make it to what they thought was going to fulfill them in life and then you get there and all of a sudden you get to number 1 in the world and you’re like what’s the point?
 
 在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
 
