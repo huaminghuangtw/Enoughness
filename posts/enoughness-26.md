@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這些畫面，就像科幻電影裡被機器人控制、專門發電的「[人肉電池](https://www.google.com/search?q=人肉電池)」。
 
-![](_attachments/cba361a758f373eb153182448bba00cb.png)
+![](https://media.huam.ing/image/cba361a758f373eb153182448bba00cb.webp)
 
 智慧型手機的出現，徹底改寫人類獲取資訊及社交互動的方式。
 
@@ -47,7 +47,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 幾年前，受到 Netflix 紀錄片 《[智能社會：進退兩難](https://www.imdb.com/title/tt11464826/)》（The Social Dilemma）的醍醐灌頂，我開始意識到手機和社群媒體潛藏的心理健康危機，並下定決心 [投入現代人手機成癮議題](https://shortcutomation.com)。
 
-![](_attachments/d42378f28cc3061a25449670b71a18d3.png "圖片來源：The Social Dilemma")
+![](https://media.huam.ing/image/d42378f28cc3061a25449670b71a18d3.webp "圖片來源：The Social Dilemma")
 
 _我常在想，如果可以改變人類的 3C 使用習慣，讓每個人都能學會適時放下手機，或許更多眼神交會的真實對話就會發生。_
 
