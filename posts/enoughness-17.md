@@ -17,7 +17,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 在 [Reddit](https://www.reddit.com/r/productivity/comments/fj71ik/routine_flashcards/) 上看到有人分享「日常作息字卡」（[Daily Routine Flashcards](https://www.google.com/search?q=Daily+Routine+Flashcards)）的做法，啟發我用更簡單直接的方式來建立生活儀式。
 
-![](_attachments/7fea95d8dc55a50bee1d9560262c0ad6.png "圖片來源：Reddit")
+![](https://media.huam.ing/image/7fea95d8dc55a50bee1d9560262c0ad6.webp "圖片來源：Reddit")
 
 過去我嘗試過各種生產力 App（例如 [Streaks](https://streaksapp.com/)、[TickTick](https://ticktick.com/)、[Atoms](https://atoms.jamesclear.com/) 等）來養成好習慣，但結果只是讓自己分心，反而難以專注在真正重要的事：習慣養成。這些工具看似高效，卻讓人陷入「管理」，而非「實踐」的循環。
 
@@ -53,7 +53,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 但當我們面對遠在地球另一端、同樣處於生命危險的兒童時，卻很少主動伸出援手。事實上，只要我們省下日常中那些非必要的開銷，就能拯救因缺乏食物、乾淨飲水與醫療資源而逐漸死去的孩子。
 
-![](_attachments/767e0647768d25e19913ee968cc4563c.png)
+![](https://media.huam.ing/image/767e0647768d25e19913ee968cc4563c.webp)
 
 為什麼我們對近在眼前的危機反應強烈，對遙遠的苦難卻表示冷漠？
 
