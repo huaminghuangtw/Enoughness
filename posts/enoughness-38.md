@@ -75,7 +75,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **因為你有的是時間。**
 
-![](_attachments/63aed20147a2455fb4ad8216559e6af4.png "圖片來源：[Sketchplanations](https://sketchplanations.com/eat-the-frog)")
+![](https://media.huam.ing/image/63aed20147a2455fb4ad8216559e6af4.webp "圖片來源：[Sketchplanations](https://sketchplanations.com/eat-the-frog)")
 
 # 3
 
@@ -99,7 +99,7 @@ Narayen 有點意外：「Jensen，難道你沒有行事曆嗎？」
 
 黃仁勳不管理時間，他**選擇做最重要的事**。
 
-![](_attachments/409870e52c47e163435a9f53e231e576.png "圖片來源：[Nvidia](https://x.com/nvidia/status/2046396659261743183)")
+![](https://media.huam.ing/image/409870e52c47e163435a9f53e231e576.webp "圖片來源：[Nvidia](https://x.com/nvidia/status/2046396659261743183)")
 
 管理學大師 [Stephen Covey](https://www.google.com/search?q=Stephen+Covey) 所見略同：
 
