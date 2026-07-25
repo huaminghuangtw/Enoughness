@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 快思慢想、一次只做一件事、無心之心
 created: 2026-05-15
-modified: 2026-07-19
+modified: 2026-07-25
 issue: 31
 ---
 
@@ -20,11 +20,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 1. 快速、直覺的系統 1
 2. 緩慢、理性的系統 2
 
-![](_attachments/ac3be20a7086e1267c08f344b713ec2f.png)
+![](https://media.huam.ing/image/ac3be20a7086e1267c08f344b713ec2f.webp)
 
 系統 1 專門處理熟練或習慣性動作；但需要深度思考、邏輯推演和創造力的事，只能交給系統 2。
 
-![](_attachments/66302eb59a26100c50316b225457a5ee.png "[The Müller-Lyer Illusion](https://www.google.com/search?q=The+Müller-Lyer+Illusion)")
+![](https://media.huam.ing/image/66302eb59a26100c50316b225457a5ee.webp "[The Müller-Lyer Illusion](https://www.google.com/search?q=The+Müller-Lyer+Illusion)")
 
 現在，請你判斷上圖中兩條線，哪一條比較長？
 
@@ -80,7 +80,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 > 有形有意都是假，拳到無心始見奇。
 
-![](_attachments/95d28639a4d6c715ea2fde1530ccd745.png "圖片來源：Wikipedia")
+![](https://media.huam.ing/image/95d28639a4d6c715ea2fde1530ccd745.webp "圖片來源：Wikipedia")
 
 無心（[Mushin](https://www.google.com/search?q=Mushin)）是一個日文字，代表心無旁騖、心無雜念、心如止水的狀態。並非一片空白或麻木，而是不執著於特定事物，就像流水一樣清澈、像明鏡一樣映照。
 
