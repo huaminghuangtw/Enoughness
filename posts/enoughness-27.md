@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 有一天，[小熊維尼](enoughness-12.md#3)（Pooh）和小豬（Piglet）並肩躺在草坪上，望著天空，想著今天要做什麼。
 
-![](_attachments/c9257a85882e36fd0382be51f7500a5f.png)
+![](https://media.huam.ing/image/c9257a85882e36fd0382be51f7500a5f.webp)
 
 維尼首先打破沉默：「不如去拜訪大家吧。」
 
@@ -57,7 +57,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **當維尼，不要當兔子。**
 
-![](_attachments/9f92d53bf5566d115550ffd0f4f10f08.png)
+![](https://media.huam.ing/image/9f92d53bf5566d115550ffd0f4f10f08.webp)
 
 # 2
 
@@ -67,7 +67,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 神經科學家發現，在這些放鬆的閒置時段，大腦並沒有進入休息狀態，反而是進入一種活躍的「[預設模式網路（Default Mode Network, DMN）](https://doi.org/10.1016/j.neuroimage.2007.02.041)」。
 
-![](_attachments/392ce5ee43f0244ed41ecc8b0c1c0f87.png "當我們專注於需要高度注意力的特定任務時，大腦某些區域的活動反而會降低；相反地，在沒有明確目標時，這些區域則維持高度活躍，反映出大腦的「預設運作狀態」。【圖片來源：Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function.】")
+![](https://media.huam.ing/image/392ce5ee43f0244ed41ecc8b0c1c0f87.webp "當我們專注於需要高度注意力的特定任務時，大腦某些區域的活動反而會降低；相反地，在沒有明確目標時，這些區域則維持高度活躍，反映出大腦的「預設運作狀態」。【圖片來源：Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function.】")
 
 在 DMN 模式下，大腦會主動尋找連結，並建立關聯性。這通常在我們從事低認知需求的活動（例如散步、煮飯、洗澡）時發生。
 
@@ -123,6 +123,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 請記得：**正是那些用心灌溉的時光，才讓玫瑰變得如此珍貴。**
 
-![](_attachments/a2e2e7da5990b45413a601a495d9d004.png)
+![](https://media.huam.ing/image/a2e2e7da5990b45413a601a495d9d004.webp)
 
 — 樺明
