@@ -15,7 +15,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-![](_attachments/9e3462db90410ba410df4e3e96ededc3.png)
+![](https://media.huam.ing/image/9e3462db90410ba410df4e3e96ededc3.webp)
 
 ## 現代四騎士
 
@@ -60,7 +60,7 @@ Attia 認為，30 歲，甚至更年輕，就該開始主動管理自己的健�
 >
 > Die young, as late as possible.
 
-![](_attachments/3cfd4a8f0a7a668cb3b961ae8006e9a3.png "圖片來源：《[超預期壽命：如何有效預防、延緩、逆轉慢性病及衰老，長壽的科學與藝術](https://www.books.com.tw/products/0011001532)》")
+![](https://media.huam.ing/image/3cfd4a8f0a7a668cb3b961ae8006e9a3.webp "圖片來源：《[超預期壽命：如何有效預防、延緩、逆轉慢性病及衰老，長壽的科學與藝術](https://www.books.com.tw/products/0011001532)》")
 
 我曾在日記寫下：**我希望在走的那天，還能邊寫日記，邊看最後一次日出，然後行動自如地去 [跑步](https://www.marathonsworld.com/artapp/mywall.php?uid=963161)、拉單槓、上市場，最後在午休的睡夢中死去。**
 
@@ -107,13 +107,13 @@ Healthspan＝Lifespan，完美 💯
 
 根據衛生福利部的 [統計](https://dep.mohw.gov.tw/DOS/cp-5083-55378-113.html)，2023 年台灣人的平均壽命為 80.2 歲，其中平均健康壽命為 72.5 歲，代表許多人活到七、八十，最後七、八年卻是 [在病床上度過](enoughness-3.md#2) 的！（我的老天鵝 🤦🏽
 
-![](_attachments/ad761d762634fba209ce33315a9767b8.png "資料來源：內政部 & 衛生福利部統計處")
+![](https://media.huam.ing/image/ad761d762634fba209ce33315a9767b8.webp "資料來源：內政部 & 衛生福利部統計處")
 
 在一篇關於「[邊際十年](https://peterattiamd.com/marginal-decade-spotlights/)」（Marginal Decade）的文章中，Peter Attia 寫道：
 
 > 眼科醫師 [Mathea Allansmith](https://www.google.com/search?q=Mathea+Allansmith) 46 歲才開始跑步，從每天 2 英里慢慢累積，6 年後完賽波士頓馬拉松，並在 92 歲高齡，以 11 個多小時 [完成](https://www.instagram.com/womensrunningcommunity/reel/CwOrky4MF6f/) Honolulu 馬拉松，成為史上最年長的女性完賽者。
 
-![](_attachments/c1cbc0daa61a76355cafa1cab42e201a.png "92 歲 × 42 公里：Mathea Allansmith 創下金氏世界紀錄 👏🏽（圖片來源：South China Morning Post）")
+![](https://media.huam.ing/image/c1cbc0daa61a76355cafa1cab42e201a.webp "92 歲 × 42 公里：Mathea Allansmith 創下金氏世界紀錄 👏🏽（圖片來源：South China Morning Post）")
 
 **人生最後十年，你想要怎麼過呢？**
 
@@ -137,7 +137,7 @@ Attia 醫師說，[運動](enoughness-22.md#2) 是最強效、覆蓋面最廣的
 
 （對，就是國中生物課本裡面，長得像毛毛蟲的那個東西 🐛）
 
-![](_attachments/a9a2fb7a9ec72c500f91028da2efda19.png "人體的能量工廠 — 粒線體")
+![](https://media.huam.ing/image/a9a2fb7a9ec72c500f91028da2efda19.webp "人體的能量工廠 — 粒線體")
 
 Zone 2 可以增加粒線體數量；粒線體越多，新陳代謝能力越好；新陳代謝能力越好，壽命就越長。**Zone 2 是長壽金字塔的底座。**
 
