@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ## 2025 年核心技能
 
-![](_attachments/15e15772152fb839379bc6c5262997d9.png "2025 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
+![](https://media.huam.ing/image/15e15772152fb839379bc6c5262997d9.webp "2025 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
 
 前五名清一色是人類獨有的技能：
 
@@ -38,7 +38,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ## 2030 年核心技能
 
-![](_attachments/31cd1518d438d8b3d353ad05dd51f679.png "2030 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
+![](https://media.huam.ing/image/31cd1518d438d8b3d353ad05dd51f679.webp "2030 年核心技能（圖片來源：World Economic Forum, [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)）")
 
 2030 年的預測是一張四象限圖。
 
