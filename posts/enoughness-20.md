@@ -103,7 +103,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 即使心中充滿恐懼，還是可以 [做讓你害怕的事](enoughness-13.md#3)。
 
-![](_attachments/be85809dd7afa5783d162b1748aba77d.png "圖片來源：Janis Ozolins")
+![](https://media.huam.ing/image/be85809dd7afa5783d162b1748aba77d.webp "圖片來源：Janis Ozolins")
 
 # 3
 
@@ -148,6 +148,6 @@ Waitzkin 強調，十分力的狀態遠勝於六分力，兩者有天壤之別�
 
 在追求卓越的同時，別忘了給自己相同品質的休息。
 
-![](_attachments/8b6e4c1908690b49af86aebc972860e6.jpg "圖片來源：@valuethe.mind")
+![](https://media.huam.ing/image/8b6e4c1908690b49af86aebc972860e6.webp "圖片來源：@valuethe.mind")
 
 — 樺明
