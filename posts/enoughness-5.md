@@ -83,7 +83,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 最後剩下兩顆蛋躺在電鍋裡，孤單地涼掉。
 
-![](_attachments/659eca5f34a3fd534e4b77bb0733d243.jpeg)
+![](https://media.huam.ing/image/659eca5f34a3fd534e4b77bb0733d243.webp)
 
 ---
 
@@ -103,13 +103,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 多一件，真的多一分快樂嗎？
 
-![](_attachments/ada8e095d1826420c7c1a6303b313aaa.png)
+![](https://media.huam.ing/image/ada8e095d1826420c7c1a6303b313aaa.webp)
 
 # 4
 
 當然，邊際效益不會永遠遞減，有時候反而會出現「**邊際效益遞增（Increasing Marginal Utility）**」的情況：
 
-![](_attachments/f58dfdbddb0e81d0b203787fb327bbc9.png "圖片來源：James Clear")
+![](https://media.huam.ing/image/f58dfdbddb0e81d0b203787fb327bbc9.webp "圖片來源：James Clear")
 
 ## 學習與技能累積
 
