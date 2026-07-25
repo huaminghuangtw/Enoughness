@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 中文可以翻成「凸顯」、「顯著」或「突出」。簡單來說，就是讓某個東西在一堆東西裡面特別顯眼、吸引目光。
 
-![](_attachments/5ee42257258bfe204a25d58c42f045d7.png "圖片來源：[Works That Work](https://worksthatwork.com/1/urinal-fly)")
+![](https://media.huam.ing/image/5ee42257258bfe204a25d58c42f045d7.webp "圖片來源：[Works That Work](https://worksthatwork.com/1/urinal-fly)")
 
 [1990 年代](https://en.wikipedia.org/wiki/Urinal_target)，阿姆斯特丹史基浦機場（[Schiphol Airport](https://www.google.com/maps?q=Schiphol+Airport)）的男廁地板常常被尿濺得到處都是，讓清潔人員非常崩潰。
 
@@ -35,7 +35,7 @@ P.S. 還有人把蒼蠅換成 [足球門](https://www.google.com/search?q=Footba
 
 他們在貓的 [初級視覺皮質層](https://zh.wikipedia.org/zh-tw/%E8%A7%86%E8%A7%89%E7%9A%AE%E5%B1%82)（Primary Visual Cortex，大腦的視覺解碼中心，簡稱 V1）植入微電極，並在貓的眼前投影不同的光帶，試圖記錄視神經元的放電反應。
 
-![](_attachments/083f4217bbe2d5d628a5e406e9006b18.png "圖片來源：[Devopedia](https://devopedia.org/computer-vision)")
+![](https://media.huam.ing/image/083f4217bbe2d5d628a5e406e9006b18.webp "圖片來源：[Devopedia](https://devopedia.org/computer-vision)")
 
 剛開始，無論怎麼切換光帶的大小或位置，V1 幾乎毫無反應。犧牲掉無數隻可愛小貓後 🥲 某天，研究人員在更換幻燈片時，幻燈片邊緣無意間在貓咪眼前劃過，產生一道陰影，並讓神經元突然「啪啪」大響 。
 
@@ -49,11 +49,11 @@ P.S. 還有人把蒼蠅換成 [足球門](https://www.google.com/search?q=Footba
 
 Salience 可以藉由不同程度的「對比」來實現，像是顏色、大小、方向、形狀、動態的差異。
 
-![](_attachments/39485bd88e8c484bf9e5c4cfbc166521.png "圖片來源：[Wong, B. Salience. Nat Methods 7, 773 (2010)](https://doi.org/10.1038/nmeth1010-773)")
+![](https://media.huam.ing/image/39485bd88e8c484bf9e5c4cfbc166521.webp "圖片來源：[Wong, B. Salience. Nat Methods 7, 773 (2010)](https://doi.org/10.1038/nmeth1010-773)")
 
 例如下圖左，A 馬上就能找到，P 卻要找半天。右邊那張圖也是，直角的線條一眼就看到，斜的那根卻要找很久。這就是 Salience 的威力。
 
-![](_attachments/5c32972148bc2b547c5cff899d76ce20.png "圖片來源：[Wong, B. Salience. Nat Methods 7, 773 (2010)](https://doi.org/10.1038/nmeth1010-773)")
+![](https://media.huam.ing/image/5c32972148bc2b547c5cff899d76ce20.webp "圖片來源：[Wong, B. Salience. Nat Methods 7, 773 (2010)](https://doi.org/10.1038/nmeth1010-773)")
 
 賦予意義，也可以創造 Salience。
 
@@ -67,7 +67,7 @@ Salience 可以藉由不同程度的「對比」來實現，像是顏色、大�
 
 蘋果把品牌和「挑戰現狀、勇於創新」的價值觀綁在一起，讓觀眾感受到：原來選擇蘋果，是一種態度跟信仰。這種情感連結，正是忠誠度的來源，也讓蘋果成為少數擁有死忠粉絲的公司之一。
 
-![](_attachments/1b5e84a5d8bfc0ee343d7e55835a8490.png "圖片來源：[Think Different - Steve Jobs (1997) - Apple](https://youtu.be/CLIyH2SyxZA)")
+![](https://media.huam.ing/image/1b5e84a5d8bfc0ee343d7e55835a8490.webp "圖片來源：[Think Different - Steve Jobs (1997) - Apple](https://youtu.be/CLIyH2SyxZA)")
 
 還有一種手法可以設計 Salience：[留白](enoughness-28.md#1)。
 
