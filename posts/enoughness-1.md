@@ -1,7 +1,7 @@
 ---
 title: ⚖️ Misogi 儀式、留白才能成就精彩
 created: 2025-10-17
-modified: 2026-07-19
+modified: 2026-07-25
 issue: 1
 ---
 
@@ -21,7 +21,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這個想法來自日本的 [Misogi](https://www.google.com/search?q=Japanese+Misogi)（禊 ㄒㄧˋ）概念：每年選定一天，挑戰一件難到懷疑人生的事。完成後，過程中所創造的回憶，將在接下來的 364 天帶來正面的漣漪效應。
 
-![](_attachments/74de83f36e86e218baf10f7e98ecb9ac.png "圖片來源：Sauna House")
+![](https://media.huam.ing/image/74de83f36e86e218baf10f7e98ecb9ac.webp "圖片來源：Sauna House")
 
 對了，你有什麼長跑訓練的訣竅嗎？
 
@@ -55,6 +55,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **留白，是預留空間給奇蹟；留白，才能成就精彩。**
 
-![](_attachments/0a13d2bb6bf2a105c58798a341bb188a.png "攝於彰化員林「餘白和菓子茶舖」")
+![](https://media.huam.ing/image/0a13d2bb6bf2a105c58798a341bb188a.webp "攝於彰化員林「餘白和菓子茶舖」")
 
 — 樺明
