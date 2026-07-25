@@ -25,7 +25,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 每天都是一個全新的機會，盡情地把所有創意、想法和作品都分享給這個世界，別埋沒自己的潛能。
 
-![](_attachments/1efabbc2d82c4ed6c8bbd572b3a0f3b5.png)
+![](https://media.huam.ing/image/1efabbc2d82c4ed6c8bbd572b3a0f3b5.webp)
 
 # 2
 
