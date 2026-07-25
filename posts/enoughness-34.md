@@ -23,7 +23,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 答案是計程車司機 🚖
 
-![](_attachments/97c27115e2258e19ba7c865347164cec.png "類似老爺車型的黑頭計程車（Black Cab）（圖片來源：[Unsplash](https://unsplash.com/photos/a-black-car-driving-down-a-street-1JnmGnuwUSg)）")
+![](https://media.huam.ing/image/97c27115e2258e19ba7c865347164cec.webp "類似老爺車型的黑頭計程車（Black Cab）（圖片來源：[Unsplash](https://unsplash.com/photos/a-black-car-driving-down-a-street-1JnmGnuwUSg)）")
 
 在倫敦當運將（Cabbies），是不能看導航的。想拿到這份工作，得先通過傳說中難如登天的「[倫敦知識大全](https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london)」（[The Knowledge](https://london-taxi.co.uk/the-knowledge)）— 花上 3 到 4 年，把「[藍皮書](https://www.knowledgeoflondon.co.uk/bluebooks)」烙印至腦袋：25,000 條街道、320 條路線，還有數不清的地標、建築、商店。
 
@@ -31,7 +31,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [知識大全是一場馬拉松；它磨的不只是記憶力，更是意志力](https://youtu.be/xSdMQQ3CqtI?t=37m24s)。正因如此，能掛上那枚綠色徽章，是至高無上的榮耀。
 
-![](_attachments/adc2608dbe6230ff5c8ffdb67d1a29d1.png "綠色徽章（Green Badge）是倫敦最高等級的計程車駕駛執照。（圖片來源：[TaxiPoint](https://www.taxi-point.co.uk/post/london-taxi-badge-what-is-the-green-taxi-badge-how-do-you-obtain-one-and-what-does-the-number-mean)）")
+![](https://media.huam.ing/image/adc2608dbe6230ff5c8ffdb67d1a29d1.webp "綠色徽章（Green Badge）是倫敦最高等級的計程車駕駛執照。（圖片來源：[TaxiPoint](https://www.taxi-point.co.uk/post/london-taxi-badge-what-is-the-green-taxi-badge-how-do-you-obtain-one-and-what-does-the-number-mean)）")
 
 紀錄片《[The Knowledge: The World’s Toughest Taxi Test](https://www.google.com/search?q=The+Knowledge:+The+World’s+Toughest+Taxi+Test)》中，[一位考官説](https://youtu.be/xSdMQQ3CqtI?t=25m8s)：
 
@@ -45,7 +45,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [西元 2000 年](https://doi.org/10.1073/pnas.070039597)，一群倫敦大學學院（University College London）的科學家發現，**倫敦計程車司機的「後海馬迴」（Posterior Hippocampus）體積大於一般人，且與年資成正比**。
 
-![](_attachments/142f8fb0334cd6ad1cd30e3975211561.png "海馬迴（Hippocampus）是大腦負責處理空間記憶（Spatial Memory）的部位。（圖片來源：[Wikipedia](https://en.wikipedia.org/wiki/Hippocampus)）")
+![](https://media.huam.ing/image/142f8fb0334cd6ad1cd30e3975211561.webp "海馬迴（Hippocampus）是大腦負責處理空間記憶（Spatial Memory）的部位。（圖片來源：[Wikipedia](https://en.wikipedia.org/wiki/Hippocampus)）")
 
 這項研究證實：**即使到了成年期，人類大腦仍具備高度「可塑性」（Neuroplasticity），能透過後天的重複練習（如背誦 [倫敦複雜的街道圖](https://www.google.com/search?q=London+Street+Map&udm=2)）重塑大腦結構**。
 
