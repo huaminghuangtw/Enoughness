@@ -53,7 +53,7 @@ Chris 這才明白：
 
 P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著爬起來，先看看地上有沒有寶貝可以撿。」🤣
 
-![](_attachments/96ba4bea4282aeba081874ca13ba5d5a.png "圖片來源：[Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)")
+![](https://media.huam.ing/image/96ba4bea4282aeba081874ca13ba5d5a.webp "圖片來源：[Liz Fosslien](https://www.fosslien.com/images#/liz-fosslien-success-and-failure)")
 
 # 3
 
