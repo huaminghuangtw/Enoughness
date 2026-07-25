@@ -77,7 +77,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 有興趣深入了解，可參考 [這篇文章](https://www.vogue.com.tw/article/%E9%95%B7%E5%A3%BD%E7%9A%849%E5%80%8B%E6%B3%95%E5%89%87-power9) 和 [這部紀錄片](https://www.imdb.com/title/tt28523129/)。
 
-![](_attachments/94481ecb058b9f5483a6513e9ee4519f.png "圖片來源：Bluezones.com")
+![](https://media.huam.ing/image/94481ecb058b9f5483a6513e9ee4519f.png "圖片來源：Bluezones.com")
 
 # 3
 
@@ -94,7 +94,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 若有興趣深入了解訪談內容，可以參考 [完整版逐字稿](https://tim.blog/wp-content/uploads/2018/07/55-pavel-tsatsouline.pdf)。
 
-![](_attachments/65d6e5fc39fd736c44a14fd6102a2798.png "圖片來源：StrongFirst, the school of strength")
+![](https://media.huam.ing/image/65d6e5fc39fd736c44a14fd6102a2798.webp "圖片來源：StrongFirst, the school of strength")
 
 [相較於「延長壽命」（Lifespan），我們更應該追求的是「延長生命力」（Healthspan）。重點不在於活到幾歲，而在於「健康地」活到幾歲。](enoughness-36.md#1)
 
