@@ -25,19 +25,19 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 著名的 [魯賓之盃](https://www.google.com/search?q=魯賓之盃)（Rubin vase），只用黑白兩色，卻產生兩種不同的視覺詮釋：看著黑色，是兩張臉；看著白色，卻是一個花瓶。
 
-![](_attachments/30bf681a9bbf5c66466bec240ed82071.png "圖片來源：Wikipedia")
+![](https://media.huam.ing/image/30bf681a9bbf5c66466bec240ed82071.webp "圖片來源：Wikipedia")
 
 英國飲食作家協會（[Guild of Food Writers](https://www.gfw.co.uk/)） 的 Logo 也是：筆尖的負空間裡藏了一把湯匙，巧妙地將「寫作」和「飲食」結合在一起。
 
-![](_attachments/0ad9ec1d6694c34cbdb7c63eaaae0950.png "圖片來源：Guild of Food Writers")
+![](https://media.huam.ing/image/0ad9ec1d6694c34cbdb7c63eaaae0950.webp "圖片來源：Guild of Food Writers")
 
 還有聯邦快遞 [FedEx](https://www.google.com/search?q=FedEx) 的商標，E 和 x 之間藏了一個箭頭，暗示著速度與方向 — 你以前有發現嗎？
 
-![](_attachments/0af62d879e825c5e4248db8a1a98214d.png "圖片來源：[Reddit](https://www.reddit.com/r/DesignPorn/comments/wmsnxh/i_never_noticed_the_arrow_the_negative_space/)")
+![](https://media.huam.ing/image/0af62d879e825c5e4248db8a1a98214d.webp "圖片來源：[Reddit](https://www.reddit.com/r/DesignPorn/comments/wmsnxh/i_never_noticed_the_arrow_the_negative_space/)")
 
 不過最猛的還是泰國麥當勞的情人節廣告：乍看之下是一對情侶在接吻，仔細一看，才發現他親的是漢堡！😂
 
-![](_attachments/28792725f0fabc209f21aba92f617d6c.png "泰國麥當勞的情人節廣告，完美呼應他們的標語「I’m lovin’ it」（圖片來源：[Reddit](https://www.reddit.com/r/DesignPorn/comments/f4q03n/mcdonalds_valentines_ad/)）")
+![](https://media.huam.ing/image/28792725f0fabc209f21aba92f617d6c.webp "泰國麥當勞的情人節廣告，完美呼應他們的標語「I’m lovin’ it」（圖片來源：[Reddit](https://www.reddit.com/r/DesignPorn/comments/f4q03n/mcdonalds_valentines_ad/)）")
 
 ---
 
@@ -67,7 +67,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 適度的留白都是最高宗旨。
 
-![](_attachments/86a7051499ae7a8e7d6b7125445c44d0.png "圖片來源：Alliance Graphique Internationale")
+![](https://media.huam.ing/image/86a7051499ae7a8e7d6b7125445c44d0.webp "圖片來源：Alliance Graphique Internationale")
 
 # 2
 
