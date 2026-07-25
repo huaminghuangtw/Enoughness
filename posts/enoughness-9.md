@@ -71,7 +71,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 在這條賽道上，唯一的競爭者，只有 [昨天的自己](https://huam.ing/you-and-your-timeline)。
 
-![](_attachments/4c5eaa63b3f587ca0fd24fcd9b081daa.jpg "圖片來源：尋寶網")
+![](https://media.huam.ing/image/4c5eaa63b3f587ca0fd24fcd9b081daa.webp "圖片來源：尋寶網")
 
 ---
 
@@ -101,7 +101,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 >
 > 訣竅在於，不在意它會痛。
 
-![](_attachments/f746497b619882fde6c546cdf91e51eb.jpeg)
+![](https://media.huam.ing/image/f746497b619882fde6c546cdf91e51eb.webp)
 
 ---
 
@@ -135,9 +135,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **贏過自己、專心致志、享受過程，這些都是馬拉松教我的事。**
 
-![](_attachments/bc59c84309f32363c8cb3789ee35b847.jpeg)
+![](https://media.huam.ing/image/bc59c84309f32363c8cb3789ee35b847.webp)
 
-![](_attachments/35d072fd96ab19f87c8ffd81f455270a.jpg "這塊「史上最具食慾」的肉形石完賽獎牌，與前年「毛公鼎」和去年「翠玉白菜」共同組成「故宮三寶—酸菜白肉鍋」。")
+![](https://media.huam.ing/image/35d072fd96ab19f87c8ffd81f455270a.webp "這塊「史上最具食慾」的肉形石完賽獎牌，與前年「毛公鼎」和去年「翠玉白菜」共同組成「故宮三寶—酸菜白肉鍋」。")
 
 # 3
 
