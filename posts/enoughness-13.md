@@ -71,7 +71,7 @@ TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
 只有當身體感知到「生存壓力」時，這套防禦機制才會被啟動。因此，我們需要刻意地讓身體短暫承受壓力（Hormetic Stress）— 像是高強度運動、間歇性斷食或泡冰水 — 來喚醒這些沉睡的長壽基因。
 
-![](_attachments/96cbe124796cfcc6eb270958172d03b5.png)
+![](https://media.huam.ing/image/96cbe124796cfcc6eb270958172d03b5.webp)
 
 以泡冰水來說，每天只要花幾分鐘，就能獲得兩大好處：
 
