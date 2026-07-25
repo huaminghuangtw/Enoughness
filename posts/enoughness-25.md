@@ -51,7 +51,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 [耐心](https://huam.ing/you-and-your-timeline)，是現代社會中稀缺的能力。複利最愛無聊的人，[時間](https://huam.ing/who-do-we-spend-time-with-across-our-lifetime) 也只會獎勵那些能夠沉住氣、持續蹲馬步的人。
 
-![](_attachments/661ac1fdedbb5157e3aad93271d7d2c4.jpg "圖片來源：Carl Richards")
+![](https://media.huam.ing/image/661ac1fdedbb5157e3aad93271d7d2c4.webp "圖片來源：Carl Richards")
 
 # 2
 
