@@ -83,6 +83,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 太陽已經完全升起，照亮整個西子灣海灘。我起身伸個懶腰，慢跑回家。
 
-![](_attachments/5491346054f92b7d2995709d6fff8c65.png "圖片來源：Unsplash")
+![](https://media.huam.ing/image/5491346054f92b7d2995709d6fff8c65.webp "圖片來源：Unsplash")
 
 — 樺明
