@@ -125,7 +125,7 @@ P.S. 時間不多的話，可以啜飲一杯溫開水，並專注於手握水杯
 
 [高中時](https://www.sponichi.co.jp/baseball/news/2013/02/02/gazo/G20130202005109500.html)，大谷為了在日本職棒選秀會中，成為八大球團第一指名的新人，開始使用「[原田目標達成法](https://theharadamethod.com/about-the-method)」（The Harada Method），也就是著名的「[曼陀羅九宮格](https://www.books.com.tw/products/0010979842)」（The Open Window 64 Chart，OW64）。
 
-![](_attachments/eeb90f976c085c45f0c6bac773099587.png)
+![](https://media.huam.ing/image/eeb90f976c085c45f0c6bac773099587.webp)
 
 步驟如下：
 
