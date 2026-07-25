@@ -72,7 +72,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 圖片缺了一部分，還是看到完整的三角形。
 
-![](_attachments/19d55875acd9a623c3ea76e94b87305f.png)
+![](https://media.huam.ing/image/19d55875acd9a623c3ea76e94b87305f.webp)
 
 有時候，大腦還會自己編故事：
 
@@ -102,7 +102,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 >
 > We suffer more in imagination than in reality.
 
-![](_attachments/b067ffbb87ccb65ed192a227cc0c4cc0.png)
+![](https://media.huam.ing/image/b067ffbb87ccb65ed192a227cc0c4cc0.webp)
 
 假設之所以痛苦，是因為我們把自己編的故事當成事實，然後為它受苦。
 
@@ -172,6 +172,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 朋友們，像 5 歲的好奇寶寶一樣，打破砂鍋問到底吧！
 
-![](_attachments/be1acb744ab8cfa3711533e46e60a118.png "[保持好奇，不要急著評論。— Ted Lasso](https://youtu.be/i_FofLSherM)")
+![](https://media.huam.ing/image/be1acb744ab8cfa3711533e46e60a118.webp "[保持好奇，不要急著評論。— Ted Lasso](https://youtu.be/i_FofLSherM)")
 
 — 樺明
