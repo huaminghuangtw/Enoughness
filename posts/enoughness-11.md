@@ -73,7 +73,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 更讓我下巴掉下來的是，儘管年近半百，他的外貌與體態卻像個三十歲出頭的年輕人。
 
-![](_attachments/9410b9abb66b248a968fae2596c114b2.png "圖片來源：Times of India")
+![](https://media.huam.ing/image/9410b9abb66b248a968fae2596c114b2.webp "圖片來源：Times of India")
 
 這位被譽為「人類史上數據化最徹底的男人」（The Most Measured Man in Human History），在 2021 年啟動「藍圖計畫」（Project Blueprint），試圖以科學挑戰逆齡（Anti-aging），甚至探索永生的可能性。
 
