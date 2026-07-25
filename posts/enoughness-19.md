@@ -21,7 +21,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 > 企業沒有永遠這回事。永遠存在的，將是我的博物館和醫院。這兩個存在就好了，剩下的都沒關係。
 > — 許文龍
 
-![](_attachments/931e714c5d1684e006f77cbde78ddd8d.png)
+![](https://media.huam.ing/image/931e714c5d1684e006f77cbde78ddd8d.webp)
 
 這週我讀了 [許文龍](https://www.google.com/search?q=許文龍) 口述、[林佳龍](https://www.google.com/search?q=林佳龍) 編著的《[零與無限大：許文龍 360 度人生哲學](https://www.books.com.tw/products/0010788200)》。
 
@@ -39,9 +39,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 深受十九世紀思想家馬克思（[Karl Marx](https://www.google.com/search?q=Karl+Marx)）的「三塊麵包論」啟發，許文龍最討厭聽到政府說「拚經濟」，相信「拼文化」才是我們要留給下一代的東西。
 
-![](_attachments/c9287ae072912cb4f73c07e40aea9580.png)
+![](https://media.huam.ing/image/c9287ae072912cb4f73c07e40aea9580.webp)
 
-![](_attachments/13b128e76c400df85aaa0d7052dc1fb9.png)
+![](https://media.huam.ing/image/13b128e76c400df85aaa0d7052dc1fb9.webp)
 
 ---
 
@@ -67,7 +67,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 > 跌倒時，不要急著爬起來，先看看地上有沒有寶貝可以撿。多數人只會自怨自艾，覺得自己運氣不好，卻忽略了身邊的機會。
 
-![](_attachments/af1d304595a37bbc3ac43a9027773a75.jpg)
+![](https://media.huam.ing/image/af1d304595a37bbc3ac43a9027773a75.webp)
 
 當被問到外界眼光時，他淡淡地說：「**那都是你們的自由。**」
 
@@ -81,7 +81,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ---
 
-![](_attachments/4bd4eaf0e1a9947b2b3b975062333980.jpg)
+![](https://media.huam.ing/image/4bd4eaf0e1a9947b2b3b975062333980.webp)
 
 ⚖️ 全書最後一句：「**我所需要的，都已經足夠。**」
 
@@ -115,7 +115,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 大多數問題其實存在更多層次與可能，值得我們跳脫二元框架，以開放視角和好奇心，探索世界的多樣性與複雜性。
 
-![](_attachments/480db6116b6c454d5e8213cc159c1ccb.png)
+![](https://media.huam.ing/image/480db6116b6c454d5e8213cc159c1ccb.webp)
 
 # 3
 
