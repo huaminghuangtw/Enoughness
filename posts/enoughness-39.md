@@ -52,7 +52,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 很多複雜問題，只要反過來想，就能迎刃而解。
 
-![](_attachments/1047e07faa2519f106d74bbe8ded6680.png)
+![](https://media.huam.ing/image/1047e07faa2519f106d74bbe8ded6680.webp)
 
 想像一張白紙：沒有畫圓，只是把圓的周圍塗黑，中間空白的地方自成一圓。
 
@@ -70,7 +70,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **反過來想，凡事反過來想。**
 
-![](_attachments/20fa3d4e88dc5edc1ef5cb2f8ac41f20.png "很困惑嗎？反過來再看一次。（圖片來源：[Reddit](https://www.reddit.com/r/itookapicture/comments/8o56ub/itap_of_a_reflection_and_inverted_it/)）")
+![](https://media.huam.ing/image/20fa3d4e88dc5edc1ef5cb2f8ac41f20.webp "很困惑嗎？反過來再看一次。（圖片來源：[Reddit](https://www.reddit.com/r/itookapicture/comments/8o56ub/itap_of_a_reflection_and_inverted_it/)）")
 
 # 2
 
@@ -135,6 +135,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 > [任何卓越的成果，都來自於不凡的思考、平凡的行動、不甘於平凡的選擇。](https://readingoutpost.com/autonomous-life/#:~:text=%E9%81%B8%E6%93%87%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82-,%E4%BB%BB%E4%BD%95%E5%8D%93%E8%B6%8A%E7%9A%84%E6%88%90%E6%9E%9C%EF%BC%8C%E9%83%BD%E4%BE%86%E8%87%AA%E6%96%BC%E4%B8%8D%E5%87%A1%E7%9A%84%E6%80%9D%E8%80%83%E3%80%81%E5%B9%B3%E5%87%A1%E7%9A%84%E8%A1%8C%E5%8B%95%E3%80%81%E4%B8%8D%E7%94%98%E6%96%BC%E5%B9%B3%E5%87%A1%E7%9A%84%E9%81%B8%E6%93%87%E3%80%82,-%E5%A6%82%E6%9E%9C%E6%88%91%E5%80%91%E6%83%B3)
 
-![](_attachments/7250564ec2d06c4dedc8ef32672fbc90.jpg "圖片來源：《[致富心態](https://www.books.com.tw/products/0010882259)》（[The Psychology of Money](https://www.goodreads.com/en/book/show/41881472-the-psychology-of-money)）")
+![](https://media.huam.ing/image/7250564ec2d06c4dedc8ef32672fbc90.webp "圖片來源：《[致富心態](https://www.books.com.tw/products/0010882259)》（[The Psychology of Money](https://www.goodreads.com/en/book/show/41881472-the-psychology-of-money)）")
 
 — 樺明
