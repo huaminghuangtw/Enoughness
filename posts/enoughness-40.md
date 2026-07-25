@@ -32,7 +32,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 （跟《[我可能錯了](enoughness-15.md#1)》的作者 [Björn Natthiko Lindeblad](https://www.google.com/search?q=Björn+Natthiko+Lindeblad) 好像！）
 
-![](_attachments/5dda30144d80743bc5ec18a3a2362b7a.png "圖片來源：[Unsplash](https://unsplash.com/photos/white-spiral-stairs-with-white-background-Q5vfWNQQbhc)")
+![](https://media.huam.ing/image/5dda30144d80743bc5ec18a3a2362b7a.webp "圖片來源：[Unsplash](https://unsplash.com/photos/white-spiral-stairs-with-white-background-Q5vfWNQQbhc)")
 
 書中有句話是這樣說的：
 
@@ -44,7 +44,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這時候，你確定自己沒有停滯不前，也沒有走回頭路，而是走在螺旋上升的路上。
 
-![](_attachments/01644918a833b3f6d0934c4438da2969.png "圖片來源：[Mounika](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)")
+![](https://media.huam.ing/image/01644918a833b3f6d0934c4438da2969.webp "圖片來源：[Mounika](https://www.instagram.com/mounika.studio/p/CmslMjcBEaI/)")
 
 # 2
 
@@ -60,7 +60,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 >
 > 「**孩子，你已經在對岸了。**」
 
-![](_attachments/2db658e3be7ddaa5b4f4de2ab081b9e1.png)
+![](https://media.huam.ing/image/2db658e3be7ddaa5b4f4de2ab081b9e1.webp)
 
 [抵達謬誤](https://www.google.com/search?q=抵達謬誤)（Arrival Fallacy）讓我們誤以為答案在遠方、在未來、在「過了這條河之後」，也讓我們老是幻想著去別的地方、做別的事、和別的人在一起。
 
@@ -72,7 +72,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 我最近才知道，[竹筍](https://www.google.com/search?q=竹筍) 是「還沒長大的竹子」。如果不採收，短短幾天內，它就會快速長成堅硬挺拔的竹子 🎋
 
-![](_attachments/61f86ffa24365578a823284e664ca8a9.png "圖片來源：[Shou Y, Zhu Y, Ding Y. Transcriptome analysis of lateral buds from Phyllostachys edulis rhizome during germination and early shoot stages. BMC Plant Biol. 2020 May 24;20(1):229.](https://doi.org/10.1186/s12870-020-02439-8)")
+![](https://media.huam.ing/image/61f86ffa24365578a823284e664ca8a9.webp "圖片來源：[Shou Y, Zhu Y, Ding Y. Transcriptome analysis of lateral buds from Phyllostachys edulis rhizome during germination and early shoot stages. BMC Plant Biol. 2020 May 24;20(1):229.](https://doi.org/10.1186/s12870-020-02439-8)")
 
 竹子種下去後，前四年只會長 3 公分。
 
@@ -100,6 +100,6 @@ _緩慢，停滯。然後，瞬間。_
 
 [也正是那些用心灌溉的時光，才讓玫瑰變得如此珍貴。](enoughness-27.md#3)
 
-![](_attachments/753db8ffcd2d2fdc8e893faca5cd744a.png "在[二延平步道](https://www.google.com/maps?q=二延平步道)的竹林裡，配著蟬鳴吃便當 🍱")
+![](https://media.huam.ing/image/753db8ffcd2d2fdc8e893faca5cd744a.webp "在[二延平步道](https://www.google.com/maps?q=二延平步道)的竹林裡，配著蟬鳴吃便當 🍱")
 
 — 樺明
