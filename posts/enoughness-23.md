@@ -33,7 +33,7 @@ Google 台灣第一號員工、前中研院資訊科學研究所副所長 [簡�
 
 外包出去的能力，最終都會萎縮。這就像 Google Maps 導航造就出一群路痴一樣；過度依賴 AI，最終也會削弱我們內建的思考導航系統。
 
-![](_attachments/e7b1a38d6d3f60cc3b0d139374a258a6.png "三組人在寫作時（ChatGPT 組、Google 搜尋組、純大腦組）的大腦 Alpha 波連結分析。星號越多，代表差異越顯著：* 是有差異，*** 是非常明顯的差異。（圖片來源：Your Brain on ChatGPT）")
+![](https://media.huam.ing/image/e7b1a38d6d3f60cc3b0d139374a258a6.webp "三組人在寫作時（ChatGPT 組、Google 搜尋組、純大腦組）的大腦 Alpha 波連結分析。星號越多，代表差異越顯著：* 是有差異，*** 是非常明顯的差異。（圖片來源：Your Brain on ChatGPT）")
 
 為了不要淪為大腦外包的空殼，我給自己定了三條 AI 使用鐵則：
 
@@ -77,7 +77,7 @@ AI 是想法的「放大器」，而不是想法的「產生器」。0 到 1 的
 
 **進入角色，也走出角色。**
 
-![](_attachments/ceee7b73be3efd6a75e7120165325b59.png)
+![](https://media.huam.ing/image/ceee7b73be3efd6a75e7120165325b59.webp)
 
 # 3
 
@@ -123,6 +123,6 @@ AI 是想法的「放大器」，而不是想法的「產生器」。0 到 1 的
 
 Think big. Dream big.
 
-![](_attachments/fbb14ccb28991a710e29af7c1e78c4c1.jpg)
+![](https://media.huam.ing/image/fbb14ccb28991a710e29af7c1e78c4c1.webp)
 
 — 樺明
