@@ -71,6 +71,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 嗯，沒有比每天努力工作、訓練，好好吃飯、大便、睡覺，更棒的生活品質了！☺️
 
-![](_attachments/07ad48cc80c6d1ce1c712dffa343101a.png "圖片來源：Nike")
+![](https://media.huam.ing/image/07ad48cc80c6d1ce1c712dffa343101a.webp "圖片來源：Nike")
 
 — 樺明
