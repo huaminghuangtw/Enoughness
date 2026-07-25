@@ -23,39 +23,39 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 一大早天色微亮，他已經熟練地摺好被褥、刷牙洗臉、替窗台盆栽澆水，接著換上印有「[THE TOKYO TOILET](https://tokyotoilet.jp/)」的工作服。
 
-![](_attachments/046f33e99943c1fce61bf66cefdd06a0.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/046f33e99943c1fce61bf66cefdd06a0.webp "圖片來源：Filmgrab")
 
 踏出家門時，他總會抬頭對著天空微笑，像是在跟嶄新的「今天」打招呼。
 
-![](_attachments/296898e938725440cd61005d3931f010.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/296898e938725440cd61005d3931f010.webp "圖片來源：Filmgrab")
 
 出發前，他會在自動販賣機投一罐 BOSS 咖啡，然後坐進小貨車，將老舊的卡式錄音帶塞進播放設備，今天選到的歌曲是 [Lou Reed 的 Perfect Day](https://youtu.be/9wxI4KK9ZYo)。發動引擎，穿梭在河岸高架橋與晴空塔之間，開車上工去。
 
-![](_attachments/b3b292423a2f7def89a5ba6ae100cef1.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/b3b292423a2f7def89a5ba6ae100cef1.webp "圖片來源：Filmgrab")
 
 抵達公廁之後，他拿出自備的各種專業刷具（有些似乎還是自己改裝過的），仔細刷洗每一個角落，甚至用隨身鏡檢查馬桶內緣的死角；偶爾遇上急用者，便禮貌性回避，在公廁外面等待。
 
-![](_attachments/7257f40c0cd2735714a7622a4536e624.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/7257f40c0cd2735714a7622a4536e624.webp "圖片來源：Filmgrab")
 
 午餐時間，他固定在神社公園長椅吃三明治，並用底片相機捕捉光線灑落樹梢的瞬間。
 
-![](_attachments/48ff2c1a47fefb08178960175da07f00.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/48ff2c1a47fefb08178960175da07f00.webp "圖片來源：Filmgrab")
 
 某次外甥女 Nico 陪他一起仰望樹影時問道：「這棵樹是你的朋友嗎？」他微笑不語，似乎很喜歡這樣的說法。
 
-![](_attachments/7b2025a4f2901ad96544abd3eecfa9bf.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/7b2025a4f2901ad96544abd3eecfa9bf.webp "圖片來源：Filmgrab")
 
 結束白天一絲不苟的勞動工作，他騎上腳踏車，穿過 [跨河大橋](https://www.google.com/maps?q=桜橋(隅田川)) 前往大眾澡堂，洗去一身的汗水與疲憊。
 
-![](_attachments/199a941477a059006f31de13a9b847b4.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/199a941477a059006f31de13a9b847b4.webp "圖片來源：Filmgrab")
 
 傍晚，他來到淺草地下街那間每天報到的 [小餐館](https://www.google.com/maps?q=車站內炒麵+福ちゃん)，點一份懷舊炒麵。店內總是坐著關注球賽的顧客，在此起彼落的庶民喧鬧聲中，平山安靜地享受一個人的晚餐時光。
 
-![](_attachments/1b19223e3fa24fb9786be38889c1ef0e.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/1b19223e3fa24fb9786be38889c1ef0e.webp "圖片來源：Filmgrab")
 
 果腹之後，便返家休息。睡前，他戴著老花眼鏡，在微弱的燈光下看小說，直到睡意襲來。
 
-![](_attachments/1067039d559e6bc62e0abf303ab9a69a.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/1067039d559e6bc62e0abf303ab9a69a.webp "圖片來源：Filmgrab")
 
 我觀察到，他似乎每天都帶著心滿意足的心情入睡 — 靈魂飽滿的最高境界。
 
@@ -81,7 +81,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 正是這些簡約而慎重的儀式，為他日復一日的樸實生活，譜出了不單調的變奏。
 
-![](_attachments/ff27dccbcb70d4c09ffae700d0bf85b7.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/ff27dccbcb70d4c09ffae700d0bf85b7.webp "圖片來源：Filmgrab")
 
 ---
 
@@ -99,7 +99,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 **生命的真諦，無非是當下的酸甜苦辣。除了此時此刻，我們一無所有。**
 
-![](_attachments/53c2c951d3fa23ddb2f5cf38bdaa1b9c.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/53c2c951d3fa23ddb2f5cf38bdaa1b9c.webp "圖片來源：Filmgrab")
 
 ---
 
@@ -133,7 +133,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 他時而展露笑顏，時而眼眶泛淚 — 那悲喜交加的神情，是對生命全然接納的釋懷。
 
-![](_attachments/9895bdfdf1be33653c93f4b5e3984ae4.jpg "圖片來源：Filmgrab")
+![](https://media.huam.ing/image/9895bdfdf1be33653c93f4b5e3984ae4.webp "圖片來源：Filmgrab")
 
 ---
 
