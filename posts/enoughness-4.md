@@ -24,7 +24,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 當我們持續專注於自己的「影響圈」，它就會慢慢擴大，最終讓我們擁有改變「關注圈」的實質力量。
 
-![](_attachments/3828a7d6722e0e90c27af8774af0a89e.png)
+![](https://media.huam.ing/image/3828a7d6722e0e90c27af8774af0a89e.webp)
 
 所以，如果想改變世界，那麼，改變自己會是個很好的起點。
 
