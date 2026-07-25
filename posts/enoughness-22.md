@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這種「板書機器」式的抄寫，因為缺乏理解，導致記憶無法有效被強化。
 
-![](_attachments/318017772f1ff74343aa16613bb782c6.jpg)
+![](https://media.huam.ing/image/318017772f1ff74343aa16613bb782c6.webp)
 
 《[為什麼聰明人都用方格筆記本？](https://www.books.com.tw/products/0010662839)》分享一個小技巧：「**空白的一秒鐘**」。
 
@@ -32,7 +32,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 調整手眼使用習慣，用「空白的一秒鐘」創造永不遺忘的深刻記憶。
 
-![](_attachments/50a2ec6a2c6fef8b9da945a73724eda2.jpg)
+![](https://media.huam.ing/image/50a2ec6a2c6fef8b9da945a73724eda2.webp)
 
 P.S. 除了 [方格筆記本](https://incompetech.com/graphpaper/plain/)，[點陣式筆記本](https://incompetech.com/graphpaper/squaredots/) 也不錯唷！
 
