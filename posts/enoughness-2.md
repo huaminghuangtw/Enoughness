@@ -39,7 +39,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 以下圖來說，單腳外翻（Single Leg Eversion）的效果最佳。
 
-![](_attachments/1679752c2621b2228a98cf81faa16790.png "圖片來源：Kim J, Kang S, Kim SJ. A smart insole system capable of identifying proper heel raise posture for chronic ankle instability rehabilitation. Sci Rep. 2022 Jun 24;12(1):10796")
+![](https://media.huam.ing/image/1679752c2621b2228a98cf81faa16790.webp "圖片來源：Kim J, Kang S, Kim SJ. A smart insole system capable of identifying proper heel raise posture for chronic ankle instability rehabilitation. Sci Rep. 2022 Jun 24;12(1):10796")
 
 從今天開始，沒事就 [踮腳尖](https://youtu.be/lIGlrILv7dk) 吧！
 
