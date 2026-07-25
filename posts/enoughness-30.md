@@ -15,7 +15,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-![](_attachments/465b1529c53616b66107ed3387b89588.jpeg)
+![](https://media.huam.ing/image/465b1529c53616b66107ed3387b89588.webp)
 
 自從開始練習 [八分飽](enoughness-7.md#2) 後，我的吃飯訓練課程又加入了「正念飲食」（Mindful Eating）這個課表。
 
@@ -55,7 +55,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 睡覺是最有效的恢復方式，比吃任何山珍海味都有用。
 
-![](_attachments/1dceb0681b3ae7d160cb8c2460afbd36.png)
+![](https://media.huam.ing/image/1dceb0681b3ae7d160cb8c2460afbd36.webp)
 
 這是我的睡眠隨身包，裡頭裝著我的寶貝們 — 我到哪，他們就到哪。
 
@@ -123,7 +123,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 這個公式不是絕對 — 運動強度、天氣、出汗量和體質都會影響。可以透過觀察尿液顏色和體感來動態調整飲水量。
 
-![](_attachments/97d95e6e15a0e052c448f7d468bf190d.png)
+![](https://media.huam.ing/image/97d95e6e15a0e052c448f7d468bf190d.webp)
 
 關於飲用水過濾：除了市面上的濾壺、濾芯（例如 [Brita](https://www.google.com/search?q=Brita)），Dr. Andrew Huberman [提到](https://youtu.be/at37Y8rKDlA?t=1h44m18s) 一個零成本的做法：
 
@@ -133,6 +133,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 > 靜置全程必須是「無蓋」（Uncapped）狀態（或用一塊布蓋著），目的是讓內部物質可以蒸發出去。
 
-![](_attachments/260664b48aefc1043f9bfdf819d36358.png)
+![](https://media.huam.ing/image/260664b48aefc1043f9bfdf819d36358.webp)
 
 — 樺明
