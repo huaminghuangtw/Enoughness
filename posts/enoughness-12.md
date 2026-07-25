@@ -15,7 +15,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-![](_attachments/33c527d633bc40074414bdf266c492fc.png)
+![](https://media.huam.ing/image/33c527d633bc40074414bdf266c492fc.webp)
 
 前陣子造訪高雄 [駁二藝術特區](https://www.google.com/maps?q=駁二藝術特區)，漫步於 [大港橋](https://www.google.com/maps?q=大港橋) 畔，三個並排坐在長椅上、低頭滑手機的白色人像，瞬間抓住了我的目光。
 
@@ -29,7 +29,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 如果有機會，不妨親自坐在他們中間，感受一下「被手機吸走」的感覺。
 
-![](_attachments/0d870e68569d5dae15d584d4afc57956.png "《手機人生》呈現的封閉與疏遠，與駁二這片開放的公共空間，形成鮮明與諷刺的對比。")
+![](https://media.huam.ing/image/0d870e68569d5dae15d584d4afc57956.webp "《手機人生》呈現的封閉與疏遠，與駁二這片開放的公共空間，形成鮮明與諷刺的對比。")
 
 # 2
 
@@ -179,6 +179,6 @@ Milne 的文字，加上插畫家 [Ernest Howard Shepard](https://www.google.com
 
 **保持善良、知足常樂，是我從小熊維尼身上學到的事。**
 
-![](_attachments/ef7a487cf8082cf199f52fcade28e29c.png "「專注當下，並且善良。」—《小熊維尼的正念筆記》（圖片來源：尖端網路書店）")
+![](https://media.huam.ing/image/ef7a487cf8082cf199f52fcade28e29c.webp "「專注當下，並且善良。」—《小熊維尼的正念筆記》（圖片來源：尖端網路書店）")
 
 — 樺明
