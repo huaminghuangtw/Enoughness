@@ -67,7 +67,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 無論身處何種戰場，請記得這個生存法則：**維持火力，持續移動**！
 
-![](_attachments/fde9411a9b5e27d59d35abf3b7a146f3.png)
+![](https://media.huam.ing/image/fde9411a9b5e27d59d35abf3b7a146f3.webp)
 
 # 3
 
@@ -85,9 +85,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 1. 首先，進入 [書籍頁面](https://www.goodreads.com/book/show/171681821-the-anxious-generation)。
 2. 往下滑過留言區，直到看見「Join the discussion」區塊。
-	![](_attachments/56f42d39eec9e0cc402bef7da11bd574.png)
+	![](https://media.huam.ing/image/56f42d39eec9e0cc402bef7da11bd574.webp)
 3. 點擊進入 [Quotes 頁面](https://www.goodreads.com/work/quotes/180330965)，這裡匯集了網友票選的重點金句，帶你快速掌握全書精華！
-	![](_attachments/204f441723d5b827775916ba9801c812.png)
+	![](https://media.huam.ing/image/204f441723d5b827775916ba9801c812.webp)
 
 這招對 [紐約時報暢銷書榜（The New York Times Best Seller List）](https://www.nytimes.com/books/best-sellers/) 的熱門書籍特別有效，屢試不爽！
 
@@ -97,6 +97,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 只要輸入書名關鍵字，在搜尋結果中選擇你想看的書，它就會直接帶你進入 Quotes 頁面，省去手動查找的時間！
 
-![](_attachments/ea3910160ddbf73987e2ad3a907ec65e.png)
+![](https://media.huam.ing/image/ea3910160ddbf73987e2ad3a907ec65e.webp)
 
 — 樺明
