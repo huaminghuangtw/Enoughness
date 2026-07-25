@@ -29,7 +29,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 再不然，直接選擇 [黃金奇異果](https://www.google.com/search?q=黃金奇異果) 也是個好方法 — 它的皮比較薄、光滑，甜度也更高，咬下去幾乎無負擔，推薦你試試看！
 
-![](_attachments/df2e3cfb5bf6fed2d1ea3da55103eed5.png)
+![](https://media.huam.ing/image/df2e3cfb5bf6fed2d1ea3da55103eed5.webp)
 
 # 2
 
