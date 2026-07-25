@@ -19,13 +19,13 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 據說，這是瑞典人的床頭書，每 30 個人就有 1 個人看過這本書。
 
-![](_attachments/c9a2f0aa86cc4e5963d8b9fa67453600.avif "封面圖片：古巴畫家 Tomás Sánchez 的作品《崇敬》（Adoración）")
+![](https://media.huam.ing/image/c9a2f0aa86cc4e5963d8b9fa67453600.avif "封面圖片：古巴畫家 Tomás Sánchez 的作品《崇敬》（Adoración）")
 
 作者是瑞典人 [Björn Natthiko Lindeblad](https://www.google.com/search?q=Björn+Natthiko+Lindeblad)。他是標準的人生勝利組：斯德哥爾摩經濟學院經濟學碩士、年紀輕輕就當上跨國大企業的財務長，被視為瑞典商界的明日之星，擁有多數人夢寐以求的金錢、地位、名聲。然而，他卻發現這些外在成就，無法填補內心的空缺。
 
 他活得並不快樂。
 
-![](_attachments/cf48ed8a0cdb1431b7a38b437a949d1a.png)
+![](https://media.huam.ing/image/cf48ed8a0cdb1431b7a38b437a949d1a.webp)
 
 他在書中有一段寫給身體的一封信：
 
@@ -63,7 +63,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 >
 > I’m not the body, I’m not the mind, I’m not my emotion, I can just see all these 3 aspects about me.
 
-![](_attachments/20b8406ef85cbbfdf2c21d9cafb09b0b.png)
+![](https://media.huam.ing/image/20b8406ef85cbbfdf2c21d9cafb09b0b.webp)
 
 長時間獨處、走路與冥想後，我深刻體悟到：**我只是一名自己的「觀察員」，靜靜觀照著一切的存在。**
 
