@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 永遠不要抱怨、八分飽原則、身體的力量是無價的
 created: 2025-11-28
-modified: 2026-07-24
+modified: 2026-07-25
 issue: 7
 ---
 
@@ -76,8 +76,6 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 除此之外，研究人員也整理出 9 個「藍區人」的共同生活習慣，稱為「**Power 9**」，也是他們能活到超過 100 歲的秘密。
 
 有興趣深入了解，可參考 [這篇文章](https://www.vogue.com.tw/article/%E9%95%B7%E5%A3%BD%E7%9A%849%E5%80%8B%E6%B3%95%E5%89%87-power9) 和 [這部紀錄片](https://www.imdb.com/title/tt28523129/)。
-
-![](https://media.huam.ing/image/94481ecb058b9f5483a6513e9ee4519f.png "圖片來源：Bluezones.com")
 
 # 3
 
