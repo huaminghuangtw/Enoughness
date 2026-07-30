@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 遠離靜態生活、人類天生坐不住、每天來份運動點心
 created: 2026-07-24
-modified: 2026-07-25
+modified: 2026-07-30
 issue: 41
 ---
 
@@ -75,7 +75,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 美國作家 [Christopher McDougall](https://www.google.com/search?q=Christopher+McDougall) 在《[天生就會跑](https://www.books.com.tw/products/0010464094)》（[Born to Run](https://www.goodreads.com/book/show/6289283-born-to-run)）寫道：
 
-> 跑步是人類祖先寫在基因裡的生存本能，它是活下去的工具。跑步是為了取得食物，也是為了不被吃掉；跑步是為了找到伴侶，然後繁衍後代。**我們天生就會跑；我們能活下來，正是因為我們會跑。**
+> 跑步是人類祖先寫在基因裡的生存本能，它是活下去的工具。跑步是為了取得食物，也是為了不被吃掉。**我們天生就會跑；我們能活下來，正是因為我們會跑。**
 
 ![](https://media.huam.ing/image/7db4020991317498b1100ca748836cd6.webp "你知道嗎？人類是唯一能直立雙腳行走跑跳的動物。")
 
