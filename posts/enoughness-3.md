@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
-modified: 2026-07-19
+modified: 2026-07-31
 issue: 3
 ---
 
@@ -31,7 +31,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 ![](https://images.unsplash.com/photo-1581588525251-e1dca48e9827?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
-曾在安寧病房服務多年的澳洲護理師 [Bronnie Ware](https://www.google.com/search?q=Bronnie+Ware)，在文章《[Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)》中，整理出上百位病人登出人生前最後悔的 5 件事：
+曾在安寧病房服務多年的澳洲護理師 [Bronnie Ware](https://www.google.com/search?q=Bronnie+Ware)，在《[Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)》中，整理出上百位病人登出人生前最後悔的 5 件事：
 
 ## 第一名：我希望有勇氣為自己而活，而不是過著別人期望我過的生活
 
@@ -62,9 +62,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 有一句我很喜歡的話是：
 
-> Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.
->
 > 做自己，說真話，因為在意的人不重要，重要的人不在意。
+>
+> Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.
 
 ## 第四名：我希望能和老朋友保持聯絡
 
@@ -86,7 +86,7 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 快樂，是可以透過 [刻意練習](https://readingoutpost.com/peak-deliberate-practice) 不斷精進的技能。
 
-⚖️ 快樂，是感到什麼都不缺、一切都完整的心靈狀態。
+快樂，是感到什麼都不缺、一切都完整的心靈狀態。
 
 快樂，是當你所想、所言、所行都能和諧一致、對齊的時候。
 
@@ -100,7 +100,9 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 多數人後悔的，都是那些未竟之事、未盡之言。
 
-德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）曾說：「[把生命當成目的本身，而不是達成目的的手段。](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)」。
+德國哲學家康德（[Immanuel Kant](https://www.google.com/search?q=Immanuel+Kant)）曾說：
+
+> [把生命當成目的本身，而不是達成目的的手段。](https://www.goodreads.com/quotes/34313-act-in-such-a-way-that-you-treat-humanity-whether)
 
 到頭來，重點不是活了多少年，而是在那些有限的歲月裡，你有多用力、盡力地活著。
 
@@ -108,11 +110,11 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 所以，不妨時常問問自己：
 
-_**如果現在就要走了，我會不會後悔沒有做那個選擇？**_
+_如果現在就要走了，我會不會後悔沒有做那個選擇？_
 
 鼓起勇氣，去過一個忠於自己、沒有遺憾的人生吧！
 
-如果想更深入思考人生，推薦你觀看 Bronnie 的 TED 演講：
+P.S. 如果想更深入思考人生，推薦你觀看 Bronnie 的 TED 演講：
 
 <https://youtu.be/tAcQfn96yFk>
 
