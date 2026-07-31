@@ -1,8 +1,7 @@
 ---
-title: ⚖️ 、、
+title: ⚖️ 第三類文盲、從 FOMO 走向 JOMO、停止看新聞吧！
 created: 2026-07-31
-modified: 2026-07-24
-draft: true
+modified: 2026-08-01
 issue: 42
 ---
 
@@ -16,30 +15,125 @@ _嗨，我是 [黃樺明](https://huam.ing)，喜歡 [寫作](https://huam.ing/w
 
 # 1
 
-[The Arrival Fallacy](../../Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md)
+30 歲的隔天，我決定去 [二延平步道](https://www.google.com/search?q=二延平步道&udm=2) 度過一個 [數位排毒](https://www.google.com/search?q=數位排毒) 日 📵
 
-[ASAP Sports Transcripts - Golf - 2025 - THE 153RD OPEN - July 15 - Scottie Scheffler](https://www.asapsports.com/show_interview.php?id=209897)
+在高鐵嘉義站排隊等候「台灣好行」阿里山線巴士，輪到我時剛好沒座位了。司機回頭看了一眼，最後同意我用站的。感謝他讓我不必多等一小時，可以直接上車。
 
-[The Arrival Fallacy: Why Success Is Never Enough \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-arrival-fallacy-why-success-is-never-enough)
+山路彎來彎去，我也跟著搖來搖去。只好拉緊把手，在走道上努力站穩。
 
-> It feels like you work your whole life to celebrate winning a tournament for like a few minutes. It only lasts a few minutes, that kind of euphoric feeling…And then it’s like, what are we going to eat for dinner?
+前面一整排乘客都在 [滑手機](enoughness-26.md)，我好奇大家都在滑什麼。訊息、限動、股票，五花八門，但有個共同點：
 
-> This is not a fulfilling life. It’s fulfilling from the sense of accomplishment, but it’s not fulfilling from the sense of the deepest places of your heart…There’s a lot of people that make it to what they thought was going to fulfill them in life and then you get there and all of a sudden you get to number 1 in the world and you’re like what’s the point?
+**幾乎都是過去 24 小時內才出現的內容。**
 
-在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
+沒有人在讀一年前的部落格文章，更沒有人在讀一百年前的紙本書。
 
-自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
+![](https://media.huam.ing/image/1c7672d065a1cda602b68a1da702e763.webp)
 
-[簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
+台灣出版界的老大哥 [郝明義](https://www.google.com/search?q=郝明義) 在《[越讀者](https://www.books.com.tw/products/0010762864)》中，以「**第三類文盲**」形容不懂得利用書與網路，去享受閱讀樂趣的人。
 
-關鍵不在車，而在駕駛
+想像有兩個人，同樣都滑了十分鐘手機：
 
-AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
+* A 忙著看鄉民在 PTT 上為了「南部粽 vs 北部粽」吵翻天；
+* B 利用這十分鐘，去了解 [寒武紀大爆發](https://www.google.com/search?q=寒武紀大爆發) 為何發生。
 
-[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
+[在速食資訊橫行的時代，長文成了奢侈品](https://www.onlywin.work)；從頭到尾讀完一本書，更是想都不敢想的奢求。
+
+當文明愈進步，[我們愈該在意自己讀的，是人類的智慧結晶，還是糟粕](https://huam.ing/sherlock-holmes-brain-attic) 。
 
 # 2
 
+以前，只要一有空擋，我就要滑手機：等車的時候滑、吃飯的時候滑，連等紅綠燈那兩分鐘，也要低頭滑個兩下。
+
+你問我到底在滑什麼？可能就是一個「安全感」吧……害怕漏掉訊息、害怕跟不上時事、害怕成為局外人。
+
+還記得 [2021 年 10 月 4 日](https://www.google.com/search?q=2021+臉書大當機) 那天，碰上臉書和 Instagram 同時癱瘓。當時的我還是社群媒體重度成癮者，看到怎麼滑都是黑畫面的手機，直接原地崩潰。
+
+這種深怕錯過的 [焦慮](enoughness-26.md#3)，叫 [錯失恐懼症](https://www.google.com/search?q=錯失恐懼症+FOMO)（FOMO，Fear Of Missing Out）。
+
+2004 年，美國風險投資家 [Patrick McGinnis](https://www.google.com/search?q=Patrick+McGinnis) 在《[Social Theory at HBS: McGinnis’ Two FOs](https://www.harbus.org/post/social-theory-at-hbs-mcginnis-two-fos-2)》中，首次提出這個詞。
+
+FOMO 源自對歸屬感和認同感的渴望，讓我們不斷追逐最新潮的資訊，和大家都在討論的話題。
+
+錯失恐懼症的另一面，是 [錯過的快樂](https://www.google.com/search?q=錯過的快樂+JOMO)（JOMO，Joy Of Missing Out）。簡單來說：
+
+* FOMO＝怕錯過
+* JOMO＝錯過了，那又怎樣 🤷🏽‍♂️
+
+> 需要知道的事，終究會知道；不知道的事，或許真的不需要知道。
+
+我平常沒在看新聞，常常連颱風要來了都不知道。但我還是有辦法做好防颱準備，因為鄰居或家人總會告訴我。所以，別害怕錯過資訊。真正重要的資訊，總會換個形式，在別的地方再次出現。就像手機來電一樣：如果真的很重要，對方會再打一次；如果沒有再次來電，代表沒那麼重要。
+
+想要擁抱 JOMO，欣然接受錯過的樂趣，可以從幾件小事開始：
+
+1. **覆盤時間**：回顧一天，[哪些事是出於責任義務，哪些事是你真心想做的？](https://x.com/naval/status/908052298957332480)
+2. **活在當下**：把注意力拉回眼前。跟好友家人吃飯時，把手機收起來，專心聊天。
+3. **練習感恩**：睡前回想三件值得感謝的事。[成功是得到你想要的，快樂是想要你得到的。](https://www.goodreads.com/quotes/4808-success-is-getting-what-you-want-happiness-is-wanting-what)
+4. **自我相處**：[每天保留一個人獨處的充電時間](enoughness-1.md#3)。可能是坐在陽台上喝杯茶，晚餐後在夜光下散步，或是在日記裡留下一段文字。
+5. **主動說不**：不是每通電話都要接、每個邀約都要出席。JOMO 不是冷漠或斷開社交聯繫，而是劃清個人界線；JOMO 是一種解放，以及有意識地缺席。
+
+![](https://media.huam.ing/image/70b94f5aa5f747996a729c219095be46.webp)
+
+沒有人在 [臨終前](enoughness-3.md#2) 會說：「早知道就多去應酬。」他們後悔的，是沒能多陪家人、沒建立深度連結、沒有忠於自己。
+
+**無知便是福；選擇性無知，是一種超能力**。當你開始享受「[這個我不知道，而且我一點都不想知道](https://wiwi.blog/blog/missing-out)」的快感，或有勇氣說出「[我不想知道我不想知道的事](https://www.onlywin.work/p/3b0)」時，你就自由了 🫶
+
 # 3
+
+數理統計學家 [Nassim Taleb](https://www.google.com/search?q=Nassim+Taleb) 在《[反脆弱](https://www.books.com.tw/products/0010590630)》（[Antifragile](https://www.goodreads.com/book/show/13530973-antifragile)）寫道：
+
+> 你看數據的次數越頻繁，得到的雜訊就越多（而不是有價值的訊號）；因此，雜訊/訊號比就越高。
+>
+> The more frequently you look at data, the more noise you are disproportionally likely to get (rather than the valuable part called the signal); hence the higher the noise to signal ratio.
+
+訊號（signal）通常持久、變化緩慢；雜訊（noise）則隨機、四處亂竄。因此，當你觀察得越頻繁，捕捉到的雜訊就越多，雜訊/訊號比也就越高：
+
+```mermaid
+pie
+    title 每年看一次
+    "訊號（50%）" : 50
+    "雜訊（50%）" : 50
+```
+
+```mermaid
+pie
+    title 每天看一次
+    "訊號（5%）" : 5
+    "雜訊（95%）" : 95
+```
+
+```mermaid
+pie
+    title 每小時看一次
+    "訊號（0.5%）" : 0.5
+    "雜訊（99.5%）" : 99.5
+```
+
+他接著寫道：
+
+> 在網路時代，這件事很難被接受。我始終很難解釋 — 你得到的數據越多，反而越不知道發生了什麼事。
+>
+> This is hard to accept in the age of the Internet. It has been very hard for me to explain that the more data you get, the less you know what’s going on.
+
+這讓我想到新聞：**看得越多，對世界的了解反而越少**。更何況，這世界每天發生的事，24 小時可能也不夠你看完 0.0001%。
+
+[研究發現](https://doi.org/10.1038/s41562-023-01538-4)，新聞標題每多一個負面詞，點擊率就多 2.3%。「震驚」、「誇張」、「爆出」……這些聳動字眼，並非為了傳遞資訊而生（不然幹嗎不直接寫重點？），而是騙你掉進點擊誘餌（clickbait）的陷阱，好讓平台多榨取收益。
+
+[貝特里奇頭條定律](https://www.google.com/search?q=貝特里奇頭條標題定律)（Betteridge’s Law of Headlines）則指出，任何以問號結尾的新聞標題，內容通常是胡說八道，只是記者用來騙取點擊率的行銷手法。
+
+> 新聞對心靈的傷害，就像糖對身體一樣：好吃、好消化，卻傷人於無形。
+>
+> — [Rolf Dobelli](https://www.google.com/search?q=Rolf+Dobelli)，《[拒看新聞的生活藝術](https://www.books.com.tw/products/0010850742)》（[Die Kunst des digitalen Lebens](https://www.goodreads.com/book/show/48581422-stop-reading-the-news)）
+
+看新聞，其實是一種「[外包思考](enoughness-23.md#1)」的行為。不相信嗎？把新聞關掉一個星期，你會發現自己有很多「想法」，只是新聞標題。
+
+世界盃誰贏了、川普今天說了什麼、iPhone 又推出什麼新功能。新聞短期內令人興奮，卻無助於長期成長，我的經驗是還會帶來空虛感（跟吃完垃圾食物的感覺一樣 ☹️
+
+那怎麼辦？
+
+_只吸收「歷久彌新」（Timeless）的內容 — 那些多年後依然適用、價值不減的知識，並忽略「當下即時」（Timely）的新聞。專注在不會變的事情，就不會被變來變去的東西搞得心神不寧。_
+
+戒新聞不是件容易的事，因為安靜很可怕。畢竟，電視的背景音再吵，也比自己內心的聲音好聽。
+
+那就聽從 [Taleb 的建議](https://www.goodreads.com/quotes/7588210-to-be-completely-cured-of-newspapers-spend-a-year-reading)，先從讀上星期的報紙開始吧！
 
 — 樺明
