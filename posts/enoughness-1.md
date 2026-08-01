@@ -1,7 +1,7 @@
 ---
 title: ⚖️ Misogi 儀式、留白才能成就精彩
 created: 2025-10-17
-modified: 2026-07-25
+modified: 2026-08-01
 issue: 1
 ---
 
