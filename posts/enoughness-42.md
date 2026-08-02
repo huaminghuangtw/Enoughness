@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 第三類文盲、從 FOMO 走向 JOMO、停止看新聞吧！
 created: 2026-07-31
-modified: 2026-08-01
+modified: 2026-08-02
 issue: 42
 ---
 
@@ -17,7 +17,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 30 歲的隔天，我決定去 [二延平步道](https://www.google.com/search?q=二延平步道&udm=2) 度過一個 [數位排毒](https://www.google.com/search?q=數位排毒) 日 📵
 
-在高鐵嘉義站排隊等候「台灣好行」阿里山線巴士，輪到我時剛好沒座位了。司機回頭看了一眼，最後同意我用站的。感謝他讓我不必多等一小時，可以直接上車。
+在高鐵嘉義站排隊等候「台灣好行」阿里山線巴士，輪到我時剛好沒座位了。司機回頭看了一眼，最後同意我用站的。感謝他讓我直接上車，不用再等一小時。
 
 山路彎來彎去，我也跟著搖來搖去。只好拉緊把手，在走道上努力站穩。
 
@@ -95,7 +95,9 @@ FOMO 源自 [生物本能](enoughness-41.md#2) 對歸屬感和認同感的渴望
 >
 > The more frequently you look at data, the more noise you are disproportionally likely to get (rather than the valuable part called the signal); hence the higher the noise to signal ratio.
 
-訊號（signal）通常持久、變化緩慢；雜訊（noise）則隨機、四處亂竄。因此，當你看得越頻繁，捕捉到的雜訊就越多，雜訊/訊號比也就越高：
+訊號（signal）通常持久、變化緩慢；雜訊（noise）則隨機、四處亂竄。
+
+因此，當你看得越頻繁，捕捉到的雜訊就越多，雜訊/訊號比也就越高：
 
 ```mermaid
 pie
