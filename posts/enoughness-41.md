@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 遠離靜態生活、人類天生坐不住、每天來份運動點心
 created: 2026-07-24
-modified: 2026-08-01
+modified: 2026-08-02
 issue: 41
 ---
 
@@ -61,7 +61,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 如果讓你把電視拔掉、手機收進抽屜，然後坐著發呆，不能聊天、不能看書、不能睡覺，只能呼吸和眨眼。幾分鐘後，心裡會有股衝動，想四處走動、找點事來做。
 
-[2014 年](https://www.science.org/doi/10.1126/science.1250830)，美國維吉尼亞大學做了一個實驗：他們讓一群人在只有一張椅子和一個電擊按鈕的房間，獨自待上 6 到 15 分鐘。**結果發現，許多人寧願接受電擊，也不願放空思考。**其中一個人，甚至在 15 分鐘內，電了自己 190 次 （平均每 4.7 秒就按一次電擊按鈕）😅
+[2014 年](https://www.science.org/doi/10.1126/science.1250830)，美國維吉尼亞大學做了一個實驗：他們讓一群人在只有一張椅子和一個電擊按鈕的房間，獨自待上 6 到 15 分鐘。**結果發現，許多人寧願接受電擊，也不願放空思考**。其中一個人，甚至在 15 分鐘內，電了自己 190 次 （平均每 4.7 秒就按一次電擊按鈕）😅
 
 什麼都不做（do nothing）真的很難；還要感到自在，更是難上加難！
 
@@ -71,7 +71,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 >
 > All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 
-我們天生坐不住，[靜坐冥想](https://www.google.com/search?q=靜坐冥想) 是需要 [刻意練習](https://www.google.com/search?q=刻意練習) 的。當你停下一切，只是單純地「存在」，會覺得自己快要死掉了。
+我們天生坐不住，[靜坐冥想](https://www.google.com/search?q=靜坐冥想) 是需要 [刻意練習](https://www.google.com/search?q=刻意練習) 的。當你停下一切，只是單純地「[存在](https://huam.ing/ted-taipei-2025/#2-%E5%AD%98%E5%9C%A8%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E5%83%B9%E5%80%BC)」，會覺得自己快要死掉了。
 
 搭過長途客運或飛機就知道，久坐有多難受。但手機、電視、電腦這些「[靜態刺激物](https://youtu.be/ZaBaXceaxCY?t=2278s)」，像麻醉藥一樣，把人牢牢釘在椅子上。
 
@@ -118,7 +118,7 @@ BBC 紀錄片《[哺乳類全傳](https://www.bbc.co.uk/programmes/p009lwhq)》�
 * 等吐司機跳起的 60 秒，順手做 10 下 [跨步蹲](https://www.google.com/search?q=跨步蹲)。
 * 等電動牙刷換邊的 60 秒，順手做 10 下 [空氣深蹲](https://www.google.com/search?q=空氣深蹲)。
 
-《[原子習慣](https://www.books.com.tw/products/0010822522)》（[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)）的作者 [James Clear](https://www.google.com/search?q=James+Clear) 曾說：
+《[原子習慣](https://www.books.com.tw/products/0010822522)》（[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)）作者 [James Clear](https://www.google.com/search?q=James+Clear) 曾說：
 
 > 與其鍛鍊意志力，不如減少環境的摩擦力。
 >
