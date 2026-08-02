@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-08-07
-modified: 2026-07-31
+modified: 2026-08-02
 draft: true
 issue: 43
 ---
