@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 、、
 created: 2026-08-07
-modified: 2026-08-02
+modified: 2026-08-03
 draft: true
 issue: 43
 ---
@@ -15,6 +15,12 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 ---
 
 # 1
+
+* **The 3-Question Daily Check** — _What produced energy today? What drained it? What will I schedule or cut tomorrow as a result?_ A two-minute ritual that operationalizes **The Energy Razor**.
+	* #TODO Find: Daily quests in Journal
+* **Energy-first scheduling** — schedule the energy-producing action before the energy-consuming one, letting the calendar enforce the default rule instead of your willpower.
+
+[Energy Management](../../Evergreen-Notes/Permanent-Notes/energy-management.md)
 
 # The Power of Tiny Actions
 
