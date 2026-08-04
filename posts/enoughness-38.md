@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 黃仁勳給年輕人的建議、先吃青蛙，再吃蝌蚪、做最重要的事
 created: 2026-07-03
-modified: 2026-07-19
+modified: 2026-08-03
 issue: 38
 ---
 
@@ -61,7 +61,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 我的經驗是：**最重要 = 最不舒服**。
 
-而那個最想逃避的任務、最害怕開啟的對話、最不想吃的青蛙 — 往往最值得投入時間 ⏱️
+那個最想逃避的任務、最害怕開啟的對話、最不想吃的青蛙 — 往往最值得投入時間 ⏱️
 
 美國作家 [Joseph Campbell](https://www.google.com/search?q=Joseph+Campbell) 曾說：
 
