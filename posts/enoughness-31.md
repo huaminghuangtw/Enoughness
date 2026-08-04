@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 快思慢想、一次只做一件事、無心之心
 created: 2026-05-15
-modified: 2026-07-25
+modified: 2026-08-04
 issue: 31
 ---
 
@@ -52,11 +52,11 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 「他**走路時用心走路；[坐著時用心坐著](enoughness-22.md#3)；[吃飯時用心吃飯](enoughness-30.md#1)。**」
 
-美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在《[象與騎象人](https://www.google.com/search?q=象與騎象人)》（The Happiness Hypothesis）寫道：
+美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 在《[象與騎象人](https://www.google.com/search?q=象與騎象人)》（[The Happiness Hypothesis](https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis)）寫道：
 
-> Controlled processing is limited — we can think consciously about one thing at a time only — but automatic processes run in parallel and can handle many tasks at once. If the mind performs hundreds of operations each second, all but one of them must be handled automatically.
->
 > 在有意識的情況下，我們一次只能思考一件事。如果心智每秒執行數百個運算，那麼除了其中一項外，其他都必須仰賴自動處理。
+>
+> Controlled processing is limited — we can think consciously about one thing at a time only — but automatic processes run in parallel and can handle many tasks at once. If the mind performs hundreds of operations each second, all but one of them must be handled automatically.
 
 **人類的大腦是一台超級電腦，但它一次只能處理一件事。**
 
