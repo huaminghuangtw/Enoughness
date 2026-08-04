@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 遠離靜態生活、人類天生坐不住、每天來份運動點心
 created: 2026-07-24
-modified: 2026-08-02
+modified: 2026-08-04
 issue: 41
 ---
 
@@ -128,7 +128,7 @@ BBC 紀錄片《[哺乳類全傳](https://www.bbc.co.uk/programmes/p009lwhq)》�
 
 覺得去健身房很麻煩？那就不要去，在家 [折身體](https://darebee.com/)。
 
-覺得出門跑步很累人？那就不要去，在家 [超慢跑](https://www.google.com/search?q=超慢跑)。
+覺得出門跑步很累人？那就不要去，在家 [超慢跑](https://www.youtube.com/@tongyinghsu)。
 
 無論如何，每天用零碎時間做點 [微運動](https://www.google.com/search?q=微運動)，動起來就對了！
 
