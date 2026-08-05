@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 第三類文盲、從 FOMO 走向 JOMO、停止看新聞吧！
 created: 2026-07-31
-modified: 2026-08-02
+modified: 2026-08-05
 issue: 42
 ---
 
@@ -38,7 +38,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 [在速食資訊橫行的時代，長文成了奢侈品](https://www.onlywin.work)；從頭到尾讀完一本書，更是現代人的奢求。
 
-當文明愈進步，[我們愈該在意自己讀的，是人類的智慧結晶，還是糟粕](https://huam.ing/sherlock-holmes-brain-attic) 。
+當文明愈進步，[我們愈該在意自己吸收的，是人類的智慧結晶，還是糟粕](https://huam.ing/sherlock-holmes-brain-attic) 。
 
 # 2
 
@@ -75,9 +75,9 @@ FOMO 源自 [生物本能](enoughness-41.md#2) 對歸屬感和認同感的渴望
 
 ![](https://media.huam.ing/image/70b94f5aa5f747996a729c219095be46.webp)
 
-錯過的，真的不會怎樣。
+錯過真的不會怎樣。
 
-不知道的，也不會影響人生。
+不知道也不會影響人生。
 
 天不會塌，明天的太陽照樣升起。
 
