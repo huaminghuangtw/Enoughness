@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 不因事小而不為、做你不敢做的事、休息時也要盡全力
 created: 2026-02-27
-modified: 2026-07-08
+modified: 2026-08-07
 issue: 20
 ---
 
@@ -118,11 +118,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 3. 衝刺
 4. 慢跑
 
-多數人預設用「慢跑」這種不快不慢的方式工作，長時間維持在中等強度。
-
-但若想走得更遠、更快，反而應該在「休息」、「散步」和「衝刺」之間切換，然後重複循環。
-
-生活裡，不該出現「慢跑」這個選項。
+多數人預設用「慢跑」這種不快不慢的方式工作，長時間維持在中等強度。但若想走得更遠、更快，反而應該在「休息」、「散步」和「衝刺」之間切換，然後重複。生活裡，不該出現「慢跑」這個選項。
 
 《[學習的王道](https://www.books.com.tw/products/0010861638)》（The Art of Learning）的作者 [Josh Waitzkin](https://www.google.com/search?q=Josh+Waitzkin) 在 [The Tim Ferriss Show 的 訪談](https://tim.blog/2019/06/27/josh-waitzkin/) 中曾提過一個概念：「**溫火六分力**」（Simmering Six）。
 
