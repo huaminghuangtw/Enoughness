@@ -1,7 +1,7 @@
 ---
 title: ⚖️ 磨刀不誤砍柴工、能量管理 > 時間管理、像獅子一樣工作
 created: 2026-08-07
-modified: 2026-08-07
+modified: 2026-08-08
 issue: 43
 ---
 
@@ -61,7 +61,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 美國心理學家 [Jim Loehr](https://www.google.com/search?q=Jim+Loehr) 在《[能量全開](https://www.books.com.tw/products/0010251528)》（[The Power of Full Engagement](https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement)）寫道：
 
-> 能量，而不是時間，才是高效表現的根本貨幣。
+> 能量，不是時間，才是高效表現的根本貨幣。
 >
 > Energy, not time, is the fundamental currency of high performance.
 
@@ -71,11 +71,11 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 # 3
 
-> 最頂尖的球員，能讓足球看起來像是在公園散步。
+> 最頂尖的球員，能讓踢足球看起來像是在公園散步。
 >
 > The best players make soccer look like a walk in the park.
 
-這是《[The Athletic](https://www.nytimes.com/athletic/7434324/2026/07/11/lionel-messi-walking-world-cup-argentina/)》一篇文章的開頭。2026 年世界盃，阿根廷球星梅西（[Lionel Messi](https://www.google.com/search?q=Lionel+Messi)）有 63% 的移動時間都在 [走路](https://www.google.com/search?q=Why+does+Lionel+Messi+walk+so+much?)，是所有球員中比例最高的！儘管如此，他仍在本屆踢進 8 球，在個人進球榜排名第二，僅次於法國隊長姆巴佩（[Kylian Mbappé](https://www.google.com/search?q=Kylian+Mbappé)）的 10 顆。
+這是《[The Athletic](https://www.nytimes.com/athletic/7434324/2026/07/11/lionel-messi-walking-world-cup-argentina/)》一篇文章的開頭。2026 年世界盃，阿根廷球星梅西（[Lionel Messi](https://www.google.com/search?q=Lionel+Messi)）有 63% 的移動時間都在 [走路](https://www.google.com/search?q=Why+does+Lionel+Messi+walk+so+much?)，是所有球員中比例最高的！儘管如此，他仍舊踢進 8 球，在個人進球榜排名第二，僅次於法國隊長姆巴佩（[Kylian Mbappé](https://www.google.com/search?q=Kylian+Mbappé)）的 10 顆。
 
 ![](https://media.huam.ing/image/fdfddf020607dd5e8565e8f5939f974c.webp "圖片來源：[The Athletic](https://www.nytimes.com/athletic/7434324/2026/07/11/lionel-messi-walking-world-cup-argentina/)")
 
@@ -93,20 +93,20 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 >
 > I try to save pockets of energy when I know I’m going to be needed.
 
-人生有四種速度：**休息**、**走路**、**衝刺**、**慢跑**。多數人的預設是慢跑；厲害的高手，只會用到三種：**休息**、**走路**、**衝刺**，沒有慢跑。
+人生有四種速度：**休息**、**散步**、**衝刺**、**慢跑**。多數人的預設是慢跑；厲害的高手，只會用到三種：**休息**、**散步**、**衝刺**，沒有慢跑。
 
-但說到能量管理大師，就不得不提非洲草原之王 — 獅子 🦁
+但說到能量管理大師，就不得不提非洲草原之王：獅子 🦁
 
 [據說](https://www.lioninsidelive.com/lion-inside-live-blog/why-do-lions-sleep-so-much)，獅子一天要睡上 20 小時。牠們不會整天追著獵物跑；大部分時間都在休息、觀察，只在出手那一刻全力衝刺。
 
 我的人生導師 [Naval Ravikant](https://www.google.com/search?q=Naval+Ravikant) [曾說](https://youtu.be/3qHkcs3kG44?t=22m8s)：
 
-> 人應該像獅子一樣工作。你和我都不是牛，我們不該整天低頭吃草，我們天生就是要像獅子一樣狩獵。所以，作為現代知識工作者，你要像運動員一樣運作：努力訓練、衝刺，然後休息，並且重新評估。有了這個回饋機制，你再訓練、再衝刺、再休息、再重新評估。以為每天坐在同樣的地方、用同樣的時數，就能得到線性的產出嗎？那是機器。機器才需要朝九晚五；人，不是為了朝九晚五而生的。
+> 人應該像獅子一樣工作。你和我都不是牛，我們不該整天低頭吃草，我們天生就是要像獅子一樣狩獵。所以，作為現代知識工作者，你要像運動員一樣運作：努力訓練、衝刺，然後休息，並且重新評估。有了這個回饋機制，你再訓練、再衝刺、再休息、再重新評估。以為每天坐在同樣的地方、用同樣的時數，就能得到線性的產出嗎？那是機器。機器才需要朝九晚五，人類不是為了朝九晚五而生的。
 >
 > The right way to work is like a lion. You don’t — you and I are not like cows. We’re not meant to graze all day, right? We’re meant to hunt like lions. So, as a modern knowledge worker, an intellectual athlete, you want to function like an athlete. This means you train hard, then you sprint, then you rest, then you reassess. You get your feedback loop, you train some more, then you sprint again, then you rest, then you reassess. This idea that you’re going to have linear output just by cranking every day at the same amount of time sitting — that’s machines. Machines should be working 9 to 5. Humans are not meant to work 9 to 5.
 
-如果你想提升生產力，別再數工時了。重點不是時數的多寡，而是時數的品質；你需要的是更高的 [專注](enoughness-17.md#2) 強度，而不是更長的工作時間。
+_如果想提升生產力，別再算工時了吧～重點不是時數的多寡，而是時數的品質；你需要的是更高的 [專注](enoughness-17.md#2) 強度，而不是更長的工作時間。_
 
-想幹大事，[除了要很勤奮，也要很會「偷懶」](enoughness-20.md#3)😜
+想 [幹大事](enoughness-4.md#1)，[除了要很勤奮，也要很會「偷懶」](enoughness-20.md#3)😜
 
 — 樺明
