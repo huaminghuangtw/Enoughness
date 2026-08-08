@@ -1,5 +1,5 @@
 ---
-title: ⚖️ Misogi 儀式、留白才能成就精彩
+title: Misogi 儀式、留白才能成就精彩
 created: 2025-10-17
 modified: 2026-08-06
 issue: 1

@@ -1,5 +1,5 @@
 ---
-title: ⚖️ 、、
+title: 、、
 created: 2026-08-21
 modified: 2026-08-07
 draft: true
