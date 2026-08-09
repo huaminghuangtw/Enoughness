@@ -65,7 +65,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 >
 > Energy, not time, is the fundamental currency of high performance.
 
-時間管理決定你「何時做」，能量管理決定你「做得多好」。
+時間管理決定「何時做」，能量管理決定「做得多好」。
 
 **管理能量，別管理時間。**
 
