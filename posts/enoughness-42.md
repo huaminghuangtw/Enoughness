@@ -1,7 +1,7 @@
 ---
 title: 第三類文盲、從 FOMO 走向 JOMO、停止看新聞吧！
 created: 2026-07-31
-modified: 2026-08-07
+modified: 2026-08-10
 issue: 42
 ---
 
@@ -46,7 +46,7 @@ _嗨，我是 [黃樺明](https://huam.in/about)，喜歡 [寫作](https://huam.
 
 你問我到底在滑什麼？可能就是一個「安全感」吧……害怕漏掉訊息、害怕跟不上時事、害怕成為局外人。
 
-還記得 [2021 年 10 月 4 日](https://www.google.com/search?q=2021+臉書大當機) 那天，碰上臉書和 Instagram 同時癱瘓。當時的我還是社群媒體重度成癮者，看到怎麼滑都是黑畫面的手機，直接原地崩潰。
+還記得 [2021 年 10 月 4 日](https://www.google.com/search?q=2021+臉書大當機) 那天，碰上臉書和 Instagram 同時癱瘓。當時的我是個社群媒體重度成癮者，看到怎麼滑都是黑畫面的手機，直接原地崩潰。
 
 這種深怕錯過的 [焦慮](enoughness-26.md#3)，叫 [錯失恐懼症](https://www.google.com/search?q=錯失恐懼症+FOMO)（FOMO，Fear Of Missing Out）。
 
