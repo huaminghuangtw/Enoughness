@@ -1,7 +1,7 @@
 ---
 title: 磨刀不誤砍柴工、能量管理 > 時間管理、像獅子一樣工作
 created: 2026-08-07
-modified: 2026-08-11
+modified: 2026-08-12
 issue: 43
 ---
 
@@ -45,7 +45,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 1. **身體**：[飲食](enoughness-30.md#1)、[睡眠](enoughness-11.md#3)、[運動](enoughness-36.md#3)。鍛鍊，是最直接的磨刀法。
 2. **心智**：閱讀、學習、寫作。多接觸新想法、新觀點。
 3. **情感／社交**：經營關係、練習同理、管理壓力。也記得為他人服務。
-4. **心靈**：走路、冥想、接觸大自然。對齊自己的核心價值與人生目標。
+4. **心靈**：走路、冥想、接觸大自然。對齊自己的核心價值與每日行事曆。
 
 ![](https://media.huam.ing/image/794a471136193f3387a3bb5d51c954c1.webp "圖片來源：《[與成功有約：高效率人士的七個習慣](https://www.books.com.tw/products/0010874292)》（[The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)）")
 
