@@ -1,8 +1,7 @@
 ---
-title: 、、
+title: 再救一個就好、五分鐘的力量、兩分鐘版本
 created: 2026-08-14
-modified: 2026-08-06
-draft: true
+modified: 2026-08-14
 issue: 44
 ---
 
@@ -16,52 +15,76 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 # 1
 
-# The Power of Tiny Actions
+> 沙灘上，一名老先生看到一個小男孩，正把擱淺的海星們丟回海裡。
+>
+> 「你在做什麼？」老先生問。
+>
+> 「太陽出來了，潮水正在退。如果我不把牠們丟回去，牠們會死！」
+>
+> 老先生搖搖頭：「沙灘上有幾萬隻海星，救不完的。你這樣做，改變不了什麼。」
+>
+> 小男孩沒說話，繼續彎下腰，又撿起一隻，丟回海裡。
+>
+> 接著，他回頭說：「**對那隻海星來說，我改變了牠的一生。**」
 
- Adapted from [Loren Eiseley’s “The Start Thrower / Starfish Story” (1969)](https://en.wikipedia.org/wiki/The_Star_Thrower)
+這個故事改編自美國人類學家 [Loren Eiseley](https://www.google.com/search?q=Loren+Eiseley) 1969 年的文章[《The Star Thrower》](https://en.wikipedia.org/wiki/The_Star_Thrower)；也讓我想到電影《[鋼鐵英雄](https://www.imdb.com/title/tt2119532/)》裡的主角戴斯蒙 · 杜斯（Desmond Doss）在槍林彈雨中搬運受傷的同袍時，不斷祈禱：
 
-> An old man was walking along the beach when he noticed a young boy picking up starfish and throwing them back into the ocean.
+> 主啊，拜託，再讓我多救一個，再一個就好 🙏
 >
-> Approaching the boy, he asked, “Excuse me, but what are you doing?”
+> Lord, please, help me get one more.
+
+最後，他救回超過 75 條性命，成為二戰中唯一沒有攜帶武器、卻獲頒 [美國最高軍事榮譽](https://www.google.com/search?q=Medal+of+Honor) 的士兵。
+
+以前，我很常掉入「**全有或全無**」的陷阱：[因為事情太小，所以乾脆不做](enoughness-20.md#1)。
+
+但 [這個世界不是非黑即白](enoughness-19.md#2)，萬物都有個相對性。同一件事，從不同面向來看，會有完全不同的解讀。
+
+你不可能讓全部人都讀你的文章，但只要有一個人，因為你的文字而改變，_這樣就夠了。_
+
+你不可能幫到所有人，但只要有一個人，因為你的舉手之勞而好過一點，_這樣就夠了。_
+
+對你來說，可能只是一隻海星；但對那隻海星來說，你是牠的全部。
+
+對戴斯蒙來說，也許救不了每個人，但每救一個人，他都說：
+
+> 我會帶你回家。
 >
-> The boy replied, “The sun is rising and the tide is going out. If I don’t throw the starfish back in, they’ll die.”
->
-> The old man shook his head and said, “But there’s too many starfish on this beach. You can’t possibly make a difference.”
->
-> After thinking for a moment, the boy bent down, picked up another starfish and threw it into the ocean.
->
-> Then, he turned to the old man and said, “Well, I made a difference to that one.”
+> I’m going to get you home.
+
+_這樣就夠了。_
 
 # 2
 
-The Power of Five Minutes
+我們距離「感覺好一點」，永遠只差五分鐘：
+
+* 五分鐘的運動，能量就會變充沛。
+* 五分鐘的寫作，思緒就會變清晰。
+* 五分鐘的閱讀，眼界就會變開闊。
+* 五分鐘的呼吸，壓力就會變舒緩。
+* 五分鐘的對話，心情就會變開朗。
+
+一個我很喜歡問自己的問題：
+
+> 接下來五分鐘，我要怎麼 [盡全力](enoughness-20.md#3)？
+
+**全神貫注的五分鐘，勝過魂不守舍的一小時。**
 
 # 3
 
-[The Arrival Fallacy](../../Evergreen-Notes/Permanent-Notes/the-arrival-fallacy.md)
+美國作家 [James Clear](https://www.google.com/search?q=James+Clear) 在《[原子習慣](https://www.books.com.tw/products/0010766740)》（[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)）寫道：
 
-[ASAP Sports Transcripts - Golf - 2025 - THE 153RD OPEN - July 15 - Scottie Scheffler](https://www.asapsports.com/show_interview.php?id=209897)
+> 習慣只要幾秒鐘就能完成，卻會在接下來的幾分鐘、甚至幾小時裡，持續影響你的行為。很多習慣發生在關鍵時刻 — 就像站在岔路口 — 把你帶向充實（或荒廢）的一天。**兩分鐘法則說：「當你開始一個新習慣時，它應該花不到兩分鐘就能完成。」**
+>
+> Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward. Many habits occur at decisive moments—choices that are like a fork in the road—and either send you in the direction of a productive day or an unproductive one. The Two-Minute Rule states, “When you start a new habit, it should take less than two minutes to do.”
 
-[The Arrival Fallacy: Why Success Is Never Enough \| The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-arrival-fallacy-why-success-is-never-enough)
+* 要出門跑步？先綁鞋帶就好。
+* 要看完一本書？先讀一頁就好。
+* 要準備期末考？先打開筆記就好。
+* 要摺完一堆衣服？先摺一雙襪子就好。
+* 要寄一封 email？先寫主旨和稱呼就好。
 
-> It feels like you work your whole life to celebrate winning a tournament for like a few minutes. It only lasts a few minutes, that kind of euphoric feeling…And then it’s like, what are we going to eat for dinner?
+[千里之行，始於足下](https://huam.ing/how-to-tie-shoelaces)。兩分鐘版本不是為了進度，而是為了「打破僵局」。
 
-> This is not a fulfilling life. It’s fulfilling from the sense of accomplishment, but it’s not fulfilling from the sense of the deepest places of your heart…There’s a lot of people that make it to what they thought was going to fulfill them in life and then you get there and all of a sudden you get to number 1 in the world and you’re like what’s the point?
-
-在 AI 時代，答案愈來愈容易取得，但有一種能力，是 AI 給不了，也無法替代的，那就是「自學力」。
-
-自學力並非單一技能，而是一套完整的內在系統：能主動思考、獨立面對問題、在沒有標準答案或他人協助的情況下，還能持續嘗試、調整方向，最終找到出路。當孩子遇到挫折，不是等待有人來解救，而能回頭看看自己已經擁有的工具，重新組合，再試一次。
-
-[簡立峰：AI 可能創造 1% 超級人類 ，掌握 99% 機會](https://youtu.be/w3nBw-6nwQ4)
-
-關鍵不在車，而在駕駛
-
-AI 是得力的副駕，但人生道路還是得由自己來駕駛—方向盤永遠在你手上，副駕再聰明，也不能代替你開車。
-
-[True education begins where school ends](../../Evergreen-Notes/Permanent-Notes/true-education-begins-where-school-ends.md)
-
-# 2
-
-# 3
+🤔 你正在拖延的那件事，兩分鐘版本是什麼呢？
 
 — 樺明
