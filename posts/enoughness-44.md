@@ -1,7 +1,7 @@
 ---
 title: 再救一個就好、五分鐘的力量、兩分鐘版本
 created: 2026-08-14
-modified: 2026-08-14
+modified: 2026-08-15
 issue: 44
 ---
 
@@ -19,7 +19,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 >
 > 「你在做什麼？」老先生問。
 >
-> 「太陽出來了，潮水正在退。如果我不把牠們丟回去，牠們會死！」
+> 「太陽出來了，潮水正在退。如果我不丟回去，牠們會死！」
 >
 > 老先生搖搖頭：「沙灘上有幾萬隻海星，救不完的。你這樣做，改變不了什麼。」
 >
@@ -71,7 +71,7 @@ _這樣就夠了。_
 
 # 3
 
-美國作家 [James Clear](https://www.google.com/search?q=James+Clear) 在《[原子習慣](https://www.books.com.tw/products/0010766740)》（[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)）寫道：
+美國作家 [James Clear](https://www.google.com/search?q=James+Clear) 在《[原子習慣](https://www.books.com.tw/products/0010822522)》（[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)）寫道：
 
 > 習慣只要幾秒鐘就能完成，卻會在接下來的幾分鐘、甚至幾小時裡，持續影響你的行為。很多習慣發生在關鍵時刻 — 就像站在岔路口 — 把你帶向充實（或荒廢）的一天。**兩分鐘法則說：「當你開始一個新習慣時，它應該花不到兩分鐘就能完成。」**
 >
@@ -81,10 +81,10 @@ _這樣就夠了。_
 * 要看完一本書？先讀一頁就好。
 * 要準備期末考？先打開筆記就好。
 * 要摺完一堆衣服？先摺一雙襪子就好。
-* 要寄一封 email？先寫主旨和稱呼就好。
+* 要寄一封電子郵件？先把主旨寫下來就好。
 
 [千里之行，始於足下](https://huam.ing/how-to-tie-shoelaces)。兩分鐘版本不是為了進度，而是為了「打破僵局」。
 
-🤔 你正在拖延的那件事，兩分鐘版本是什麼呢？
+🤔 **你正在拖延的任務，兩分鐘版本是什麼呢？**
 
 — 樺明
