@@ -1,7 +1,7 @@
 ---
 title: 塞翁失馬，焉知非福、諾瓦效應、衝浪者心態
 created: 2026-05-29
-modified: 2026-08-14
+modified: 2026-08-21
 issue: 33
 ---
 
@@ -35,9 +35,9 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 美國文學大師 [Cormac McCarthy](https://www.google.com/search?q=Cormac+McCarthy) 在犯罪驚悚小說《險路》（No Country for Old Men）寫道：
 
-> You never know what worse luck your bad luck saved you from.
->
 > 你永遠不知道壞運氣究竟幫你避開多少更糟的事情。
+>
+> You never know what worse luck your bad luck saved you from.
 
 好運與厄運像骨牌般緊密相連，彼此牽動。眼前的不幸，往往是未來的轉機；眼前的幸運，也可能是日後的隱憂。
 
