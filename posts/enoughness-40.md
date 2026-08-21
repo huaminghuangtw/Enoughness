@@ -1,7 +1,7 @@
 ---
 title: 螺旋不是繞圈、說不定，你早就到了、竹子的啟示
 created: 2026-07-17
-modified: 2026-08-03
+modified: 2026-08-21
 issue: 40
 ---
 
@@ -62,7 +62,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 ![](https://media.huam.ing/image/2db658e3be7ddaa5b4f4de2ab081b9e1.webp)
 
-[抵達謬誤](https://www.google.com/search?q=抵達謬誤)（Arrival Fallacy）讓我們誤以為答案在遠方、在未來、在「過了這條河之後」，也讓我們老是幻想著去別的地方、做別的事、和別的人在一起。
+[抵達謬誤](enoughness-45.md#2) 讓我們誤以為答案在遠方、在未來、在「過了這條河之後」，也讓我們老是幻想著去別的地方、做別的事、和別的人在一起。
 
 [但說不定，你早就到了。](enoughness-28.md#2)
 
