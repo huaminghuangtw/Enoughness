@@ -79,7 +79,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 >
 > The first rule of a happy life is low expectations. If you have unrealistic expectations you’re going to be miserable your whole life. You want to have reasonable expectations and take life’s results good and bad as they happen with a certain amount of stoicism.
 
-樂透彩得主的胃口，被那筆錢養大了。從 $0 到 $1,000,000，[第一次的衝擊非常強烈](enoughness-5.md#3)；當一百萬美金變成背景後，簡單的快樂就再也滿足不了膨脹的慾望。
+樂透彩得主的胃口，被那筆錢養大了。從 \$0 到 \$1,000,000，[第一次的衝擊非常強烈](enoughness-5.md#3)；當一百萬美金變成背景後，簡單的快樂就再也滿足不了膨脹的慾望。
 
 就像一心想要「抵達地平線」的船長，註定要失望一輩子。**因為地平線是永遠到不了的**。
 
@@ -89,7 +89,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 想想看，如果把一個從未爬過山的人丟到聖母峰，他可能會因為無法適應稀薄空氣而失去意識。讓人有能力站上山頂的，不是抵達的那一刻，而是一路爬上去的過程。
 
-我常在想，為什麼要跑 [馬拉松](enoughness-9.md#2)？如果是為了快速抵達終點，那直接搭車不是最快嗎？
+我常在思考，為什麼要跑 [馬拉松](enoughness-9.md#2)？如果是為了快速抵達終點，那直接搭車不是最快嗎？
 
 直到看到「[一袋米要扛幾樓](https://www.google.com/search?q=一袋米要扛幾樓)」，我有了更清晰的答案：**我喜歡過程中那個「痛苦」的感覺**。
 
