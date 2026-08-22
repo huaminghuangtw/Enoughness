@@ -15,13 +15,13 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 # 1
 
-2025 年 7 月 15 日，世界排名第一的高爾夫球好手 [Scottie Scheffler](https://www.google.com/search?q=Scottie+Scheffler)，在 [記者會](https://www.asapsports.com/show_interview.php?id=209897) 上被問到：「你怎麼定義成功的一年？會在年初就寫下目標嗎？」
+2025 年 7 月 15 日，世界排名第一的高爾夫球好手 [Scottie Scheffler](https://www.google.com/search?q=Scottie+Scheffler)，在 [記者會](https://youtu.be/hUOrPqv0eU0?t=5m7s) 上被問到：「你怎麼定義成功的一年？會在年初就寫下目標嗎？」
 
 > 其實每年都差不多，我不太去看輸贏。我不會在年初坐下來說：今年要拿幾個大滿貫、贏幾個巡迴賽冠軍。那不是我會做的事，對我來說也不管用。我有一些不斷努力追求的夢想和渴望。但到頭來，我只想活在當下，我只想每天都認真練習。
 >
 > It doesn’t really change year by year. I don’t look at wins and losses or stuff like that. I don’t sit down at the beginning of the year and say I want to win X number of times; I want to win this many majors; I want to win this many tournament events. That’s not something I do. That’s not something that works for me. I have some dreams and aspirations that I’m always striving towards, but at the end of the day, I try to stay present. I try to practice hard each and every day.
 
-記者 [繼續問](https://youtu.be/vfC0XJV0cuU)：「你這輩子慶祝最久的比賽勝利是哪一次？」
+記者 [繼續問](https://youtu.be/hUOrPqv0eU0?t=20m20s)：「你這輩子慶祝最久的比賽勝利是哪一次？」
 
 > 你努力了一輩子，就是為了贏得比賽後那短短幾分鐘的慶祝。那種興奮的感覺只會持續幾分鐘……然後你會想：**晚餐要吃什麼？**（🤣
 >
@@ -62,14 +62,14 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 [1978 年](https://doi.org/10.1037//0022-3514.36.8.917)，心理學家 [Philip Brickman](https://www.google.com/search?q=Philip+Brickman) 等人把三組人擺在一起比較：
 
 1. 中頭獎的樂透彩得主
-2. 一般人（控制組）
-3. 因車禍而癱瘓的受害者
+2. 一般人
+3. 因車禍而癱瘓的人
 
-研究人員不只追蹤他們的整體幸福感，也測量他們的日常愉悅感，像是聊天、看雜誌、吃一頓飯。
+研究人員不僅追蹤他們的整體幸福感，也測量他們的日常愉悅感，像是聊天、看雜誌、吃一頓飯。
 
 結果，**樂透彩得主得整體幸福感，並沒有顯著高於一般人**。中頭獎，並沒有讓他們更快樂。
 
-有趣的是：**樂透彩得主從日常得到的愉悅，反而明顯低於一般人**。喝一杯咖啡、跟朋友閒聊、看電視，這些原本很療癒的小事，對中頭獎的人來說，變得平淡無奇。
+有趣的是，**樂透彩得主從日常得到的愉悅，反而明顯低於一般人**。喝一杯咖啡、跟朋友閒聊、看電視，這些原本很療癒的小事，對中頭獎的人來說，變得平淡無奇。
 
 為什麼會這樣呢？**期望值**太高。
 
@@ -89,7 +89,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 > 人生極致的悲劇是一切皆目標，人生極致的幸福是一切皆過程。
 
-我們常把 [能量](enoughness-43.md#2) 都放在「山頂」：升職、賺錢、得獎，卻忘了**人生有 99% 的時間都在爬山。目標的實現只是一個里程碑；登頂那刻，不過就像卸下背包一樣輕鬆**。
+我們常把 [能量](enoughness-43.md#2) 都放在山頂：升職、賺錢、得獎，卻忘了**人生有 99% 的時間都在爬山。目標的實現只是一個里程碑；登頂那刻，不過就像卸下背包一樣輕鬆**。
 
 想想看，把一個從未爬過山的人直接丟上聖母峰，他會因為沒有經過長期訓練、適應的過程，承受不住稀薄空氣而失去意識 — 連站都站不穩，更別說欣賞風景。讓人有能力站上山頂的，不是抵達的那一刻，而是一路爬上去的過程。
 
