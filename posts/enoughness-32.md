@@ -1,7 +1,7 @@
 ---
 title: 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-07-19
+modified: 2026-08-28
 issue: 32
 ---
 
@@ -57,7 +57,7 @@ P.S. 雖然 [許文龍](enoughness-19.md#1) 會說：「跌倒時，不要急著
 
 # 3
 
-從小到大，[Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 一直是我的榜樣。雖然我不會打籃球，但 Kobe 的態度深深激勵著我 — 熱情、執著、自律、鍥而不捨、無所畏懼 — 還有更重要的：**每天都要進步（Get better every single day）**。
+從小到大，[Kobe Bryant](https://www.google.com/search?q=Kobe+Bryant) 一直是我的榜樣。雖然我不會打籃球，但 Kobe 的態度深深激勵著我 — 自律、無所畏懼、對自己熱愛的事堅定不移 — 還有更重要的：**每天都要進步（Get better every single day）**。
 
 最近很喜歡在中午時邊 [沖冰水](enoughness-13.md#3)，邊聽 [Kobe 的諄諄教誨](https://youtu.be/Ju5kyQJyGBY)。每次聽到他的聲音，我都會起雞皮疙瘩，貫穿脊椎那種。
 
