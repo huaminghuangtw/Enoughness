@@ -1,7 +1,7 @@
 ---
 title: 如何正確綁鞋帶、邊開火邊移動、一年讀數百本書的方法
 created: 2025-12-19
-modified: 2026-07-08
+modified: 2026-08-28
 issue: 10
 ---
 
@@ -73,13 +73,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 **Goodreads 隱藏版技巧：如何快速吸收書籍精華？**
 
-[Goodreads](https://www.goodreads.com/) 是全球最大讀者社群網站，也是愛書人的必備工具。
-
-面對數量龐大的好書們，如果一本一本買來慢慢啃，根本看不完。
-
-但透過 Goodreads，我發現一個私藏技巧，讓我一天可以瀏覽一到兩本書。
-
-比起閱讀他人加工過的二手書評或心得，這個方法可直接讀取「原文摘錄」，讓我們更能掌握作者的原始核心觀點。
+[Goodreads](https://www.goodreads.com/) 是全球最大讀者社群網站，也是愛書人的必備工具。最近我發現一個技巧，可以瀏覽書中的原始文字。
 
 以美國社會心理學家 [Jonathan Haidt](https://www.google.com/search?q=Jonathan+Haidt) 的著作《失控的焦慮世代》（The Anxious Generation）為例：
 
