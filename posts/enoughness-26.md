@@ -1,7 +1,7 @@
 ---
 title: 人肉電池、手機成癮、沒有數位焦慮的世界
 created: 2026-04-10
-modified: 2026-07-31
+modified: 2026-08-29
 issue: 26
 ---
 
@@ -57,6 +57,6 @@ _我常在想，如果可以創造一個沒有電子產品干擾的神聖空間�
 
 **我期待有一天，我們能活在一個沒有數位焦慮的世界。**
 
-**這是我的 [使命](https://youtu.be/tvos4nORf_Y?t=18m33s)，也是我追求的 [墓誌銘](https://youtu.be/SBDWLvTRmP0)。**
+**這是我的 [使命](https://youtu.be/tvos4nORf_Y?t=18m33s)，也是我追求的 [墓誌銘](enoughness-46.md#3)。**
 
 — 樺明
