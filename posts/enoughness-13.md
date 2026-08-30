@@ -1,7 +1,7 @@
 ---
 title: Kevin Kelly、九十年學到的九件事、2025 年最棒的習慣
 created: 2026-01-09
-modified: 2026-07-08
+modified: 2026-08-30
 issue: 13
 ---
 
