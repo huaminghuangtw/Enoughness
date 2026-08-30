@@ -93,6 +93,6 @@ _履歷美德，是履歷表上那些帶你進入就業市場的技能。悼詞�
 
 我們要花一輩子的時間，學習在兩種亞當的張力中雍容自處。**而亞當一號，終究還是得向亞當二號低頭**。
 
-_你會思考死亡嗎？你追求的是履歷表，還是 [墓](https://youtu.be/SBDWLvTRmP0)[誌](https://www.cheers.com.tw/article/article.action?id=5085147&page=1)[銘](https://mr6.cc/2009/01/09/%E6%94%B9%E4%BD%A0%E7%9A%84%E5%B1%A5%E6%AD%B7%E8%A1%A8%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%A6%A8%E5%85%88%E6%83%B3%E6%83%B3%E4%BD%A0%E7%9A%84%E5%A2%93%E8%AA%8C%E9%8A%98/)？你希望自己離開世界後，別人如何形容你呢？_
+_你會思考 [死亡](enoughness-3.md#2) 嗎？你追求的是履歷表，還是 [墓](https://youtu.be/SBDWLvTRmP0)[誌](https://www.cheers.com.tw/article/article.action?id=5085147&page=1)[銘](https://mr6.cc/2009/01/09/%E6%94%B9%E4%BD%A0%E7%9A%84%E5%B1%A5%E6%AD%B7%E8%A1%A8%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%A6%A8%E5%85%88%E6%83%B3%E6%83%B3%E4%BD%A0%E7%9A%84%E5%A2%93%E8%AA%8C%E9%8A%98/)？你希望自己離開世界後，別人如何形容你呢？_
 
 — 樺明
