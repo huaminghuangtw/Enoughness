@@ -1,7 +1,7 @@
 ---
 title: 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
-modified: 2026-08-11
+modified: 2026-08-30
 issue: 3
 ---
 
@@ -28,8 +28,6 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 ![](https://media.huam.ing/image/1efabbc2d82c4ed6c8bbd572b3a0f3b5.webp)
 
 # 2
-
-![](https://images.unsplash.com/photo-1581588525251-e1dca48e9827?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
 曾在安寧病房服務多年的澳洲護理師 [Bronnie Ware](https://www.google.com/search?q=Bronnie+Ware)，在《[Regrets of the Dying](https://bronnieware.com/blog/regrets-of-the-dying/)》中，整理出上百位病人登出人生前最後悔的 5 件事：
 
@@ -131,6 +129,8 @@ P.S. 如果想更深入思考人生，推薦你觀看 Bronnie 的 TED 演講：
 這些提醒，幫助我們做逆向工程，把握每一個還能選擇、還能行動的「今天」。
 
 **每天都是生命中最重要的一天，今天是剩下生命中的第一天、這輩子最年輕的一天，每個微小行動都是對未來自己投下的一張神聖選票，現在就是一生中最重要的時刻 — 此時此刻，就是終極人生！**
+
+![](https://images.unsplash.com/photo-1581588525251-e1dca48e9827?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "圖片來源：Unsplash")
 
 # 4
 
