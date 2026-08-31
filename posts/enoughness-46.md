@@ -1,7 +1,7 @@
 ---
 title: 純粹地喜歡、內在計分卡、你追求的是履歷表，還是墓誌銘？
 created: 2026-08-28
-modified: 2026-08-30
+modified: 2026-08-31
 issue: 46
 ---
 
@@ -79,7 +79,7 @@ _如果沒人看得到，也不能告訴任何人，你還會買剛剛買下的�
 
 _亞當一號代表人類本質具有企圖心的那一面；亞當二號，則代表追尋意義與使命的另一面。_
 
-Soloveitchik 說，我們終其一生，都處在兩種亞當相互拉扯的局面裡。外在、功利、盛氣凌人的亞當，與內在、謙遜、放下自我的亞當，終究無法水乳交融。取得兩者間的平衡，是人生的必修課。
+Soloveitchik 說，我們終其一生，都處在兩種亞當相互拉扯的局面裡。外在、功利、盛氣凌人的亞當，與內在、謙遜、放下自尊的亞當，終究無法水乳交融。取得兩者間的平衡，是人生的必修課。
 
 《[品格：履歷表與追悼文的抉擇](https://www.books.com.tw/products/0010710263)》（[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)）作者 [David Brooks](https://www.google.com/search?q=David+Brooks) ，在 [TED 演講](https://youtu.be/MlLWTeApqIM) 中，把這兩個亞當，重新解讀為**履歷美德**（résumé virtues）與**悼詞美德**（eulogy virtues）。
 
