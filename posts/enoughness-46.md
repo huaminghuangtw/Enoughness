@@ -1,7 +1,7 @@
 ---
 title: 純粹地喜歡、內在計分卡、你追求的是履歷表，還是墓誌銘？
 created: 2026-08-28
-modified: 2026-09-01
+modified: 2026-09-02
 issue: 46
 ---
 
@@ -83,7 +83,7 @@ Soloveitchik 說，我們終其一生，都處在兩者相互拉扯的局面裡�
 
 《[品格：履歷表與追悼文的抉擇](https://www.books.com.tw/products/0010710263)》（[The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character)）作者 [David Brooks](https://www.google.com/search?q=David+Brooks) ，在 [TED 演講](https://youtu.be/MlLWTeApqIM) 中，把這兩個亞當，重新解讀為**履歷美德**（résumé virtues）與**悼詞美德**（eulogy virtues）。
 
-_履歷美德，是履歷表上那些帶你進入就業市場的技能。悼詞美德，是喪禮上會被提起的點點滴滴：你是誰、你是個怎麼樣的人、你是否勇敢、可靠、待人和善，並且始終如一？_
+_履歷美德，是履歷表上那些帶你進入就業市場的技能。悼詞美德，是喪禮上會被提起的點點滴滴：你是誰、你是個怎麼樣的人、你是否真誠、勇敢、可靠、待人和善，並且始終如一？_
 
 我們的社會偏袒亞當一號，冷落亞當二號。它鼓勵我們擁有了不起的職涯和履歷表上的豐功偉業，卻讓我們對「如何做最好的自己」這個課題，無言以對。
 
