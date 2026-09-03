@@ -1,7 +1,7 @@
 ---
 title: 高球手的智慧、抵達謬誤、過程 > 結果
 created: 2026-08-21
-modified: 2026-08-29
+modified: 2026-09-03
 issue: 45
 ---
 
@@ -39,7 +39,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 訪談結束後幾天，Scottie 以 4 桿優勢稱霸英國公開賽。
 
-我相信，這場勝利不會讓他有多餘的情緒波動，因為他心中已經有很清晰的人生排序。
+我相信，這場勝利不會讓他有多餘的情緒波動。因為在他心中，有很清楚的 [人生優先順序](https://huam.ing/a-calm-mind-a-fit-body-a-house-full-of-love)。
 
 # 2
 
@@ -78,6 +78,8 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 > 幸福人生的第一條規則，就是降低期望。如果抱持不切實際的期望，這輩子都會很痛苦。更好的做法是抱持合理的期望，然後以平靜和堅忍的心態，接受一切好事跟壞事。
 >
 > The first rule of a happy life is low expectations. If you have unrealistic expectations you’re going to be miserable your whole life. You want to have reasonable expectations and take life’s results good and bad as they happen with a certain amount of stoicism.
+
+幸福的祕訣不是雄心壯志，而是降低期望。
 
 樂透彩得主的胃口，被那筆錢養大了。從 \$0 到 \$1,000,000，[第一次的衝擊非常強烈](enoughness-5.md#3)；當一百萬美金變成背景後，簡單的快樂就再也滿足不了膨脹的慾望。
 
