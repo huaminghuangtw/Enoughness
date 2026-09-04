@@ -1,7 +1,7 @@
 ---
 title: 第三類文盲、從 FOMO 走向 JOMO、停止看新聞吧！
 created: 2026-07-31
-modified: 2026-08-10
+modified: 2026-09-03
 issue: 42
 ---
 
