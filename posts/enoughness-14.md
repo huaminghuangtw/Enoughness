@@ -1,7 +1,7 @@
 ---
 title: 現在是現在、木漏れ日、快樂是一種選擇
 created: 2026-01-16
-modified: 2026-08-12
+modified: 2026-09-03
 issue: 14
 ---
 
