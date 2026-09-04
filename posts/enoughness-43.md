@@ -1,7 +1,7 @@
 ---
 title: 磨刀不誤砍柴工、能量管理 > 時間管理、像獅子一樣工作
 created: 2026-08-07
-modified: 2026-08-21
+modified: 2026-09-04
 issue: 43
 ---
 
@@ -51,7 +51,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 這個習慣，是 [其他六個習慣](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) 的基礎 — 它讓我們有能量，持續實踐前面六個習慣。
 
-**磨刀不誤砍柴工。今天，你打算磨哪一把？**
+_磨刀不誤砍柴工。今天，你打算磨哪一把？_
 
 # 2
 
