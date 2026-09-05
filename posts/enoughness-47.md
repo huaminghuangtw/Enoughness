@@ -18,7 +18,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 你有沒有過這樣的一天？從早忙到晚，像一隻無頭蒼蠅，到了睡前，仍覺得一事無成。
 
-這是 [搖搖馬](https://www.google.com/search?q=搖搖馬&udm=2) 一天：看起來很賣力，卻永遠停在原地。
+這是三年的我，也是 [搖搖馬](https://www.google.com/search?q=搖搖馬&udm=2) 的一天：看起來很賣力，卻還是停在原地。
 
 ![](https://media.huam.ing/image/c873937f6ccbd12a3290791c55fdef60.webp)
 
@@ -66,7 +66,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 **拒絕被催促，來自 [對優先順序的深刻理解](enoughness-38.md#2)**。當你很清楚什麼是 [最重要的事情](enoughness-38.md#3) 時，就不會被瑣碎的事情打斷，也不會被 [外界的雜訊](enoughness-42.md#3) 分心。你就能夠**少做、放慢、重質**。
 
-馬拉松世界裡，有個反直覺的訓練原則：**想變快，先跑慢**。長距離慢跑，透過「能邊跑邊聊天」的速度，一週一週地打底；有氧基礎夠了，比賽配速自然會快起來。[在第 20 期我寫過](enoughness-20.md#3)：輕鬆日愈輕鬆，辛苦日才有本錢愈辛苦。
+馬拉松世界裡，有個反直覺的訓練原則：**想變快，先跑慢**。長距離慢跑，透過「能邊跑邊聊天」的速度，一週一週打底；有氧基礎夠了，比賽配速自然會快起來。[在第 20 期我寫過](enoughness-20.md#3)：輕鬆日愈輕鬆，辛苦日才有本錢愈辛苦。
 
 Don’t hurry, don’t stop，是精工錶（SEIKO WATCH）創辦人 [服部金太郎](https://www.google.com/search?q=Kintaro+Hattori) 一生的心得。[他說](https://museum.seiko.co.jp/en/seiko_history/founder/founder/002/#:~:text=If%20you%20hurry%2C%20you%20must%20rest.%20If%20you%20want%20to%20keep%20going%20without%20resting%2C%20then%20you%20mustn%E2%80%99t%20hurry.%E2%80%9D)：
 
@@ -86,7 +86,7 @@ Don’t hurry, don’t stop，是精工錶（SEIKO WATCH）創辦人 [服部金�
 
 緩慢，停滯；然後，瞬間。
 
-![](https://media.huam.ing/image/35d8f95d48fd36d3b28bea2e5d83c75b.webp)
+![](https://media.huam.ing/image/7870ac988a916284c731541e0a4b4a47.webp)
 
 [侯世達定律](https://www.google.com/search?q=侯世達定律)（Hofstadter’s Law）指出：
 
