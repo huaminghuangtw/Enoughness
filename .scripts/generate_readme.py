@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""Generate the public-facing Enoughness README (index of all issues).
-
-Reads the canonical self-intro from the T_Enoughness template and the
-title/issue from each post's frontmatter (the source of truth), then writes
-`Enoughness/README.md` as a bulleted list (newest first) mirroring the
-actual structure.
-
-Published posts only: files with `draft: true` in frontmatter are skipped,
-so the public README never links to unpublished issues.
-"""
 
 import re
 import sys
@@ -33,19 +23,12 @@ DRAFT_RE = re.compile(r"^draft:\s*true\s*$", re.M)
 
 
 def read_self_intro() -> str:
-    """Return the canonical self-intro paragraph (italic line between markers)."""
-    if not TEMPLATE.exists():
-        print(f"error: template not found: {TEMPLATE}", file=sys.stderr)
-        sys.exit(1)
     text = TEMPLATE.read_text(encoding="utf-8")
     m = re.search(
         rf"{re.escape(START_MARKER)}\s*(.*?)\s*{re.escape(END_MARKER)}",
         text,
         re.S,
     )
-    if not m:
-        print("error: could not find SELF-INTRO markers in template", file=sys.stderr)
-        sys.exit(1)
     return m.group(1).strip()
 
 
@@ -81,14 +64,13 @@ def main() -> None:
     ]
 
     content = (
-        "# Enoughness 歷年電子報\n\n"
+        "# Enoughness\n\n"
         f"{intro}\n\n"
         + "\n".join(lines)
         + "\n"
     )
 
     README.write_text(content, encoding="utf-8")
-    print(f"wrote {README} ({len(lines)} issues)")
 
 
 if __name__ == "__main__":
