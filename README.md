@@ -2,6 +2,7 @@
 
 _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam.ing/writing)、[耐力運動](https://www.strava.com/athletes/huaminghuang)、[用手機寫程式](https://github.com/huaminghuangtw)。Enoughness，剛剛好，是我從 2023 年開始每天練習的生活哲學。每週，我會分享三個想法，陪拒絕平庸的你打造「剛剛好」的生活。如果這封信是朋友轉寄給你的，歡迎 [點此訂閱](https://huam.ing/newsletter)。想看看過往內容？[歷年電子報](https://huam.ing/enoughness) 都在這裡。_
 
+* #47 [忙，不等於生產力、慢慢來，比較快、有時候，花時間才是捷徑。](https://huam.ing/enoughness-47)
 * #46 [純粹地喜歡、內在計分卡、你追求的是履歷表，還是墓誌銘？](https://huam.ing/enoughness-46)
 * #45 [高球手的智慧、抵達謬誤、過程 > 結果](https://huam.ing/enoughness-45)
 * #44 [再救一個就好、五分鐘的力量、兩分鐘版本](https://huam.ing/enoughness-44)
