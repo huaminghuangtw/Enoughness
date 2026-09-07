@@ -1,7 +1,7 @@
 ---
 title: TED×Taipei 2025 年會、自愛 ≠ 自私、水煮蛋的啟示
 created: 2025-11-14
-modified: 2026-09-03
+modified: 2026-09-05
 issue: 5
 ---
 
