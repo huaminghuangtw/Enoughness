@@ -1,7 +1,7 @@
 ---
 title: 忙，不等於生產力、慢慢來，比較快、有時候，花時間才是捷徑。
 created: 2026-09-04
-modified: 2026-09-05
+modified: 2026-09-06
 draft: false
 issue: 47
 ---
@@ -16,7 +16,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 # 1
 
-你有沒有過這樣的一天？從早忙到晚，像一隻無頭蒼蠅，到了睡前，仍覺得一事無成。
+從早忙到晚，像一隻無頭蒼蠅，到了睡前，仍覺得一事無成。
 
 這是三年的我，也是 [搖搖馬](https://www.google.com/search?q=搖搖馬&udm=2) 的一天：看起來很賣力，卻還是停在原地。
 
@@ -38,17 +38,15 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 # 2
 
-這幾年，我不斷嘗試體會李小龍 [說的](https://youtu.be/e78SV6EjTQg?t=27s)：
+這幾年，我不斷嘗試體會李小龍「似水無形」的心境：
 
-> 清空你的心，似水無形。
->
-> Empty your mind. Be formless, shapeless, like water.
+> [Empty your mind. Be formless, shapeless, like water.](https://youtu.be/e78SV6EjTQg?t=27s)
 
 水遇到障礙時，不會硬碰硬，而是繞過去。它永遠放鬆，也無時無刻做好準備。
 
 我想練習隨時都處在「[專注，但放鬆](https://www.books.com.tw/products/0010886557)」的狀態：行雲流水、從容不迫、不疾不徐。
 
-當一個人進入這種境界時，他是全速前進的。因為力氣都沒有浪費在停留、對抗與多餘的動作上。聽起來很玄，但大概就是公園裡練 [太極拳](enoughness-31.md#3) 阿伯的狀態。
+當一個人進入這種境界時，他是全速前進的。因為力氣都沒有浪費在遲疑、停留與多餘的掙扎上。聽起來很玄，但大概就是公園裡練 [太極拳](enoughness-31.md#3) 阿伯的狀態。
 
 美國作家 [Thomas M. Sterner](https://www.google.com/search?q=Thomas+M.+Sterner) 在《[練習的心境](https://www.books.com.tw/products/E050064145)》（[The Practicing Mind](https://www.goodreads.com/book/show/335864.The_Practicing_Mind)）寫道：
 
@@ -80,7 +78,7 @@ Don’t hurry, don’t stop，是精工錶（SEIKO WATCH）創辦人 [服部金�
 
 # 3
 
-二十幾歲時，我犯過一個錯誤：**用「快」的方式，去做那些本來就該「慢」的事**。事業、關係、健康、快樂、習慣 — 這些東西的好處，都來自 [複利](https://nav.al/long-term)；它們都需要很長的時間去打造。短視近利的我，卻總是想抄捷徑、急著看到結果。
+二十幾歲時，我犯過一個錯誤：**用「快」的方式，去做那些本來該「慢」的事**。事業、關係、健康、快樂、習慣 — 這些東西的好處，都來自 [複利](https://nav.al/long-term)；它們都需要很長的時間去打造。短視近利的我，卻總是想抄捷徑、急著看到結果。
 
 大腦天生習慣線性思考，但複利是非線性的：前十年幾乎看不出變化；最後十年，一切加速才發生。就像 [竹子](enoughness-40.md#3)，前幾年看起來幾乎沒長，其實都在蹲馬步、向下扎根；到了第五年，才一夜竄高。
 
@@ -90,7 +88,7 @@ Don’t hurry, don’t stop，是精工錶（SEIKO WATCH）創辦人 [服部金�
 
 [侯世達定律](https://www.google.com/search?q=侯世達定律)（Hofstadter’s Law）指出：
 
-> 複雜任務所需花費的時間難以估計，即使你已經考慮侯世達定律。
+> 複雜任務花費的時間難以估計，即使你已經考慮侯世達定律。
 
 年紀越大，我越加確定：這個世界上，沒有立竿見影這回事。大部分的人生賽局，都是 [業餘比賽](enoughness-20.md#2) — 不必一開始就很厲害，只要 [每天穩定配速、把小事做好](enoughness-39.md#3)。
 
