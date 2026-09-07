@@ -1,7 +1,7 @@
 ---
 title: 傳奇之所以為傳奇、跌倒就站起來、Kobe Bryant 與曼巴精神
 created: 2026-05-22
-modified: 2026-08-28
+modified: 2026-09-05
 issue: 32
 ---
 
