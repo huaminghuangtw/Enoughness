@@ -1,7 +1,7 @@
 ---
 title: 快思慢想、一次只做一件事、無心之心
 created: 2026-05-15
-modified: 2026-09-03
+modified: 2026-09-05
 issue: 31
 ---
 
