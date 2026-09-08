@@ -1,7 +1,7 @@
 ---
 title: 忙，不等於生產力、慢慢來，比較快、有時候，花時間才是捷徑。
 created: 2026-09-04
-modified: 2026-09-06
+modified: 2026-09-08
 draft: false
 issue: 47
 ---
@@ -32,7 +32,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 >
 > If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.
 
-做好、做精、不做多。在開始任何行動之前，我們可以先想想：「**這件事是該做的嗎？**」（效能），然後再考慮：「**如何把這件事做好？**」（效率）。
+做好、做精、不做多。在開始任何行動之前，我們可以先想想：「**這件事值得做嗎？**」（效能），然後再考慮：「**如何把這件事做好？**」（效率）。
 
 如果方向錯了，即使做得再好，只是徒勞無功、白忙一場。
 
