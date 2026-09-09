@@ -1,7 +1,7 @@
 ---
 title: 忙，不等於生產力、慢慢來，比較快、有時候，花時間才是捷徑。
 created: 2026-09-04
-modified: 2026-09-08
+modified: 2026-09-09
 draft: false
 issue: 47
 ---
@@ -56,7 +56,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 讀完 [Cal Newport](https://www.google.com/search?q=Cal+Newport) 的《[慢速工作力](https://www.books.com.tw/products/0011006100)》（[Slow Productivity](https://www.goodreads.com/en/book/show/197773418-slow-productivity)）後，我發現「**拒絕被催促**」，正是達到「**專注，但放鬆**」的關鍵。
 
-書中提到三個工作原則：
+全書圍繞在三個工作原則：
 
 1. **少做**（Doing fewer things）
 2. **放慢**（Working at a natural pace）
