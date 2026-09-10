@@ -1,7 +1,7 @@
 ---
 title: Kevin Kelly、九十年學到的九件事、2025 年最棒的習慣
 created: 2026-01-09
-modified: 2026-09-05
+modified: 2026-09-10
 issue: 13
 ---
 
@@ -22,6 +22,10 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 Kevin is currently co-chair of [The Long Now Foundation](http://www.longnow.org/), which is building a clock in a mountain that will tick for 10,000 years.
 
 > [“One of the few scarcities in the future will be a long attention span.” — Kevin Kelly](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
+
+有個有趣的例子，可以看出貝佐斯真的是個習慣看得很長遠、很長遠的人，他出資建造「萬年鐘」（10000 Year Clock），每一百年走一格，要計時一萬年不停擺。萬年鐘在啟動 10 周年、100 周年、1000 周年和 1 萬周年時，都會舉辦特別的紀念活動；貝佐斯開玩笑說，他大概只能參加前面的兩次吧。
+
+大會第二天，貝佐斯站上講台，與佛格爾斯對談。他很難得在這樣的公眾場合談到個人的一些計畫，如工程師已準備將恆今基金會的萬年鐘設置於他在德州的土地上—這是一個外觀似老爺鐘、每一千年會報時一次的巨鐘。他說：「這個鐘是個重要象徵。因為如果人類能夠長遠思考，就能達成很多原本做不到的事。眼光放遠非常重要。另外，我要指出的是，如果人類發展科技到非常複雜的地步，反而可能為我們帶來威脅。在我看來，我們這個物種應該多為長遠著想。因此，這個萬年鐘是一個象徵。我認為象徵有很強大的力量。」
 
 TED Talk [The Future Will Be Shaped by Optimists](https://youtu.be/FrqBWQ-mVEc)
 
