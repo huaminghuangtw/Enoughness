@@ -1,7 +1,7 @@
 ---
 title: 大腦饕客、投資報酬率驚人的微運動、瑞典人的幸福密碼
 created: 2025-10-24
-modified: 2026-09-05
+modified: 2026-09-11
 issue: 2
 ---
 
@@ -25,7 +25,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 # 2
 
-長時間久坐、搭車或參加 Zoom 視訊會議時，不妨試試「比目魚肌伏地挺身」（[Soleus Push-Up](https://www.google.com/search?q=Soleus+Push-Up)）吧！
+長時間 [久坐](enoughness-41.md#1)、搭車或參加 Zoom 視訊會議時，不妨試試「比目魚肌伏地挺身」（[Soleus Push-Up](https://www.google.com/search?q=Soleus+Push-Up)）吧！
 
 美國休士頓大學的 [研究](https://doi.org/10.1016/j.isci.2022.104869) 發現，持續進行這個提踵運動（[Heel Raise](https://www.google.com/search?q=Heel+Raise)），能顯著穩定血糖，對於改善新陳代謝非常有幫助。
 
