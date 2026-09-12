@@ -1,7 +1,7 @@
 ---
 title: 奇異果的皮可以吃、不要擔心，要關心、先當學生，再當運動員
 created: 2026-03-27
-modified: 2026-09-11
+modified: 2026-09-12
 issue: 24
 ---
 
@@ -77,7 +77,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 網壇傳奇、擁有 20 座大滿貫冠軍、人稱「瑞士特快車」的 [Roger Federer](https://www.google.com/search?q=Roger+Federer)，在 2024 年達特茅斯學院（[Dartmouth College](https://www.google.com/search?q=Dartmouth+College)）的畢業典禮上，和台下年輕人分享了 [這段話](https://youtu.be/pqWUuYTcG-o?t=890s)：
 
-> 負能量只是在浪費精力。你必須成為一個擅長克服艱難時刻的大師 — 在我看來，那才是冠軍的標誌。世界上最頂尖的人之所以頂尖，並非因為他們贏下每一球，而是因為他們知道，自己會一次又一次地輸掉，卻仍舊學習如何與之共處。你接受它，如果需要的話，痛快地哭一場。然後，強迫自己擠出微笑。
+> 負能量只是在浪費精力。你必須成為一個擅長克服艱難時刻的大師 — 在我看來，那才是冠軍的標誌。世界上最頂尖的人之所以頂尖，並非因為他們贏下每一球，而是因為他們知道，自己會一次又一次地輸掉，仍舊學習如何與之共處。你接受它，如果需要的話，痛快地哭一場。然後，強迫自己擠出微笑。
 >
 > Negative energy is wasted energy. You want to become a master at overcoming hard moments. That is to me the sign of a champion. The best in the world are not the best because they win every point. It’s because they know they will lose again and again, and have learnt how to deal with it. You accept it, cry it out if you need to, and then force a smile.
 
