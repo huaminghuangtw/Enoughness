@@ -1,7 +1,7 @@
 ---
 title: 沒有人關注時，你是什麼樣的人、我們手牽手穿牆而過、費德勒的三堂人生網球課
 created: 2026-09-11
-modified: 2026-09-11
+modified: 2026-09-12
 issue: 48
 ---
 
@@ -25,7 +25,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 蜜爾卡說，費德勒從一開始就希望自己愛的人在身邊，這是她最欣賞費德勒的地方 — **不只是作為一名網球員，而是作為一個人**。
 
-她提到第一次懷雙胞胎時（兩人育有兩對雙胞胎，兩男兩女），擔心自己無法再跟著丈夫到處征戰。沒想到費德勒毫不猶豫地說：
+她提到第一次懷雙胞胎時（兩人育有兩對雙胞胎，兩女兩男），擔心自己無法再跟著丈夫到處征戰。沒想到，費德勒毫不猶豫地說：
 
 > 那我就不打了。
 >
@@ -89,7 +89,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 >
 > The truth is I had to work very hard to make it look easy.
 
-某次在義大利公開賽，一位對手公開質疑他的心理素質：
+某次在義大利比賽，一位對手公開質疑他的心理素質：
 
 > 前兩個小時，Roger 會是熱門；在那之後，熱門就是我。
 >
@@ -101,11 +101,11 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 >
 > Winning effortlessly is the ultimate achievement.
 
-這些年，外界經常讚美費德勒充滿協調性的球風。行雲流水的單手反拍、輕盈流暢的步伐；看他打球，是視覺上的饗宴，彷彿在欣賞優雅的紳士表演。
+這些年，外界經常讚美費德勒充滿協調性的球風：行雲流水的單手反拍、輕盈流暢的步伐。看他打球，是視覺上的饗宴，彷彿在欣賞優雅的紳士表演。
 
 由於他的賽前熱身實在太慵懶、太輕鬆寫意，大家還以為他沒在練球。費德勒說：
 
-> 我必須非常努力 — 在比賽之前，**在沒有人看的時候**。我不是靠純粹的天賦走到今天，我是靠比對手更努力。我相信自己 — **但「相信自己」這件事，是要靠努力掙來的**。
+> 我必須非常努力 — 在比賽之前，**在沒有人看的時候**。我不是單靠天賦走到今天，我是靠比對手更努力。我相信自己 — **但「相信自己」這件事，是要努力掙來的**。
 >
 > I had been working hard before the tournament when nobody was watching. […] I didn’t get where I got on pure talent alone. I got there by trying to outwork my opponents. I believed in myself, but belief in yourself has to be earned.
 
@@ -141,7 +141,7 @@ _世界上最危險的人，是即使在回報還不確定的時候，依然每�
 
 這次失敗，教會他如何調整心態：
 
-> 當你在爭取一分時，它就是全世界最重要的事。但當那一分過去了，它就過去了。這種心態非常關鍵，因為它讓你能帶著強而有力的清晰與專注，投入下一分。說到底，不管做什麼，有時候，你就是會輸掉一分：一場比賽、一個賽季、一份工作。
+> 當你在爭取一分時，它就是當下全世界最重要的事。但，當那一分過去了，它就過去了。這種心態非常關鍵，因為它讓你帶著極佳的清晰度與專注力，投入下一分。說到底，不管做什麼，有時候你就是會輸掉一分：一場比賽、一個賽季、一份工作。
 >
 > When you’re playing a point, it has to be the most important thing in the world and it is. But when it’s behind you, it’s behind you. This mindset is really crucial, because it frees you to fully commit to the next point and the next point after that with intensity, clarity, and focus. The truth is, whatever game you play in life, sometimes, you’re going to lose a point, a match, a season, a job.
 
@@ -151,7 +151,7 @@ _沒有淤泥，就沒有蓮花_。所以，**永遠持續前進**。無論發�
 
 他接著說：
 
-> 負能量只是在浪費精力。你必須成為一個擅長克服艱難時刻的大師 — 在我看來，那才是冠軍的標誌。世界上最頂尖的人之所以頂尖，並非因為他們贏下每一球，而是因為他們知道，自己會一次又一次地輸掉，卻仍舊學習如何與之共處。你接受它，如果需要的話，痛快地哭一場。然後，強迫自己擠出微笑。
+> 負能量只是在浪費精力。你必須成為一個擅長克服艱難時刻的大師 — 在我看來，那才是冠軍的標誌。世界上最頂尖的人之所以頂尖，並非因為他們贏下每一球，而是因為他們知道，自己會一次又一次地輸掉，仍舊學習如何與之共處。你接受它，如果需要的話，痛快地哭一場。然後，強迫自己擠出微笑。
 >
 > But negative energy is wasted energy. You want to become a master at overcoming hard moments. That is, to me, the sign of a champion. The best in the world are not the best because they win every point. It’s because they know they’ll lose again and again, and have learned how to deal with it. You accept it, cry it out if you need to, and then force a smile.
 
@@ -159,7 +159,7 @@ _沒有淤泥，就沒有蓮花_。所以，**永遠持續前進**。無論發�
 
 一座網球場很小。單打場地，比一間宿舍大不了多少。費德勒在那個空間裡，跑了無數公里。但這個世界，比網球場大太多了。
 
-所以在 22 歲那年，費德勒受南非裔母親的鼓舞，創辦了專注於「學前教育」（Early Childhood Education）的 [基金會](https://federerfoundation.org)。他說，在賴索托（[Lesotho](https://www.google.com/maps?q=Lesotho)）、尚比亞（[Zambia](https://www.google.com/maps?q=Zambia)）等撒哈拉以南的非洲國家，有 75% 的孩子沒有機會接受學前教育。
+所以在 22 歲那年，費德勒受到南非裔母親的鼓舞，創辦了專注於「學前教育」（Early Childhood Education）的 [基金會](https://federerfoundation.org)。他說，在賴索托（[Lesotho](https://www.google.com/maps?q=Lesotho)）、尚比亞（[Zambia](https://www.google.com/maps?q=Zambia)）等撒哈拉以南的非洲國家，有 75% 的孩子沒有機會接受學前教育。
 
 > 我開始做這件事的時候，並不覺得自己準備好了。我 22 歲，除了網球，對其他事都沒頭緒。但有時候，你就是得先跨出那一步，然後再想辦法。
 >
@@ -185,7 +185,11 @@ _沒有淤泥，就沒有蓮花_。所以，**永遠持續前進**。無論發�
 >
 > Congratulations again, Class of 2024!
 
-謝謝你，Roger。你是我從小到大的榜樣。謝謝你始終真誠、表裡如一；謝謝你在沒有人看的時候，依然 [純粹地熱愛](enoughness-46.md#1) 網球和周遭的人事物。我永遠不會忘記那位場上總是戴著頭帶、場下總是帶著謙卑的瑞士特快車 🇨🇭
+我覺得自己很幸運，能活在 [Big 3](https://www.google.com/search?q=Big+Three+Tennis) 𓃵 的年代，見證無數次創造歷史的時刻。
+
+謝謝你，Roger。你是我 [從小到大的榜樣](enoughness-32.md#3)；謝謝你始終真誠、表裡如一；謝謝你在沒有人看的時候，依然 [純粹地熱愛](enoughness-46.md#1) 網球，和周遭的人事物。
+
+我永遠不會忘記那位場上戴著頭帶、場下總是帶著謙卑的瑞士特快車 🇨🇭
 
 ![](https://media.huam.ing/image/fc7f2290e0ca349a6b201af87e4b9538.avif "圖片來源：[Getty Images](https://www.gettyimages.com)")
 
