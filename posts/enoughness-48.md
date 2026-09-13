@@ -1,7 +1,7 @@
 ---
 title: 沒有人關注時，你是什麼樣的人、我們手牽手穿牆而過、費德勒的三堂人生網球課
 created: 2026-09-11
-modified: 2026-09-12
+modified: 2026-09-13
 issue: 48
 ---
 
@@ -159,13 +159,13 @@ _沒有淤泥，就沒有蓮花_。所以，**永遠持續前進**。無論發�
 
 一座網球場很小。單打場地，比一間宿舍大不了多少。費德勒在那個空間裡，跑了無數公里。但這個世界，比網球場大太多了。
 
-所以在 22 歲那年，費德勒受到南非裔母親的鼓舞，創辦了專注於「學前教育」（Early Childhood Education）的 [基金會](https://federerfoundation.org)。他說，在賴索托（[Lesotho](https://www.google.com/maps?q=Lesotho)）、尚比亞（[Zambia](https://www.google.com/maps?q=Zambia)）等撒哈拉以南的非洲國家，有 75% 的孩子沒有機會接受學前教育。
+22 歲那年，受到南非裔母親的鼓舞，費德勒創辦了專注於「學前教育」（Early Childhood Education）的 [基金會](https://federerfoundation.org)。他說，在賴索托（[Lesotho](https://www.google.com/maps?q=Lesotho)）、尚比亞（[Zambia](https://www.google.com/maps?q=Zambia)）等撒哈拉以南的非洲國家，有 75% 的孩子沒有機會接受學前教育。
 
 > 我開始做這件事的時候，並不覺得自己準備好了。我 22 歲，除了網球，對其他事都沒頭緒。但有時候，你就是得先跨出那一步，然後再想辦法。
 >
 > I started the foundation before I thought I was ready. I was 22 at the time… I was not ready for anything other than tennis. But sometimes… you’ve got to take a chance and then figure it out.
 
-費德勒很早就知道，**網球可以帶他看世界，但網球不可能是他的全世界**。他告訴大家，每個人都能付出，都能用自己獨特的方式，為世界服務；每個人都可以把自身的想法、時間、精力，投入一件**比自己更大的使命**。因為**人生，真的比球場大太多了**。
+費德勒很早就知道，**網球可以帶他看世界，但網球不是他的全世界**。他告訴大家，每個人都能付出，都能用自己獨特的方式，為世界服務；每個人都可以把自身的想法、時間、精力，投入一件**比自己更大的使命**。因為**人生，真的比球場大太多了**。
 
 ---
 
@@ -185,9 +185,9 @@ _沒有淤泥，就沒有蓮花_。所以，**永遠持續前進**。無論發�
 >
 > Congratulations again, Class of 2024!
 
-我覺得自己很幸運，能活在 [Big 3](https://www.google.com/search?q=Big+Three+Tennis) 𓃵 的年代，見證無數次創造歷史的時刻。
+我覺得自己很幸運，能活在 [Big 3](https://www.google.com/search?q=Big+3+網球) 𓃵 的年代，見證無數次創造歷史的時刻。
 
-謝謝你，Roger。你是我 [從小到大的榜樣](enoughness-32.md#3)；謝謝你始終真誠、表裡如一；謝謝你在沒有人看的時候，依然 [純粹地熱愛](enoughness-46.md#1) 網球，和周遭的人事物。
+謝謝你，Roger。你是我 [從小到大的榜樣](enoughness-32.md#3)。謝謝你始終真誠、表裡如一；謝謝你在沒有人看的時候，依然 [純粹地熱愛](enoughness-46.md#1) 網球，和周遭的人事物。
 
 我永遠不會忘記那位場上戴著頭帶、場下總是帶著謙卑的瑞士特快車 🇨🇭
 
