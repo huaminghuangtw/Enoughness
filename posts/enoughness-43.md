@@ -1,7 +1,7 @@
 ---
 title: 磨刀不誤砍柴工、能量管理 > 時間管理、像獅子一樣工作
 created: 2026-08-07
-modified: 2026-09-05
+modified: 2026-09-14
 issue: 43
 ---
 
@@ -96,6 +96,8 @@ _磨刀不誤砍柴工。今天，你打算磨哪一把？_
 人生有四種速度：**休息**、**散步**、**衝刺**、**慢跑**。多數人的預設是慢跑；厲害的高手，只會用到三種：**休息**、**散步**、**衝刺**，沒有慢跑。
 
 但說到能量管理大師，就不得不提非洲草原之王：獅子 🦁
+
+![](https://media.huam.ing/image/3678dde614d5b7c3c5f74d612e02fbdf.webp "圖片來源：[Flickr](https://flic.kr/p/2sArnYi)")
 
 [據說](https://www.lioninsidelive.com/lion-inside-live-blog/why-do-lions-sleep-so-much)，獅子一天要睡上 20 小時。牠們不會整天追著獵物跑；大部分時間都在休息、觀察，只在出手那一刻全力衝刺。
 
