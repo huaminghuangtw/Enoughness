@@ -1,7 +1,7 @@
 ---
 title: 晚安，地球、不完美中的完美、讓生活繞著睡眠旋轉
 created: 2025-12-26
-modified: 2026-09-05
+modified: 2026-10-12
 issue: 11
 ---
 
@@ -48,8 +48,6 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 當我學會把視角拉遠到大氣層外，原本那些過不去的坎，也都變得微不足道。
 
 **我終於能夠跟自己和解，找回那個「自律但不焦慮」的工作節奏。**
-
-👉 如果你也正處於高壓狀態，或被忙碌所困，推薦你閱讀這篇文章：_[Why I Watch the Earth Spin Every Night Before Bed](https://huam.ing/why-i-watch-the-earth-spin-every-night-before-bed/)_
 
 # 2
 
