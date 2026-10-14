@@ -1,7 +1,7 @@
 ---
 title: 世界上最有價值的房地產、人生五大後悔、最深的恐懼
 created: 2025-10-31
-modified: 2026-09-05
+modified: 2026-10-14
 issue: 3
 ---
 
@@ -82,7 +82,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 快樂，是健康的身體，加上一點點健忘。
 
-快樂，是可以透過 [刻意練習](https://readingoutpost.com/peak-deliberate-practice) 不斷精進的技能。
+快樂，是可以透過刻意練習，不斷精進的技能。
 
 快樂，是感到什麼都不缺、一切都完整的心靈狀態。
 
