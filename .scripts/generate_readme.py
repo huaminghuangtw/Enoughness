@@ -8,10 +8,7 @@ BASE = Path(__file__).resolve().parent.parent
 POSTS_DIR = BASE / "posts"
 README = BASE / "README.md"
 
-TEMPLATE = Path(
-    "/Users/huaminghuang/Library/Mobile Documents/"
-    "iCloud~md~obsidian/Documents/Second-Brain/Templates/T_Enoughness.md"
-)
+TEMPLATE = Path(__file__).parent / "self_intro.md"
 
 START_MARKER = "<!-- SELF-INTRO-START -->"
 END_MARKER = "<!-- SELF-INTRO-END -->"
