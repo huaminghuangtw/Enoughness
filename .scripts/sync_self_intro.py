@@ -1,10 +1,7 @@
 import sys
 from pathlib import Path
 
-TEMPLATE = Path(
-    "/Users/huaminghuang/Library/Mobile Documents/"
-    "iCloud~md~obsidian/Documents/Second-Brain/Templates/T_Enoughness.md"
-)
+TEMPLATE = Path(__file__).parent / "self_intro.md"
 
 POSTS_DIR = Path(__file__).parent.parent / "posts"
 
