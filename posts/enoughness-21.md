@@ -1,7 +1,7 @@
 ---
 title: 吃個味道就好、微互動的力量、簡單生活
 created: 2026-03-06
-modified: 2026-09-05
+modified: 2026-10-24
 issue: 21
 ---
 
@@ -61,13 +61,13 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 來自肯亞的馬拉松之神 [Eliud Kipchoge](https://www.google.com/search?q=Eliud+Kipchoge) 說：
 
-> It’s not about the legs, but the heart and mind.
->
 > 這不是關於雙腳，而是關於心靈和思想。
-
-> In life, the idea is to be happy. I believe in calm, simple, low-profile life. You live simple, you train hard, and live an honest life. Then you are free.
 >
+> It’s not about the legs, but the heart and mind.
+
 > 人活著就是要快樂。我相信平靜、簡單、低調的生活。你過得樸實，努力訓練，誠實地過每一天，這樣你就自由了。
+>
+> In life, the idea is to be happy. I believe in calm, simple, low-profile life. You live simple, you train hard, and live an honest life. Then you are free.
 
 嗯，沒有比每天努力工作、訓練，好好吃飯、大便、睡覺，更棒的生活品質了！☺️
 
